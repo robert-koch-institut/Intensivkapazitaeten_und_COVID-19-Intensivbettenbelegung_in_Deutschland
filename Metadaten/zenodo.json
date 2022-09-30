@@ -66,11 +66,11 @@
     "Patientenaufnahme",
     "Krankenhausbettenkapazität",
     "Bettenbelegung",
-	"Respiration, Artificial",
-	"Intensive Care Units",
-	"Patient Admission",
-	"Hospital Bed Capacity",
-	"Bed Occupancy",
+    "Respiration, Artificial",
+    "Intensive Care Units",
+    "Patient Admission",
+    "Hospital Bed Capacity",
+    "Bed Occupancy",
     "Deutschland",
     "Germany",
     "Open Data",
@@ -94,12 +94,12 @@
       "identifier": "info:ddc/22/eng//614.4"
     }
   ],
-  "publication_date": "2022-09-29T14:36:10+02:00",
-  "version": "2022-09-29",
+  "publication_date": "2022-09-30T15:35:02+02:00",
+  "version": "2022-09-30",
   "dates": [
     {
       "start": "2020-04-24",
-      "end": "2022-09-29",
+      "end": "2022-09-30",
       "type": "Collected"
     }
   ]
