@@ -990,7 +990,8 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,anzahl_meldebereiche,faell
 2022-12-03,08,Baden-Württemberg,Erwachsene,120,73,9,1740,227,903,222,84,0,27,25,54,14,0,0,73,11
 2022-12-04,08,Baden-Württemberg,Erwachsene,120,74,13,1740,228,895,211,82,0,29,24,52,15,0,0,72,8
 2022-12-05,08,Baden-Württemberg,Erwachsene,121,70,18,1743,242,895,214,80,0,28,23,55,15,1,0,72,12
-2022-12-06,08,Baden-Württemberg,Erwachsene,121,84,NA,1788,211,897,197,75,0,28,23,55,15,1,0,71,13
+2022-12-06,08,Baden-Württemberg,Erwachsene,121,84,12,1788,211,897,197,75,0,28,23,55,15,1,0,71,13
+2022-12-07,08,Baden-Württemberg,Erwachsene,121,85,NA,1783,209,893,191,82,0,27,24,54,16,1,0,72,14
 2020-03-20,09,Bayern,Erwachsene,45,61,NA,77,392,0,237,0,0,37,5,1,2,0,0,0,0
 2020-03-21,09,Bayern,Erwachsene,54,67,NA,309,444,0,279,0,0,45,5,2,2,0,0,0,0
 2020-03-22,09,Bayern,Erwachsene,59,82,NA,425,454,0,293,0,0,48,6,3,2,0,0,0,0
@@ -1981,8 +1982,9 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,anzahl_meldebereiche,faell
 2022-12-02,09,Bayern,Erwachsene,201,107,15,2755,289,545,272,81,0,51,47,74,29,5,1,107,35
 2022-12-03,09,Bayern,Erwachsene,201,109,19,2702,311,540,291,90,0,54,47,71,29,5,1,105,34
 2022-12-04,09,Bayern,Erwachsene,201,115,16,2648,341,547,306,103,0,53,48,71,29,3,1,106,32
-2022-12-05,09,Bayern,Erwachsene,202,125,22,2667,348,548,287,98,0,53,44,76,29,3,1,106,31
-2022-12-06,09,Bayern,Erwachsene,202,138,NA,2790,251,541,242,82,0,52,45,77,28,3,1,107,34
+2022-12-05,09,Bayern,Erwachsene,202,125,23,2667,348,548,287,98,0,53,44,76,29,3,1,106,31
+2022-12-06,09,Bayern,Erwachsene,202,138,14,2790,251,541,242,82,0,52,45,77,28,3,1,107,34
+2022-12-07,09,Bayern,Erwachsene,202,117,NA,2794,252,537,240,83,0,50,46,78,28,2,1,105,35
 2020-03-20,11,Berlin,Erwachsene,22,9,NA,114,157,0,105,0,0,18,2,1,1,0,0,0,0
 2020-03-21,11,Berlin,Erwachsene,31,20,NA,266,203,0,141,0,0,28,2,1,0,0,0,0,0
 2020-03-22,11,Berlin,Erwachsene,33,22,NA,272,218,0,148,0,0,30,2,1,0,0,0,0,0
@@ -2974,7 +2976,8 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,anzahl_meldebereiche,faell
 2022-12-03,11,Berlin,Erwachsene,55,43,6,878,66,288,57,16,0,15,13,19,8,0,0,30,8
 2022-12-04,11,Berlin,Erwachsene,55,46,11,871,79,287,60,16,0,15,13,19,8,0,0,30,8
 2022-12-05,11,Berlin,Erwachsene,55,56,10,865,75,293,55,16,0,14,13,20,8,0,0,28,8
-2022-12-06,11,Berlin,Erwachsene,55,57,NA,882,71,296,51,14,0,15,11,21,8,0,0,27,8
+2022-12-06,11,Berlin,Erwachsene,55,57,9,882,71,296,51,14,0,15,11,21,8,0,0,27,8
+2022-12-07,11,Berlin,Erwachsene,55,58,NA,877,68,290,48,11,0,15,12,20,8,0,0,26,8
 2020-03-20,12,Brandenburg,Erwachsene,20,2,NA,50,142,0,81,0,0,15,4,1,0,0,0,0,0
 2020-03-21,12,Brandenburg,Erwachsene,24,2,NA,107,157,0,85,0,0,19,4,1,0,0,0,0,0
 2020-03-22,12,Brandenburg,Erwachsene,25,2,NA,141,169,0,102,0,0,20,3,2,0,0,0,0,0
@@ -3966,7 +3969,8 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,anzahl_meldebereiche,faell
 2022-12-03,12,Brandenburg,Erwachsene,48,33,5,503,97,294,72,16,0,20,8,14,6,1,0,22,2
 2022-12-04,12,Brandenburg,Erwachsene,48,34,10,479,119,295,88,19,0,21,6,15,6,1,0,21,2
 2022-12-05,12,Brandenburg,Erwachsene,49,41,8,503,105,300,76,18,0,20,7,16,6,1,0,22,4
-2022-12-06,12,Brandenburg,Erwachsene,49,45,NA,512,100,301,75,17,0,19,10,14,6,1,0,23,4
+2022-12-06,12,Brandenburg,Erwachsene,49,45,6,512,100,301,75,17,0,19,10,14,6,1,0,23,4
+2022-12-07,12,Brandenburg,Erwachsene,49,43,NA,521,90,304,68,13,0,20,8,15,6,1,0,22,4
 2020-03-20,04,Bremen,Erwachsene,3,2,NA,0,18,0,11,0,0,1,1,1,0,0,0,0,0
 2020-03-21,04,Bremen,Erwachsene,3,2,NA,3,13,0,9,0,0,1,1,1,0,0,0,0,0
 2020-03-22,04,Bremen,Erwachsene,3,2,NA,3,13,0,9,0,0,1,1,1,0,0,0,0,0
@@ -4958,7 +4962,8 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,anzahl_meldebereiche,faell
 2022-12-03,04,Bremen,Erwachsene,11,12,0,151,4,73,1,1,0,1,2,8,0,0,0,10,2
 2022-12-04,04,Bremen,Erwachsene,11,11,0,142,4,74,1,1,0,1,2,8,0,0,0,10,2
 2022-12-05,04,Bremen,Erwachsene,11,9,1,150,11,73,5,1,0,1,2,8,0,0,0,9,3
-2022-12-06,04,Bremen,Erwachsene,11,11,NA,158,4,73,1,1,0,1,2,8,0,0,0,9,3
+2022-12-06,04,Bremen,Erwachsene,11,11,2,158,4,73,1,1,0,1,2,8,0,0,0,9,3
+2022-12-07,04,Bremen,Erwachsene,11,12,NA,162,1,73,0,0,0,1,2,8,0,0,0,9,2
 2020-03-20,02,Hamburg,Erwachsene,11,6,NA,24,115,0,70,0,0,9,0,2,0,0,0,0,0
 2020-03-21,02,Hamburg,Erwachsene,14,9,NA,76,121,0,69,0,0,11,1,2,0,0,0,0,0
 2020-03-22,02,Hamburg,Erwachsene,14,14,NA,119,114,0,62,0,0,11,1,2,0,0,0,0,0
@@ -5950,7 +5955,8 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,anzahl_meldebereiche,faell
 2022-12-03,02,Hamburg,Erwachsene,24,30,0,365,58,300,41,8,0,9,6,8,1,1,1,13,1
 2022-12-04,02,Hamburg,Erwachsene,24,29,3,362,62,300,41,8,0,9,6,8,1,1,1,13,1
 2022-12-05,02,Hamburg,Erwachsene,23,25,3,353,37,293,30,7,0,7,5,10,1,1,1,14,2
-2022-12-06,02,Hamburg,Erwachsene,23,28,NA,351,41,292,31,8,0,8,5,9,1,1,1,13,2
+2022-12-06,02,Hamburg,Erwachsene,23,28,4,351,41,292,31,8,0,8,5,9,1,1,1,13,2
+2022-12-07,02,Hamburg,Erwachsene,23,31,NA,361,37,292,26,8,0,9,4,9,1,1,1,12,2
 2020-03-20,06,Hessen,Erwachsene,19,7,NA,18,185,0,120,0,0,16,3,0,0,0,0,0,0
 2020-03-21,06,Hessen,Erwachsene,27,15,NA,114,223,0,150,0,0,23,3,1,0,0,0,0,0
 2020-03-22,06,Hessen,Erwachsene,29,21,NA,138,228,0,156,0,0,26,2,1,0,0,0,0,0
@@ -6942,7 +6948,8 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,anzahl_meldebereiche,faell
 2022-12-03,06,Hessen,Erwachsene,95,79,5,1573,145,622,125,28,0,25,18,42,10,1,0,49,21
 2022-12-04,06,Hessen,Erwachsene,95,77,9,1548,163,628,130,29,0,26,16,43,10,1,0,48,21
 2022-12-05,06,Hessen,Erwachsene,95,80,9,1550,163,627,128,34,0,25,18,42,10,2,0,49,22
-2022-12-06,06,Hessen,Erwachsene,95,77,NA,1574,157,624,124,34,0,24,18,43,10,2,0,50,22
+2022-12-06,06,Hessen,Erwachsene,95,77,11,1574,157,624,124,34,0,24,18,43,10,2,0,50,22
+2022-12-07,06,Hessen,Erwachsene,95,77,NA,1586,141,622,120,35,0,26,18,41,10,2,0,50,21
 2020-03-20,13,Mecklenburg-Vorpommern,Erwachsene,10,1,NA,8,85,0,59,0,0,8,1,1,0,0,0,0,0
 2020-03-21,13,Mecklenburg-Vorpommern,Erwachsene,13,1,NA,50,99,0,57,0,0,10,1,2,0,0,0,0,0
 2020-03-22,13,Mecklenburg-Vorpommern,Erwachsene,14,1,NA,51,115,0,65,0,0,11,1,2,0,0,0,0,0
@@ -7934,7 +7941,8 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,anzahl_meldebereiche,faell
 2022-12-03,13,Mecklenburg-Vorpommern,Erwachsene,34,23,4,487,84,192,58,23,0,13,10,8,3,2,0,17,5
 2022-12-04,13,Mecklenburg-Vorpommern,Erwachsene,34,24,3,483,91,192,62,20,0,13,7,11,3,1,0,17,5
 2022-12-05,13,Mecklenburg-Vorpommern,Erwachsene,34,28,6,473,99,192,63,22,0,13,8,10,3,1,0,17,6
-2022-12-06,13,Mecklenburg-Vorpommern,Erwachsene,33,29,NA,496,68,188,57,24,0,10,7,13,3,1,0,18,6
+2022-12-06,13,Mecklenburg-Vorpommern,Erwachsene,33,29,1,496,68,188,57,24,0,10,7,13,3,1,0,18,6
+2022-12-07,13,Mecklenburg-Vorpommern,Erwachsene,33,23,NA,497,71,188,56,21,0,10,7,12,4,1,0,17,6
 2020-03-20,03,Niedersachsen,Erwachsene,25,17,NA,43,236,0,147,0,0,20,3,2,0,0,0,0,0
 2020-03-21,03,Niedersachsen,Erwachsene,27,23,NA,125,254,0,165,0,0,21,5,1,0,0,0,0,0
 2020-03-22,03,Niedersachsen,Erwachsene,29,26,NA,159,272,0,166,0,0,22,6,1,0,0,0,0,0
@@ -8925,8 +8933,9 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,anzahl_meldebereiche,faell
 2022-12-02,03,Niedersachsen,Erwachsene,117,82,7,1559,180,874,202,80,0,32,22,51,12,3,1,60,33
 2022-12-03,03,Niedersachsen,Erwachsene,117,80,14,1546,158,870,184,71,0,28,23,53,13,6,1,66,35
 2022-12-04,03,Niedersachsen,Erwachsene,117,86,10,1516,180,874,197,74,0,25,26,53,13,6,1,69,35
-2022-12-05,03,Niedersachsen,Erwachsene,119,78,19,1531,185,905,199,77,0,27,26,52,14,4,1,66,34
-2022-12-06,03,Niedersachsen,Erwachsene,119,78,NA,1544,200,901,198,73,0,28,25,54,12,5,1,69,36
+2022-12-05,03,Niedersachsen,Erwachsene,119,78,20,1531,185,905,199,77,0,27,26,52,14,4,1,66,34
+2022-12-06,03,Niedersachsen,Erwachsene,119,78,12,1544,200,901,198,73,0,28,25,54,12,5,1,69,36
+2022-12-07,03,Niedersachsen,Erwachsene,119,73,NA,1562,181,905,189,85,0,28,25,54,12,5,1,68,37
 2020-03-20,05,Nordrhein-Westfalen,Erwachsene,55,35,NA,86,456,0,297,0,0,49,5,1,0,0,0,0,0
 2020-03-21,05,Nordrhein-Westfalen,Erwachsene,78,76,NA,717,696,0,458,0,0,67,8,3,0,0,0,0,0
 2020-03-22,05,Nordrhein-Westfalen,Erwachsene,82,84,NA,791,721,0,471,0,0,71,8,3,0,0,0,0,0
@@ -9918,7 +9927,8 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,anzahl_meldebereiche,faell
 2022-12-03,05,Nordrhein-Westfalen,Erwachsene,302,241,28,4398,412,1873,303,119,0,81,67,137,17,3,0,183,48
 2022-12-04,05,Nordrhein-Westfalen,Erwachsene,302,254,36,4365,439,1885,316,124,0,78,64,144,16,3,0,184,49
 2022-12-05,05,Nordrhein-Westfalen,Erwachsene,301,263,32,4411,413,1876,309,112,0,68,70,146,17,4,0,190,54
-2022-12-06,05,Nordrhein-Westfalen,Erwachsene,301,269,NA,4469,365,1848,288,103,0,70,65,149,17,5,0,186,56
+2022-12-06,05,Nordrhein-Westfalen,Erwachsene,301,269,32,4469,365,1848,288,103,0,70,65,149,17,5,0,186,56
+2022-12-07,05,Nordrhein-Westfalen,Erwachsene,300,261,NA,4487,329,1844,290,104,0,76,65,143,16,7,0,183,54
 2020-03-20,07,Rheinland-Pfalz,Erwachsene,15,14,NA,48,112,0,62,0,0,10,3,2,0,0,0,0,0
 2020-03-21,07,Rheinland-Pfalz,Erwachsene,19,18,NA,63,133,0,69,0,0,12,5,2,0,0,0,0,0
 2020-03-22,07,Rheinland-Pfalz,Erwachsene,19,17,NA,80,144,0,77,0,0,13,4,2,0,0,0,0,0
@@ -10910,7 +10920,8 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,anzahl_meldebereiche,faell
 2022-12-03,07,Rheinland-Pfalz,Erwachsene,74,45,3,789,141,324,110,31,0,10,22,35,7,1,1,54,17
 2022-12-04,07,Rheinland-Pfalz,Erwachsene,74,44,8,788,145,324,114,33,0,13,21,34,6,1,1,52,15
 2022-12-05,07,Rheinland-Pfalz,Erwachsene,75,43,4,813,129,336,110,27,0,12,24,33,6,1,1,52,16
-2022-12-06,07,Rheinland-Pfalz,Erwachsene,75,35,NA,827,125,334,103,34,0,14,23,32,6,1,0,51,18
+2022-12-06,07,Rheinland-Pfalz,Erwachsene,75,35,6,827,125,334,103,34,0,14,23,32,6,1,0,51,18
+2022-12-07,07,Rheinland-Pfalz,Erwachsene,75,37,NA,835,123,336,107,30,0,12,24,33,6,1,0,52,16
 2020-03-20,10,Saarland,Erwachsene,4,1,NA,7,19,0,14,0,0,3,1,0,0,0,0,0,0
 2020-03-21,10,Saarland,Erwachsene,5,2,NA,51,36,0,29,0,0,3,1,1,0,0,0,0,0
 2020-03-22,10,Saarland,Erwachsene,5,4,NA,40,25,0,19,0,0,3,1,1,0,0,0,0,0
@@ -11902,7 +11913,8 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,anzahl_meldebereiche,faell
 2022-12-03,10,Saarland,Erwachsene,15,11,1,316,59,228,84,21,0,4,4,6,1,0,0,9,0
 2022-12-04,10,Saarland,Erwachsene,15,11,1,310,70,231,90,21,0,4,4,6,1,0,0,9,0
 2022-12-05,10,Saarland,Erwachsene,15,8,2,307,63,229,94,22,0,4,4,6,1,0,0,9,0
-2022-12-06,10,Saarland,Erwachsene,15,10,NA,320,47,236,81,23,0,4,4,6,1,0,0,9,0
+2022-12-06,10,Saarland,Erwachsene,15,10,0,320,47,236,81,23,0,4,4,6,1,0,0,9,0
+2022-12-07,10,Saarland,Erwachsene,14,7,NA,331,40,234,75,20,0,4,4,5,1,0,0,8,0
 2020-03-20,14,Sachsen,Erwachsene,20,3,NA,44,272,0,215,0,0,16,2,2,0,0,0,0,0
 2020-03-21,14,Sachsen,Erwachsene,30,4,NA,303,372,0,281,0,0,23,5,2,0,0,0,0,0
 2020-03-22,14,Sachsen,Erwachsene,32,2,NA,284,428,0,304,0,0,24,6,2,0,0,0,0,0
@@ -12894,7 +12906,8 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,anzahl_meldebereiche,faell
 2022-12-03,14,Sachsen,Erwachsene,78,57,5,1001,239,432,202,49,0,33,16,17,12,3,0,27,13
 2022-12-04,14,Sachsen,Erwachsene,78,52,7,973,259,433,222,48,0,35,15,16,12,3,0,26,10
 2022-12-05,14,Sachsen,Erwachsene,78,50,9,1002,250,428,195,53,0,37,13,16,12,3,0,24,8
-2022-12-06,14,Sachsen,Erwachsene,78,53,NA,1052,191,426,168,43,0,34,16,16,12,3,0,25,10
+2022-12-06,14,Sachsen,Erwachsene,78,53,10,1052,191,426,168,43,0,34,16,16,12,3,0,25,10
+2022-12-07,14,Sachsen,Erwachsene,78,59,NA,1060,183,427,172,43,0,33,15,18,12,3,0,25,11
 2020-03-20,15,Sachsen-Anhalt,Erwachsene,8,0,NA,2,105,0,60,0,0,6,2,0,0,0,0,0,0
 2020-03-21,15,Sachsen-Anhalt,Erwachsene,12,1,NA,119,150,0,89,0,0,10,2,0,0,0,0,0,0
 2020-03-22,15,Sachsen-Anhalt,Erwachsene,12,1,NA,123,145,0,87,0,0,10,1,1,0,0,0,0,0
@@ -13886,7 +13899,8 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,anzahl_meldebereiche,faell
 2022-12-03,15,Sachsen-Anhalt,Erwachsene,42,20,1,621,69,305,56,21,0,9,8,17,8,1,1,24,8
 2022-12-04,15,Sachsen-Anhalt,Erwachsene,42,23,4,615,75,303,55,21,0,7,8,19,8,1,1,26,8
 2022-12-05,15,Sachsen-Anhalt,Erwachsene,42,20,3,630,74,305,53,17,0,8,7,19,8,1,1,25,8
-2022-12-06,15,Sachsen-Anhalt,Erwachsene,42,22,NA,653,54,300,40,19,0,8,8,18,8,2,1,25,8
+2022-12-06,15,Sachsen-Anhalt,Erwachsene,42,22,4,653,54,300,40,19,0,8,8,18,8,2,1,25,8
+2022-12-07,15,Sachsen-Anhalt,Erwachsene,42,25,NA,642,58,302,43,16,0,7,9,18,8,2,1,25,9
 2020-03-20,01,Schleswig-Holstein,Erwachsene,13,7,NA,16,99,0,68,0,0,11,2,0,0,0,0,0,0
 2020-03-21,01,Schleswig-Holstein,Erwachsene,15,8,NA,74,117,0,74,0,0,11,3,0,1,0,0,0,0
 2020-03-22,01,Schleswig-Holstein,Erwachsene,17,12,NA,104,119,0,77,0,0,10,4,1,2,0,0,0,0
@@ -14878,7 +14892,8 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,anzahl_meldebereiche,faell
 2022-12-03,01,Schleswig-Holstein,Erwachsene,32,31,4,541,84,464,69,21,0,12,6,11,3,0,0,15,6
 2022-12-04,01,Schleswig-Holstein,Erwachsene,32,31,7,539,79,466,60,26,0,12,5,12,3,0,0,15,6
 2022-12-05,01,Schleswig-Holstein,Erwachsene,32,34,5,555,79,459,54,25,0,11,7,11,3,0,0,16,6
-2022-12-06,01,Schleswig-Holstein,Erwachsene,32,32,NA,562,70,460,62,24,0,11,9,9,3,0,0,16,6
+2022-12-06,01,Schleswig-Holstein,Erwachsene,32,32,7,562,70,460,62,24,0,11,9,9,3,0,0,16,6
+2022-12-07,01,Schleswig-Holstein,Erwachsene,32,34,NA,558,75,463,56,30,0,13,7,9,3,0,0,15,4
 2020-03-20,16,Thüringen,Erwachsene,7,0,NA,0,143,0,91,0,0,6,1,0,0,0,0,0,0
 2020-03-21,16,Thüringen,Erwachsene,8,1,NA,84,154,0,103,0,0,7,1,0,0,0,0,0,0
 2020-03-22,16,Thüringen,Erwachsene,8,1,NA,90,146,0,95,0,0,7,1,0,0,0,0,0,0
@@ -15870,4 +15885,5 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,anzahl_meldebereiche,faell
 2022-12-03,16,Thüringen,Erwachsene,35,25,1,506,105,220,93,32,0,15,6,9,5,1,0,14,4
 2022-12-04,16,Thüringen,Erwachsene,35,23,2,493,117,219,113,33,0,16,6,8,5,1,0,13,4
 2022-12-05,16,Thüringen,Erwachsene,35,20,6,495,114,220,109,32,0,17,5,8,5,1,0,12,3
-2022-12-06,16,Thüringen,Erwachsene,35,25,NA,510,100,220,98,31,0,16,6,8,5,1,0,13,3
+2022-12-06,16,Thüringen,Erwachsene,35,25,5,510,100,220,98,31,0,16,6,8,5,1,0,13,3
+2022-12-07,16,Thüringen,Erwachsene,35,28,NA,530,84,221,74,26,0,14,8,8,5,1,0,14,3
