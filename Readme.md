@@ -5,19 +5,18 @@ Nordufer 20
 13353 Berlin  
 
 **MF 4 | Informations- und Forschungsdatenmanagement**  
-Kerstin Bischoff (Projektleitung)  
 Martina Fischer (Projektverantwortung)  
+Kerstin Bischoff (Projektleitung)  
 
 
 Wera Berge (Wissenschaftliche Mitarbeit)  
 [Frederike Booke](https://orcid.org/0000-0002-1108-0160) (Wissenschaftliche Mitarbeit)  
-[Sally Brose](https://orcid.org/0000-0001-9830-1191) (Wissenschaftliche Mitarbeit)  
 Janina Esins (Wissenschaftliche Mitarbeit)  
 [Pia Francesca Rissom](https://orcid.org/0000-0001-8371-6378) (Wissenschaftliche Mitarbeit)  
 
 ---
 
-Robert Koch-Institut (2022): Intensivkapazitäten und COVID-19-Intensivbettenbelegung in Deutschland, Berlin: Zenodo. DOI:[10.5281/zenodo.7468080](http://doi.org/10.5281/zenodo.7468080).  
+Robert Koch-Institut (2022): Intensivkapazitäten und COVID-19-Intensivbettenbelegung in Deutschland, Berlin: Zenodo. DOI: [10.5281/zenodo.7125599](http://doi.org/10.5281/zenodo.7125599).  
 
 ## Informationen zum Datensatz und Entstehungskontext  
 
@@ -35,7 +34,7 @@ Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagemen
 
 ### Rechtliche Grundlage und Arbeitsauftrag
 
-Seit dem 16. April 2020 sind alle intensivbettenführenden Akutkrankenhäuser in Deutschland durch die DIVI IntensivRegister-Verordnung verpflichtet, sich im DIVI-Intensivregister zu registrieren und täglich aktuelle Daten zu melden. Die Verordnung wurde seither mehrfach angepasst. Ab dem 26.11.2022 wird die DIVI IntensivRegister-Verordnung als Verordnung zur Krankenhauskapazitätssurveillance angepasst weitergeführt. 
+Seit dem 16. April 2020 sind alle intensivbettenführenden Akutkrankenhäuser in Deutschland durch die DIVI IntensivRegister-Verordnung verpflichtet, sich im DIVI-Intensivregister zu registrieren und täglich aktuelle Daten zu melden. Die Verordnung wurde seither mehrfach angepasst. Seit dem 26.11.2022 wird die DIVI IntensivRegister-Verordnung als Verordnung zur Krankenhauskapazitätssurveillance angepasst weitergeführt. 
 
 ### Erhebung und Aufbereitung der Daten
 
@@ -89,6 +88,7 @@ Die Datei *Intensivregister_Bundeslaender_Kapazitaeten.csv* ist dagegen nur nach
 | bundesland_id | Character| `00`: Deutschland, `01` bis `16`: Bundesländer| Identifikationsnummer der Bundesländer basierend auf dem Amtlichen Gemeindeschlüssel (AGS) bzw. ein Wert für das gesamte Bundesgebiet.|
 | bundesland_name| Character| `Deutschland`, `Bremen` … `Thueringen` | Name des Bundeslandes bzw. ein Wert für das gesamte Bundesgebiet. |
 | behandlungsgruppe| Character| `Erwachsene`, `Kinder`| Angabe der Behandlungsgruppe.|
+| behandlungsgruppe_level_2| Character| `NICU`, `PICU`, `NA`| Aufsplittung der Behandlungsgruppe Kinder in NICU (neonatologische Intensivstation) und PICU (pädiatrische Intensivstation). Bei Erwachsenen erfolgt keine weitere Unterteilung, daher wird hier NA angegeben.|
 | anzahl_meldebereiche| Natürliche Zahl (Integer) | `≥ 1`  | Ein Meldebereich entspricht einer Intensivstation oder einem Intensivbereich, für welchen das dort arbeitende fach-medizinische Personal Meldungen im DIVI-Intensivregister (täglich) abgibt. Die Anzahl der Meldebereiche gibt an, wie viele Meldebereiche der jeweiligen  Aggregationsstufe (Bundesland/Deutschland) gemeldet haben und in den aktuellen Datenstand einfließen. |
 | faelle_covid_aktuell | Natürliche Zahl (Integer) | `≥ 0`| Anzahl aller aktuell in intensivmedizinischer Behandlung (beatmet und nicht beatmet) befindlicher COVID-19-Patient\*innen (in allen Intensivbereichen: Low-Care, High-Care, ECMO); nur nachgewiesene Infektionen mit SARS-CoV-2, KEINE Verdachtsfälle. Inkl. Zählung von COVID-19-Patient\*innen mit zurück-liegendem SARS-CoV-2-Nachweis, die weiterhin in Folge ihrer COVID-19-Erkrankung intensivmedizinisch behandelt werden müssen. |
 | faelle_covid_erstaufnahmen| Natürliche Zahl (Integer) | `≥ 0` | Anzahl der Erstaufnahmen von COVID-19-Patient\*innen auf einer Intensivstation bzw. in einem Meldebereich. Seit dem 29.07.2021 werden die Erstaufnahmen im Intensivregister direkt erfasst.Die Erstaufnahmen des aktuellen Tages können erst am darauffolgenden Tag berichtet werden.|
@@ -96,7 +96,7 @@ Die Datei *Intensivregister_Bundeslaender_Kapazitaeten.csv* ist dagegen nur nach
 | intensivbetten_frei | Natürliche Zahl (Integer) | `≥ 0` | **BERECHNET:** Anzahl freier betreibbarer Intensivbetten.Dieser Wert wird errechnet aus der Gesamtzahl aktuell betreibbarer Intensivbetten (hier nicht aufgeführt) minus der Anzahl aktuell belegter Intensivbetten eines Meldebereichs (intensivbetten_belegt). Beide Zahlen sind Teil der Abfrage. |
 | intensivbetten_7_tage_ notfallreserve| Natürliche Zahl (Integer) | `≥ 0` | Anzahl der Notfallreservekapazität (innerhalb von 7 Tagen aktivierbar).|
 | kapazitaeten_frei_invasive_ beatmung_gesamt | Natürliche Zahl (Integer) | `≥ 0` | Anzahl der freien betreibbaren invasiven Beatmungs-Kapazitäten.|
-| kapazitaeten_frei_invasive_ beatmung_covid | Natürliche Zahl (Integer) | `≥ 0` | Anzahl der freien betreibbaren invasiven Beatmungs-Kapazitäten für COVID-19-Patient\*innen. Wird seit dem 22.12.2022 nicht mehr für Kinder-ITS erfasst.|
+| kapazitaeten_frei_invasive_ beatmung_covid | Natürliche Zahl (Integer) | `≥ 0` | Anzahl der freien betreibbaren invasiven Beatmungs-Kapazitäten für COVID-19-Patient\*innen. Wird seit dem 22.12.2021 nicht mehr für Kinder-ITS erfasst.|
 | kapazitaeten_frei_ invasive_beatmung_ isolationspflichtige_kinder | Natürliche Zahl (Integer) | `≥ 0` | Nur für Kinder-ITS. **BERECHNET:** Anzahl der freien betreibbaren invasiven Beatmungs-Kapazitäten für isolationspflichtige Kinder. Für Kinder-ITS wurde zum 22.12.2021 die Abfrage nach freien invasiven Beatmungskapazitäten für COVID-19 umgestellt, d.h. verallgemeinert zur Erfassung aller isolationspflichtigen Fälle (neben SARS-CoV-2 auch RSV, Influenza etc.). Der Wert der freien Kapazitäten zur invasiven Beatmung isolationspflichtiger Kinder errechnet sich aus dem Minimum der freien Isolationskapazitäten für Kinder (hier nicht dargestellt) und der freien Kapazität für invasive Beatmung (*kapazitaeten_frei_invasive_beatmung_gesamt*). Beide Zahlen sind Teil der Abfrage. |
 | betriebssituation_ regulaerer_betrieb| Natürliche Zahl (Integer) | `≥ 0`| Anzahl der Intensivbereiche mit gemeldeter Betriebssituation als "regulär".|
 | betriebssituation_teilweise_ eingeschraenkt| Natürliche Zahl (Integer) | `≥ 0` | Anzahl der Intensivbereiche mit gemeldeter Betriebssituation als "teilweise eingeschränkt". |
