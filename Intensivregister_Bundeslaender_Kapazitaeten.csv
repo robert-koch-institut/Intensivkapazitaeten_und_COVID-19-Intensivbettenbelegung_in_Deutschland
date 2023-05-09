@@ -1143,7 +1143,8 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2023-05-05,8,Baden-Württemberg,Erwachsene,NA,117,41,5,1648,262,850,245,0,NA,32,28,40,17,1,0,60,14
 2023-05-06,8,Baden-Württemberg,Erwachsene,NA,117,43,1,1623,275,853,238,0,NA,35,26,39,17,2,0,59,12
 2023-05-07,8,Baden-Württemberg,Erwachsene,NA,117,37,8,1594,291,853,261,0,NA,37,28,35,17,1,0,56,10
-2023-05-08,8,Baden-Württemberg,Erwachsene,NA,117,44,NA,1598,286,854,243,NA,NA,37,27,36,17,1,0,56,12
+2023-05-08,8,Baden-Württemberg,Erwachsene,NA,117,44,3,1598,286,854,243,NA,NA,37,27,36,17,1,0,56,12
+2023-05-09,8,Baden-Württemberg,Erwachsene,NA,117,41,NA,1652,240,844,226,NA,NA,35,25,40,17,1,0,59,12
 2020-03-20,9,Bayern,Erwachsene,NA,45,61,NA,77,392,NA,237,NA,NA,37,5,1,2,NA,NA,NA,NA
 2020-03-21,9,Bayern,Erwachsene,NA,54,67,NA,309,444,NA,279,NA,NA,45,5,2,2,NA,NA,NA,NA
 2020-03-22,9,Bayern,Erwachsene,NA,59,82,NA,425,454,NA,293,NA,NA,48,6,3,2,NA,NA,NA,NA
@@ -2288,7 +2289,8 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2023-05-05,9,Bayern,Erwachsene,NA,194,58,8,2671,330,480,332,2,NA,75,37,54,28,4,1,78,32
 2023-05-06,9,Bayern,Erwachsene,NA,193,62,2,2595,365,494,333,1,NA,73,36,57,27,3,1,81,30
 2023-05-07,9,Bayern,Erwachsene,NA,193,60,4,2551,418,478,376,1,NA,74,37,55,27,2,1,79,30
-2023-05-08,9,Bayern,Erwachsene,NA,194,59,NA,2573,413,508,367,0,NA,74,40,53,27,2,1,80,28
+2023-05-08,9,Bayern,Erwachsene,NA,194,59,5,2573,413,508,367,0,NA,74,40,53,27,2,1,80,28
+2023-05-09,9,Bayern,Erwachsene,NA,194,57,NA,2594,368,490,345,0,NA,72,38,57,27,3,1,81,32
 2020-03-20,11,Berlin,Erwachsene,NA,22,9,NA,114,157,NA,105,NA,NA,18,2,1,1,NA,NA,NA,NA
 2020-03-21,11,Berlin,Erwachsene,NA,31,20,NA,266,203,NA,141,NA,NA,28,2,1,0,NA,NA,NA,NA
 2020-03-22,11,Berlin,Erwachsene,NA,33,22,NA,272,218,NA,148,NA,NA,30,2,1,0,NA,NA,NA,NA
@@ -3432,8 +3434,9 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2023-05-04,11,Berlin,Erwachsene,NA,53,34,2,843,89,283,82,1,NA,19,18,9,7,0,0,20,9
 2023-05-05,11,Berlin,Erwachsene,NA,53,31,1,842,89,285,81,1,NA,20,15,11,7,0,0,21,7
 2023-05-06,11,Berlin,Erwachsene,NA,53,28,1,841,90,286,82,1,NA,19,16,10,8,0,0,22,8
-2023-05-07,11,Berlin,Erwachsene,NA,54,27,4,835,105,288,88,1,NA,20,14,11,9,0,0,22,6
-2023-05-08,11,Berlin,Erwachsene,NA,52,25,NA,819,109,291,99,NA,NA,19,17,7,9,0,0,20,8
+2023-05-07,11,Berlin,Erwachsene,NA,54,27,4,836,104,288,87,1,NA,20,14,11,9,0,0,22,6
+2023-05-08,11,Berlin,Erwachsene,NA,52,23,2,818,110,291,100,NA,NA,19,17,7,9,0,0,20,8
+2023-05-09,11,Berlin,Erwachsene,NA,52,22,NA,838,90,287,81,NA,NA,18,18,7,9,0,0,21,7
 2020-03-20,12,Brandenburg,Erwachsene,NA,20,2,NA,50,142,NA,81,NA,NA,15,4,1,0,NA,NA,NA,NA
 2020-03-21,12,Brandenburg,Erwachsene,NA,24,2,NA,107,157,NA,85,NA,NA,19,4,1,0,NA,NA,NA,NA
 2020-03-22,12,Brandenburg,Erwachsene,NA,25,2,NA,141,169,NA,102,NA,NA,20,3,2,0,NA,NA,NA,NA
@@ -4578,7 +4581,8 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2023-05-05,12,Brandenburg,Erwachsene,NA,43,9,0,449,91,264,70,4,NA,22,7,7,7,0,0,10,6
 2023-05-06,12,Brandenburg,Erwachsene,NA,43,7,0,453,93,264,61,2,NA,22,7,7,7,0,0,10,6
 2023-05-07,12,Brandenburg,Erwachsene,NA,42,8,0,437,99,264,68,0,NA,21,7,7,7,0,0,11,6
-2023-05-08,12,Brandenburg,Erwachsene,NA,43,7,NA,446,99,264,77,NA,NA,23,8,5,7,0,0,11,5
+2023-05-08,12,Brandenburg,Erwachsene,NA,43,7,1,446,99,264,77,NA,NA,23,8,5,7,0,0,11,5
+2023-05-09,12,Brandenburg,Erwachsene,NA,43,7,NA,460,95,264,75,NA,NA,21,9,6,7,0,0,13,4
 2020-03-20,4,Bremen,Erwachsene,NA,3,2,NA,0,18,NA,11,NA,NA,1,1,1,0,NA,NA,NA,NA
 2020-03-21,4,Bremen,Erwachsene,NA,3,2,NA,3,13,NA,9,NA,NA,1,1,1,0,NA,NA,NA,NA
 2020-03-22,4,Bremen,Erwachsene,NA,3,2,NA,3,13,NA,9,NA,NA,1,1,1,0,NA,NA,NA,NA
@@ -5723,7 +5727,8 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2023-05-05,4,Bremen,Erwachsene,NA,11,4,3,155,8,78,3,NA,NA,2,1,8,0,0,0,8,2
 2023-05-06,4,Bremen,Erwachsene,NA,11,7,3,147,8,78,3,NA,NA,2,2,7,0,0,0,8,2
 2023-05-07,4,Bremen,Erwachsene,NA,11,10,2,144,11,78,5,NA,NA,1,2,7,1,0,0,8,2
-2023-05-08,4,Bremen,Erwachsene,NA,11,11,NA,151,12,78,5,NA,NA,2,2,7,0,0,0,9,1
+2023-05-08,4,Bremen,Erwachsene,NA,11,11,2,151,12,78,5,NA,NA,2,2,7,0,0,0,9,1
+2023-05-09,4,Bremen,Erwachsene,NA,11,12,NA,157,12,77,6,NA,NA,3,2,6,0,0,0,8,2
 2020-03-20,2,Hamburg,Erwachsene,NA,11,6,NA,24,115,NA,70,NA,NA,9,0,2,0,NA,NA,NA,NA
 2020-03-21,2,Hamburg,Erwachsene,NA,14,9,NA,76,121,NA,69,NA,NA,11,1,2,0,NA,NA,NA,NA
 2020-03-22,2,Hamburg,Erwachsene,NA,14,14,NA,119,114,NA,62,NA,NA,11,1,2,0,NA,NA,NA,NA
@@ -6868,7 +6873,8 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2023-05-05,2,Hamburg,Erwachsene,NA,22,14,0,360,39,281,42,3,NA,15,0,7,0,0,0,7,0
 2023-05-06,2,Hamburg,Erwachsene,NA,22,13,0,358,42,283,42,3,NA,14,1,7,0,0,0,8,0
 2023-05-07,2,Hamburg,Erwachsene,NA,22,13,1,354,45,282,45,3,NA,14,1,7,0,0,0,8,0
-2023-05-08,2,Hamburg,Erwachsene,NA,22,14,NA,353,48,282,42,0,NA,12,2,8,0,0,0,9,1
+2023-05-08,2,Hamburg,Erwachsene,NA,22,14,0,353,48,282,42,0,NA,12,2,8,0,0,0,9,1
+2023-05-09,2,Hamburg,Erwachsene,NA,21,14,NA,324,53,250,46,NA,NA,13,4,4,0,0,0,7,1
 2020-03-20,6,Hessen,Erwachsene,NA,19,7,NA,18,185,NA,120,NA,NA,16,3,0,0,NA,NA,NA,NA
 2020-03-21,6,Hessen,Erwachsene,NA,27,15,NA,114,223,NA,150,NA,NA,23,3,1,0,NA,NA,NA,NA
 2020-03-22,6,Hessen,Erwachsene,NA,29,21,NA,138,228,NA,156,NA,NA,26,2,1,0,NA,NA,NA,NA
@@ -8013,7 +8019,8 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2023-05-05,6,Hessen,Erwachsene,NA,88,52,3,1404,201,546,166,2,NA,37,17,23,11,0,0,35,8
 2023-05-06,6,Hessen,Erwachsene,NA,88,44,4,1392,211,544,172,2,NA,39,15,23,11,0,0,34,8
 2023-05-07,6,Hessen,Erwachsene,NA,87,45,6,1375,218,535,168,2,NA,37,15,24,11,0,0,34,10
-2023-05-08,6,Hessen,Erwachsene,NA,87,49,NA,1372,200,536,163,0,NA,37,15,25,10,0,0,34,10
+2023-05-08,6,Hessen,Erwachsene,NA,87,49,1,1372,200,536,163,0,NA,37,15,25,10,0,0,34,10
+2023-05-09,6,Hessen,Erwachsene,NA,88,44,NA,1402,175,537,156,NA,NA,37,16,25,10,0,0,35,12
 2020-03-20,13,Mecklenburg-Vorpommern,Erwachsene,NA,10,1,NA,8,85,NA,59,NA,NA,8,1,1,0,NA,NA,NA,NA
 2020-03-21,13,Mecklenburg-Vorpommern,Erwachsene,NA,13,1,NA,50,99,NA,57,NA,NA,10,1,2,0,NA,NA,NA,NA
 2020-03-22,13,Mecklenburg-Vorpommern,Erwachsene,NA,14,1,NA,51,115,NA,65,NA,NA,11,1,2,0,NA,NA,NA,NA
@@ -9158,7 +9165,8 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2023-05-05,13,Mecklenburg-Vorpommern,Erwachsene,NA,33,8,1,466,90,181,67,2,NA,15,9,7,2,2,0,13,5
 2023-05-06,13,Mecklenburg-Vorpommern,Erwachsene,NA,33,8,2,456,94,184,67,1,NA,16,8,7,2,2,0,13,4
 2023-05-07,13,Mecklenburg-Vorpommern,Erwachsene,NA,33,9,0,450,97,182,66,1,NA,17,7,7,2,2,0,13,3
-2023-05-08,13,Mecklenburg-Vorpommern,Erwachsene,NA,32,8,NA,442,101,176,73,NA,NA,16,7,7,2,2,0,12,3
+2023-05-08,13,Mecklenburg-Vorpommern,Erwachsene,NA,32,8,0,442,101,176,73,NA,NA,16,7,7,2,2,0,12,3
+2023-05-09,13,Mecklenburg-Vorpommern,Erwachsene,NA,32,5,NA,449,91,175,72,NA,NA,16,8,6,2,2,0,13,4
 2020-03-20,3,Niedersachsen,Erwachsene,NA,25,17,NA,43,236,NA,147,NA,NA,20,3,2,0,NA,NA,NA,NA
 2020-03-21,3,Niedersachsen,Erwachsene,NA,27,23,NA,125,254,NA,165,NA,NA,21,5,1,0,NA,NA,NA,NA
 2020-03-22,3,Niedersachsen,Erwachsene,NA,29,26,NA,159,272,NA,166,NA,NA,22,6,1,0,NA,NA,NA,NA
@@ -10303,7 +10311,8 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2023-05-05,3,Niedersachsen,Erwachsene,NA,102,30,2,1170,196,711,214,4,NA,41,16,34,11,3,0,40,24
 2023-05-06,3,Niedersachsen,Erwachsene,NA,103,30,3,1161,200,716,216,4,NA,40,19,33,11,3,0,42,23
 2023-05-07,3,Niedersachsen,Erwachsene,NA,99,30,1,1086,227,692,233,0,NA,43,13,32,11,2,0,38,20
-2023-05-08,3,Niedersachsen,Erwachsene,NA,101,32,NA,1125,215,716,215,0,NA,41,16,33,11,2,0,40,20
+2023-05-08,3,Niedersachsen,Erwachsene,NA,101,32,7,1125,215,716,215,0,NA,41,16,33,11,2,0,40,20
+2023-05-09,3,Niedersachsen,Erwachsene,NA,102,34,NA,1152,196,721,207,0,NA,36,16,39,11,2,0,45,25
 2020-03-20,5,Nordrhein-Westfalen,Erwachsene,NA,55,35,NA,86,456,NA,297,NA,NA,49,5,1,0,NA,NA,NA,NA
 2020-03-21,5,Nordrhein-Westfalen,Erwachsene,NA,78,76,NA,717,696,NA,458,NA,NA,67,8,3,0,NA,NA,NA,NA
 2020-03-22,5,Nordrhein-Westfalen,Erwachsene,NA,82,84,NA,791,721,NA,471,NA,NA,71,8,3,0,NA,NA,NA,NA
@@ -11447,8 +11456,9 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2023-05-04,5,Nordrhein-Westfalen,Erwachsene,NA,279,108,11,4093,552,1734,427,20,NA,114,72,79,14,1,0,133,40
 2023-05-05,5,Nordrhein-Westfalen,Erwachsene,NA,280,108,3,4098,570,1732,450,11,NA,115,77,74,14,2,0,133,36
 2023-05-06,5,Nordrhein-Westfalen,Erwachsene,NA,281,110,2,4008,583,1735,461,10,NA,115,72,80,14,2,0,136,37
-2023-05-07,5,Nordrhein-Westfalen,Erwachsene,NA,281,102,5,3971,604,1738,464,9,NA,110,78,78,15,2,0,138,40
-2023-05-08,5,Nordrhein-Westfalen,Erwachsene,NA,280,89,NA,3972,618,1749,468,6,NA,116,76,73,15,2,0,131,36
+2023-05-07,5,Nordrhein-Westfalen,Erwachsene,NA,281,102,6,3971,604,1738,464,9,NA,110,78,78,15,2,0,138,40
+2023-05-08,5,Nordrhein-Westfalen,Erwachsene,NA,280,89,9,3972,618,1749,468,6,NA,116,76,73,15,2,0,131,36
+2023-05-09,5,Nordrhein-Westfalen,Erwachsene,NA,280,78,NA,4037,567,1738,435,3,NA,115,76,74,15,2,0,131,39
 2020-03-20,7,Rheinland-Pfalz,Erwachsene,NA,15,14,NA,48,112,NA,62,NA,NA,10,3,2,0,NA,NA,NA,NA
 2020-03-21,7,Rheinland-Pfalz,Erwachsene,NA,19,18,NA,63,133,NA,69,NA,NA,12,5,2,0,NA,NA,NA,NA
 2020-03-22,7,Rheinland-Pfalz,Erwachsene,NA,19,17,NA,80,144,NA,77,NA,NA,13,4,2,0,NA,NA,NA,NA
@@ -12593,7 +12603,8 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2023-05-05,7,Rheinland-Pfalz,Erwachsene,NA,68,15,0,758,155,292,129,3,NA,32,15,19,2,0,0,31,7
 2023-05-06,7,Rheinland-Pfalz,Erwachsene,NA,68,11,1,738,170,293,138,3,NA,34,16,16,2,0,0,29,8
 2023-05-07,7,Rheinland-Pfalz,Erwachsene,NA,67,12,1,723,173,285,116,NA,NA,32,17,16,2,1,0,31,8
-2023-05-08,7,Rheinland-Pfalz,Erwachsene,NA,67,12,NA,744,141,288,95,NA,NA,31,17,17,2,1,0,31,9
+2023-05-08,7,Rheinland-Pfalz,Erwachsene,NA,67,12,1,744,141,288,95,NA,NA,31,17,17,2,1,0,31,9
+2023-05-09,7,Rheinland-Pfalz,Erwachsene,NA,67,11,NA,756,137,286,96,NA,NA,30,17,18,2,1,0,32,9
 2020-03-20,10,Saarland,Erwachsene,NA,4,1,NA,7,19,NA,14,NA,NA,3,1,0,0,NA,NA,NA,NA
 2020-03-21,10,Saarland,Erwachsene,NA,5,2,NA,51,36,NA,29,NA,NA,3,1,1,0,NA,NA,NA,NA
 2020-03-22,10,Saarland,Erwachsene,NA,5,4,NA,40,25,NA,19,NA,NA,3,1,1,0,NA,NA,NA,NA
@@ -13738,7 +13749,8 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2023-05-05,10,Saarland,Erwachsene,NA,12,4,1,272,55,186,64,NA,NA,4,0,6,2,0,0,6,1
 2023-05-06,10,Saarland,Erwachsene,NA,12,4,0,272,55,186,77,NA,NA,4,0,6,2,0,0,6,1
 2023-05-07,10,Saarland,Erwachsene,NA,12,4,0,276,51,186,72,NA,NA,4,0,6,2,0,0,6,1
-2023-05-08,10,Saarland,Erwachsene,NA,12,3,NA,270,56,185,74,NA,NA,4,0,6,2,0,0,6,1
+2023-05-08,10,Saarland,Erwachsene,NA,12,3,0,270,56,185,74,NA,NA,4,0,6,2,0,0,6,1
+2023-05-09,10,Saarland,Erwachsene,NA,12,3,NA,266,54,183,79,NA,NA,5,0,5,2,0,0,5,1
 2020-03-20,14,Sachsen,Erwachsene,NA,20,3,NA,44,272,NA,215,NA,NA,16,2,2,0,NA,NA,NA,NA
 2020-03-21,14,Sachsen,Erwachsene,NA,30,4,NA,303,372,NA,281,NA,NA,23,5,2,0,NA,NA,NA,NA
 2020-03-22,14,Sachsen,Erwachsene,NA,32,2,NA,284,428,NA,304,NA,NA,24,6,2,0,NA,NA,NA,NA
@@ -14883,7 +14895,8 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2023-05-05,14,Sachsen,Erwachsene,NA,75,25,2,963,183,418,178,3,NA,29,19,14,13,1,0,27,11
 2023-05-06,14,Sachsen,Erwachsene,NA,74,21,0,946,189,418,196,1,NA,29,19,13,13,1,0,24,12
 2023-05-07,14,Sachsen,Erwachsene,NA,74,19,4,911,225,420,209,NA,NA,32,14,15,13,1,0,24,8
-2023-05-08,14,Sachsen,Erwachsene,NA,74,23,NA,907,227,421,204,NA,NA,32,17,12,13,1,0,22,9
+2023-05-08,14,Sachsen,Erwachsene,NA,74,23,4,907,227,421,204,NA,NA,32,17,12,13,1,0,22,9
+2023-05-09,14,Sachsen,Erwachsene,NA,74,25,NA,960,194,413,175,NA,NA,31,17,13,13,1,0,24,10
 2020-03-20,15,Sachsen-Anhalt,Erwachsene,NA,8,0,NA,2,105,NA,60,NA,NA,6,2,0,0,NA,NA,NA,NA
 2020-03-21,15,Sachsen-Anhalt,Erwachsene,NA,12,1,NA,119,150,NA,89,NA,NA,10,2,0,0,NA,NA,NA,NA
 2020-03-22,15,Sachsen-Anhalt,Erwachsene,NA,12,1,NA,123,145,NA,87,NA,NA,10,1,1,0,NA,NA,NA,NA
@@ -16027,8 +16040,9 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2023-05-04,15,Sachsen-Anhalt,Erwachsene,NA,40,17,2,609,83,289,57,0,NA,11,7,15,7,2,0,18,7
 2023-05-05,15,Sachsen-Anhalt,Erwachsene,NA,40,17,0,604,88,292,60,0,NA,11,10,13,6,2,0,18,9
 2023-05-06,15,Sachsen-Anhalt,Erwachsene,NA,40,16,0,606,84,296,62,0,NA,10,9,15,6,2,0,19,9
-2023-05-07,15,Sachsen-Anhalt,Erwachsene,NA,40,15,0,598,86,293,65,NA,NA,10,9,15,6,2,0,19,9
-2023-05-08,15,Sachsen-Anhalt,Erwachsene,NA,40,12,NA,587,95,288,71,NA,NA,10,10,13,7,2,0,18,8
+2023-05-07,15,Sachsen-Anhalt,Erwachsene,NA,40,15,1,598,86,293,65,NA,NA,10,9,15,6,2,0,19,9
+2023-05-08,15,Sachsen-Anhalt,Erwachsene,NA,40,12,0,587,95,288,71,NA,NA,10,10,13,7,2,0,18,8
+2023-05-09,15,Sachsen-Anhalt,Erwachsene,NA,40,10,NA,613,75,289,57,NA,NA,11,11,11,7,2,0,17,8
 2020-03-20,1,Schleswig-Holstein,Erwachsene,NA,13,7,NA,16,99,NA,68,NA,NA,11,2,0,0,NA,NA,NA,NA
 2020-03-21,1,Schleswig-Holstein,Erwachsene,NA,15,8,NA,74,117,NA,74,NA,NA,11,3,0,1,NA,NA,NA,NA
 2020-03-22,1,Schleswig-Holstein,Erwachsene,NA,17,12,NA,104,119,NA,77,NA,NA,10,4,1,2,NA,NA,NA,NA
@@ -17173,7 +17187,8 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2023-05-05,1,Schleswig-Holstein,Erwachsene,NA,32,20,1,539,80,362,66,0,NA,18,6,6,2,0,0,9,5
 2023-05-06,1,Schleswig-Holstein,Erwachsene,NA,32,17,1,518,85,365,62,0,NA,19,4,7,2,0,0,10,3
 2023-05-07,1,Schleswig-Holstein,Erwachsene,NA,32,15,2,508,100,367,69,0,NA,19,5,6,2,0,0,10,3
-2023-05-08,1,Schleswig-Holstein,Erwachsene,NA,32,12,NA,524,94,366,66,0,NA,21,6,3,2,0,0,9,3
+2023-05-08,1,Schleswig-Holstein,Erwachsene,NA,32,12,1,524,94,366,66,0,NA,21,6,3,2,0,0,9,3
+2023-05-09,1,Schleswig-Holstein,Erwachsene,NA,32,13,NA,549,78,360,50,0,NA,17,6,7,2,0,0,12,3
 2020-03-20,16,Thüringen,Erwachsene,NA,7,0,NA,0,143,NA,91,NA,NA,6,1,0,0,NA,NA,NA,NA
 2020-03-21,16,Thüringen,Erwachsene,NA,8,1,NA,84,154,NA,103,NA,NA,7,1,0,0,NA,NA,NA,NA
 2020-03-22,16,Thüringen,Erwachsene,NA,8,1,NA,90,146,NA,95,NA,NA,7,1,0,0,NA,NA,NA,NA
@@ -18318,4 +18333,5 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2023-05-05,16,Thüringen,Erwachsene,NA,36,8,2,519,130,218,106,3,NA,21,5,6,4,0,0,9,3
 2023-05-06,16,Thüringen,Erwachsene,NA,35,9,0,528,114,215,93,NA,NA,19,7,5,4,1,0,9,4
 2023-05-07,16,Thüringen,Erwachsene,NA,35,7,0,487,155,215,118,NA,NA,19,7,5,4,1,0,11,2
-2023-05-08,16,Thüringen,Erwachsene,NA,35,7,NA,486,156,215,112,NA,NA,20,6,5,4,1,0,10,2
+2023-05-08,16,Thüringen,Erwachsene,NA,35,7,1,486,156,215,112,NA,NA,20,6,5,4,1,0,10,2
+2023-05-09,16,Thüringen,Erwachsene,NA,35,6,NA,532,105,215,93,NA,NA,20,5,6,4,1,0,10,2
