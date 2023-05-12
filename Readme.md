@@ -4,7 +4,7 @@
 Nordufer 20  
 13353 Berlin  
 
-**MF 4 | Informations- und Forschungsdatenmanagement**  
+**MF 4 | Fach- und Forschungsdatenmanagement**  
 Martina Fischer (Projektverantwortung)  
 Kerstin Bischoff (Projektleitung)  
 
@@ -16,7 +16,9 @@ Janina Esins (Wissenschaftliche Mitarbeit)
 
 ---
 
-Robert Koch-Institut (2023): Intensivkapazitäten und COVID-19-Intensivbettenbelegung in Deutschland, Berlin: Zenodo. DOI: [10.5281/zenodo.7907877](http://doi.org/10.5281/zenodo.7907877).  
+**Zitieren**
+
+Robert Koch-Institut (2023): Intensivkapazitäten und COVID-19-Intensivbettenbelegung in Deutschland, Berlin: Zenodo. DOI: [10.5281/zenodo.7930028](http://doi.org/10.5281/zenodo.7930028).  
 
 ## Informationen zum Datensatz und Entstehungskontext  
 
@@ -29,7 +31,7 @@ Im Rahmen der COVID-19-Pandemie wurde das Register zunächst aus dem bereits bes
 ### Projektbeteiligte und Rollenbesetzung
 
 Das Intensivregister wird als Kooperationsprojekt des Robert Koch-Instituts (RKI) und der Deutschen Interdisziplinären Vereinigung für Intensiv- und Notfallmedizin e.V. (DIVI e.V.) aufgebaut und entwickelt. Die DIVI e.V. (https://www.divi.de/) ist eine wissenschaftliche Fachgesellschaft auf dem Gebiet der Intensiv- und Notfallmedizin in Deutschland. Sie ist ein Zusammenschluss von Fachverbänden und Berufsgesellschaften, wissenschaftlichen Gesellschaften und Einzelmitgliedern.
-Die Projektleitung des Intensivregisters liegt im Fachgebiet MF4 | Informations- und Forschungsdatenmanagement des RKI. Neben dem Betrieb verantwortet das Fachgebiet die technisch-methodische Entwicklung des Intensivregisters sowie Analysen und Reporting. Die DIVI e.V. übernimmt in Abstimmung mit dem RKI die Konzeption und Weiterentwicklung der intensiv- und notfallmedizinischen Inhalte. In der technischen Umsetzung wird das Projekt durch SAS Institute Inc. und Prodyna SE unterstützt. Die finanzielle und regulatorische Förderung liegt beim Bundesministerium für Gesundheit. 
+Die Projektleitung des Intensivregisters liegt im Fachgebiet MF4 | Fach- und Forschungsdatenmanagement des RKI. Neben dem Betrieb verantwortet das Fachgebiet die technisch-methodische Entwicklung des Intensivregisters sowie Analysen und Reporting. Die DIVI e.V. übernimmt in Abstimmung mit dem RKI die Konzeption und Weiterentwicklung der intensiv- und notfallmedizinischen Inhalte. In der technischen Umsetzung wird das Projekt durch SAS Institute Inc. und Prodyna SE unterstützt. Die finanzielle und regulatorische Förderung liegt beim Bundesministerium für Gesundheit. 
 Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgen durch das Fachgebiet MF 4. Fragen zum Datenmanagement und zur Publikationsinfrastruktur können an das Open Data-Team des Fachgebiets MF4 unter OpenData@rki.de gerichtet werden.
 
 ### Rechtliche Grundlage und Arbeitsauftrag

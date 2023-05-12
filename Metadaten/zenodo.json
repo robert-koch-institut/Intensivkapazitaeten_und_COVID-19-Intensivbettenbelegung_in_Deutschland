@@ -1,15 +1,6 @@
 {
-  "title": "Intensivkapazitäten und COVID-19-Intensivbettenbelegung in Deutschland ",
-  "description": "Das Intensivregister (www.intensivregister.de) ist eine digitale Plattform zur Echtzeiterfassung von intensivmedizinischen Behandlungs- und Bettenkapazitäten sowie den Fallzahlen intensivmedizinisch behandelter COVID-19-Patient*innen der etwa 1.300 Akut-Krankenhäuser Deutschlands. Bis 12 Uhr ist die tägliche Meldung laut Verordnung für die Krankenhäuser verpflichtend. Darüber hinaus kann beliebig oft gemeldet werden, sodass Veränderungen in den Kapazitäten aktuell berichtet werden können.<br>Damit ermöglicht das Intensivregister in der Pandemie sowie darüber hinaus, Engpässe in der intensivmedizinischen Versorgung im regionalen und zeitlichen Vergleich zu erkennen. Es schafft somit eine wertvolle Grundlage zur Reaktion und zur datengestützten Handlungssteuerung in Echtzeit. Zur Aufrechterhaltung der Krankenhausversorgung bietet das DIVI-Intensivregister demnach ein Portal zur Suche freier Intensivbetten und zur Kontaktaufnahme zwischen Fachkolleg*innen, um die gegenseitige Unterstützung bei Behandlungsfragen im intensivmedizinischen Kontext zu erleichtern. Ebenso liefert es eine maßgebliche Informationsgrundlage für staatliche Steuerungs- und Planungsmaßnahmen sowie für die lokale und überregionale Steuerung und Koordinierung der Bettenbelegung.",
-  "upload_type": "dataset",
-  "access_right": "open",
-  "license": "cc-by",
-  "language": "deu",
-  "communities": [
-    {
-      "identifier": "robertkochinstitut"
-    }
-  ],
+  "title": "Intensivkapazitäten und COVID-19-Intensivbettenbelegung in Deutschland",
+  "description": "Das Intensivregister (www.intensivregister.de) ist eine digitale Plattform zur Echtzeiterfassung von intensivmedizinischen Behandlungs- und Bettenkapazitäten sowie den Fallzahlen intensivmedizinisch behandelter COVID-19-Patient<em>innen der etwa 1.300 Akut-Krankenhäuser Deutschlands. Bis 12 Uhr ist die tägliche Meldung laut Verordnung für die Krankenhäuser verpflichtend. Darüber hinaus kann beliebig oft gemeldet werden, sodass Veränderungen in den Kapazitäten aktuell berichtet werden können.<br>\nDamit ermöglicht das Intensivregister in der Pandemie sowie darüber hinaus, Engpässe in der intensivmedizinischen Versorgung im regionalen und zeitlichen Vergleich zu erkennen. Es schafft somit eine wertvolle Grundlage zur Reaktion und zur datengestützten Handlungssteuerung in Echtzeit. Zur Aufrechterhaltung der Krankenhausversorgung bietet das DIVI-Intensivregister demnach ein Portal zur Suche freier Intensivbetten und zur Kontaktaufnahme zwischen Fachkolleg</em>innen, um die gegenseitige Unterstützung bei Behandlungsfragen im intensivmedizinischen Kontext zu erleichtern. Ebenso liefert es eine maßgebliche Informationsgrundlage für staatliche Steuerungs- und Planungsmaßnahmen sowie für die lokale und überregionale Steuerung und Koordinierung der Bettenbelegung.",
   "creators": [
     {
       "name": "Robert Koch-Institut",
@@ -35,8 +26,8 @@
     {
       "name": "Brose, Sally",
       "affiliation": "Robert Koch-Institut",
-      "orcid": "0000-0001-9830-1191",
-      "type": "Researcher"
+      "type": "Researcher",
+      "orcid": "0000-0001-9830-1191"
     },
     {
       "name": "Berge, Wera",
@@ -46,14 +37,14 @@
     {
       "name": "Booke, Frederike",
       "affiliation": "Robert Koch-Institut",
-      "orcid": "0000-0002-1108-0160",
-      "type": "Researcher"
+      "type": "Researcher",
+      "orcid": "0000-0002-1108-0160"
     },
     {
       "name": "Rissom, Pia Francesca",
       "affiliation": "Robert Koch-Institut",
-      "orcid": "0000-0001-8371-6378",
-      "type": "Researcher"
+      "type": "Researcher",
+      "orcid": "0000-0001-8371-6378"
     }
   ],
   "keywords": [
@@ -76,6 +67,17 @@
     "Open Data",
     "RKI"
   ],
+  "publication_date": "2023-05-12",
+  "version": "2023-05-12",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "language": "deu",
+  "communities": [
+    {
+      "identifier": "robertkochinstitut"
+    }
+  ],
   "subjects": [
     {
       "term": "Gesundheitsberichterstattung",
@@ -94,20 +96,21 @@
       "identifier": "info:ddc/22/eng//614.4"
     }
   ],
-  "publication_date": "2023-05-11T00:00:00+02:00",
-  "version": "2023-05-11",
-  "dates": [
-    {
-      "start": "2020-04-24",
-      "end": "2023-05-11",
-      "type": "Collected"
-    }
-  ],
   "related_identifiers": [
     {
       "relation": "isSupplementTo",
       "identifier": "https://github.com/robert-koch-institut/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland",
       "resource_type": "dataset"
+    },
+    {
+      "relation": "isDocumentedBy",
+      "identifier": "https://github.com/robert-koch-institut/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland/blob/main/Readme.md",
+      "resource_type": "publication-report"
+    },
+    {
+      "relation": "isDocumentedBy",
+      "identifier": "https://github.com/robert-koch-institut/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland/blob/main/[Dokumentation]_Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland.pdf",
+      "resource_type": "publication-report"
     }
   ]
 }

@@ -1,0 +1,53 @@
+cff-version: 1.2.0
+type: dataset
+title: Intensivkapazitäten und COVID-19-Intensivbettenbelegung in Deutschland
+abstract: >-
+  Das Intensivregister (www.intensivregister.de) ist eine digitale Plattform zur
+  Echtzeiterfassung von intensivmedizinischen Behandlungs- und Bettenkapazitäten
+  sowie den Fallzahlen intensivmedizinisch behandelter COVID-19-Patientinnen der
+  etwa 1.300 Akut-Krankenhäuser Deutschlands. Bis 12 Uhr ist die tägliche
+  Meldung laut Verordnung für die Krankenhäuser verpflichtend. Darüber hinaus
+  kann beliebig oft gemeldet werden, sodass Veränderungen in den Kapazitäten
+  aktuell berichtet werden können.
+
+  Damit ermöglicht das Intensivregister in der Pandemie sowie darüber hinaus,
+  Engpässe in der intensivmedizinischen Versorgung im regionalen und zeitlichen
+  Vergleich zu erkennen. Es schafft somit eine wertvolle Grundlage zur Reaktion
+  und zur datengestützten Handlungssteuerung in Echtzeit. Zur Aufrechterhaltung
+  der Krankenhausversorgung bietet das DIVI-Intensivregister demnach ein Portal
+  zur Suche freier Intensivbetten und zur Kontaktaufnahme zwischen
+  Fachkolleginnen, um die gegenseitige Unterstützung bei Behandlungsfragen im
+  intensivmedizinischen Kontext zu erleichtern. Ebenso liefert es eine
+  maßgebliche Informationsgrundlage für staatliche Steuerungs- und
+  Planungsmaßnahmen sowie für die lokale und überregionale Steuerung und
+  Koordinierung der Bettenbelegung.
+date-released: '2023-05-12'
+keywords:
+  - COVID-19
+  - SARS-CoV-2
+  - Beatmung, künstliche
+  - Intensivstationen
+  - Intensivstationen für Neugeborene
+  - Intensivstationen, pädiatrische
+  - Patientenaufnahme
+  - Krankenhausbettenkapazität
+  - Bettenbelegung
+  - Respiration, Artificial
+  - Intensive Care Units
+  - Patient Admission
+  - Hospital Bed Capacity
+  - Bed Occupancy
+  - Deutschland
+  - Germany
+  - Open Data
+  - RKI
+  - Gesundheitsberichterstattung
+  - Epidemiologie
+  - Public health surveillance
+  - Epidemiology
+message: Cite me!
+url: ''
+license: CC-BY-4.0
+doi: 10.5281/zenodo.7930028
+authors:
+  - name: Robert Koch-Institut
