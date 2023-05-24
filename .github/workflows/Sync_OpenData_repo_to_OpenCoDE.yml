@@ -36,7 +36,7 @@ jobs:
             echo "GROUP_PATH="$(echo $GROUP_INFO | jq -r '.path')"" >> $GITHUB_OUTPUT
       
       # Get metadata on name, description and keywords from the zenodo.json   
-      - name:Get zenodo.json metadata from Github Open Data repository
+      - name: Get zenodo.json metadata from Github Open Data repository
         run: |          
            ZENODOJSON_URL=$(curl \
             --request GET https://api.github.com/repos/${{ github.repository }}/contents/${{ env.ZENODOJSON_PATH }} \
@@ -52,14 +52,14 @@ jobs:
                           
       - name: Create OpenCoDE repository and update repository metadata
         run: |
-      # Create OpenCoDE repository
+            # Create OpenCoDE repository
             curl \
               --request POST "https://gitlab.opencode.de/api/v4/projects" \
               --header "PRIVATE-TOKEN: ${{ secrets.OPENCODE_TOKEN }}" \
               --data-urlencode  "path=${{ env.REPO_PATH }}" \
               --data-urlencode  "namespace_id=${{ env.GROUP_ID }}"
               
-      # Update OpenCoDE repository metadata
+            # Update OpenCoDE repository metadata
             response=$(curl \
               --request PUT "https://gitlab.opencode.de/api/v4/projects/${{ steps.group_path.outputs.GROUP_PATH }}%2F${{ env.REPO_PATH }}" \
               --header "PRIVATE-TOKEN: ${{ secrets.OPENCODE_TOKEN }}" \
