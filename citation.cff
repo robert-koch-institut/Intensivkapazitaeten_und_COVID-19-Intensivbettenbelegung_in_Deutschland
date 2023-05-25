@@ -4,8 +4,8 @@ title: Intensivkapazitäten und COVID-19-Intensivbettenbelegung in Deutschland
 abstract: >-
   Das Intensivregister (www.intensivregister.de) ist eine digitale Plattform zur
   Echtzeiterfassung von intensivmedizinischen Behandlungs- und Bettenkapazitäten
-  sowie den Fallzahlen intensivmedizinisch behandelter COVID-19-Patientinnen der
-  etwa 1.300 Akut-Krankenhäuser Deutschlands. Bis 12 Uhr ist die tägliche
+  sowie den Fallzahlen intensivmedizinisch behandelter COVID-19-Patient:innen
+  der etwa 1.300 Akut-Krankenhäuser Deutschlands. Bis 12 Uhr ist die tägliche
   Meldung laut Verordnung für die Krankenhäuser verpflichtend. Darüber hinaus
   kann beliebig oft gemeldet werden, sodass Veränderungen in den Kapazitäten
   aktuell berichtet werden können.
@@ -16,7 +16,7 @@ abstract: >-
   und zur datengestützten Handlungssteuerung in Echtzeit. Zur Aufrechterhaltung
   der Krankenhausversorgung bietet das DIVI-Intensivregister demnach ein Portal
   zur Suche freier Intensivbetten und zur Kontaktaufnahme zwischen
-  Fachkolleginnen, um die gegenseitige Unterstützung bei Behandlungsfragen im
+  Fachkolleg*innen, um die gegenseitige Unterstützung bei Behandlungsfragen im
   intensivmedizinischen Kontext zu erleichtern. Ebenso liefert es eine
   maßgebliche Informationsgrundlage für staatliche Steuerungs- und
   Planungsmaßnahmen sowie für die lokale und überregionale Steuerung und
@@ -48,6 +48,6 @@ keywords:
 message: Cite me!
 url: ''
 license: CC-BY-4.0
-doi: 10.5281/zenodo.7966464
+doi: 10.5281/zenodo.7970832
 authors:
   - name: Robert Koch-Institut
