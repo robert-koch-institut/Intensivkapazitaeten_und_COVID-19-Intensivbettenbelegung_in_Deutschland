@@ -1262,5 +1262,6 @@ datum,bundesland_id,bundesland_name,altersgruppe_0_bis_17,altersgruppe_18_bis_29
 2023-09-01,00,Deutschland,4,2,0,2,16,28,50,51,11
 2023-09-02,00,Deutschland,6,2,0,3,15,25,56,49,9
 2023-09-03,00,Deutschland,6,3,0,3,16,31,55,49,9
-2023-09-04,00,Deutschland,7,5,2,5,16,35,48,57,13
-2023-09-05,00,Deutschland,8,2,3,4,16,36,50,60,11
+2023-09-04,00,Deutschland,7,5,2,5,16,36,48,57,13
+2023-09-05,00,Deutschland,8,2,3,4,16,37,50,60,12
+2023-09-06,00,Deutschland,9,2,4,4,16,30,58,56,10
