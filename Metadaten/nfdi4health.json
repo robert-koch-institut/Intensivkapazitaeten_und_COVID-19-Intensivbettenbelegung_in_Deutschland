@@ -20,7 +20,7 @@
     ],
     "ids": [
       {
-        "identifier": "10.5281/zenodo.10201572",
+        "identifier": "10.5281/zenodo.10203820",
         "typeGeneral": "Dataset",
         "relationType": "A references B"
       },
@@ -118,7 +118,7 @@
         },
         "label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
       },
-      "version": "2023-11-23"
+      "version": "2023-11-24"
     },
     "webpage": "https://",
     "contributors": [
