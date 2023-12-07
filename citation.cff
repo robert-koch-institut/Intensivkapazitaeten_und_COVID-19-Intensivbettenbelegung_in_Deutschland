@@ -21,7 +21,7 @@ abstract: >-
   maßgebliche Informationsgrundlage für staatliche Steuerungs- und
   Planungsmaßnahmen sowie für die lokale und überregionale Steuerung und
   Koordinierung der Bettenbelegung.
-date-released: '2023-12-06'
+date-released: '2023-12-07'
 keywords:
   - COVID-19
   - SARS-CoV-2
@@ -48,7 +48,7 @@ keywords:
 message: Cite me!
 url: ''
 license: CC-BY-4.0
-doi: 10.5281/zenodo.10276971
-version: '2023-12-06T14:00:41+01:00'
+doi: 10.5281/zenodo.10283952
+version: '2023-12-07T14:00:35+01:00'
 authors:
   - name: Robert Koch-Institut
