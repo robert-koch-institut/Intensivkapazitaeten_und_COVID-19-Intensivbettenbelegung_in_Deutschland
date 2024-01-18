@@ -18,7 +18,7 @@ Janina Esins (Wissenschaftliche Mitarbeit)
 
 **Zitieren**
 
-Robert Koch-Institut (2024): Intensivkapazitäten und COVID-19-Intensivbettenbelegung in Deutschland, Berlin: Zenodo. DOI: [10.5281/zenodo.10522606](http://doi.org/10.5281/zenodo.10522606).  
+Robert Koch-Institut (2024): Intensivkapazitäten und COVID-19-Intensivbettenbelegung in Deutschland, Berlin: Zenodo. DOI: [10.5281/zenodo.10528188](http://doi.org/10.5281/zenodo.10528188).  
 
 ## Informationen zum Datensatz und Entstehungskontext  
 
