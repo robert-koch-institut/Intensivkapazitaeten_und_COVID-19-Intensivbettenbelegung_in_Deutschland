@@ -1,0 +1,14 @@
+version 1.1
+@totalColumns 12
+datum: xDate
+bundesland_id: positiveInteger and range(0,0)
+bundesland_name: is("Deutschland")
+altersgruppe_0_bis_17: positiveInteger
+altersgruppe_18_bis_29: positiveInteger
+altersgruppe_30_bis_39: positiveInteger
+altersgruppe_40_bis_49: positiveInteger
+altersgruppe_50_bis_59: positiveInteger
+altersgruppe_60_bis_69: positiveInteger
+altersgruppe_70_bis_79: positiveInteger
+altersgruppe_80_plus: positiveInteger
+altersgruppe_unbekannt: positiveInteger
