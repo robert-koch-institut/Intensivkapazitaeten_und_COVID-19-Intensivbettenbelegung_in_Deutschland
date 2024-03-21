@@ -1,7 +1,7 @@
 version 1.1
 @totalColumns 12
 datum: xDate
-bundesland_id: positiveInteger and range(0,0)
+bundesland_id: is("00")
 bundesland_name: is("Deutschland")
 altersgruppe_0_bis_17: positiveInteger
 altersgruppe_18_bis_29: positiveInteger

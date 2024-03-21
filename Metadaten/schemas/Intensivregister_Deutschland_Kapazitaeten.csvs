@@ -1,7 +1,7 @@
 version 1.1
 @totalColumns 22
 datum: xDate
-bundesland_id: positiveInteger and range(0,0)
+bundesland_id: is("00")
 bundesland_name: is("Deutschland")
 behandlungsgruppe: any("Erwachsene", "Kinder")
 behandlungsgruppe_level_2: any("NICU", "PICU", "NA")
