@@ -9,14 +9,14 @@ Nordufer 20
 **Beitragende**  
 Martina Fischer&sup1; (Projektverantwortung), Kerstin Bischoff&sup1; (Projektleitung), Wera Berge&sup1; (Wissenschaftliche Mitarbeit) und Janina Esins&sup2; (Wissenschaftliche Mitarbeit)   
 
-&emsp;&sup1; [Robert Koch Institute](https://www.rki.de) | [Fachgebiebt MF 4](https://www.rki.de/DE/Content/Institut/OrgEinheiten/MFI/MF4/mf4_node.html)  
-&emsp;&sup2; [Robert Koch Institute](https://www.rki.de) | [Fachgebiebt IT 4](https://www.rki.de/DE/Content/Institut/OrgEinheiten/MFI/IT4/it4_node.html)  
+&emsp;&sup1; [Robert Koch-Institut](https://www.rki.de) | [Fachgebiet MF 4](https://www.rki.de/DE/Content/Institut/OrgEinheiten/MFI/MF4/mf4_node.html)  
+&emsp;&sup2; [Robert Koch-Institut](https://www.rki.de) | [Fachgebiet IT 4](https://www.rki.de/DE/Content/Institut/OrgEinheiten/MFI/IT4/it4_node.html)  
 
 ---
 
 **Zitieren**
 
-Robert Koch-Institut (2024): Intensivkapazitäten und COVID-19-Intensivbettenbelegung in Deutschland, Berlin: Zenodo. DOI: [10.5281/zenodo.12732394](http://doi.org/10.5281/zenodo.12732394).  
+Robert Koch-Institut (2024): Intensivkapazitäten und COVID-19-Intensivbettenbelegung in Deutschland, Berlin: Zenodo. DOI: [10.5281/zenodo.12737241](http://doi.org/10.5281/zenodo.12737241).  
 
 ## Informationen zum Datensatz und Entstehungskontext  
 
