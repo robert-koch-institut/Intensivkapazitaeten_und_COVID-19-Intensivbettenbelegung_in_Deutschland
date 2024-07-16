@@ -1163,7 +1163,7 @@ datum,bundesland_id,bundesland_name,altersgruppe_0_bis_17,altersgruppe_18_bis_29
 2024-07-03,00,Deutschland,2,3,4,4,7,25,28,26,17
 2024-07-04,00,Deutschland,1,1,4,4,9,25,31,31,15
 2024-07-05,00,Deutschland,1,1,1,5,8,26,32,31,17
-2024-07-06,00,Deutschland,2,2,1,5,7,25,37,32,17
+2024-07-06,00,Deutschland,2,2,1,5,7,25,38,32,17
 2024-07-07,00,Deutschland,2,1,1,7,9,23,40,33,20
 2024-07-08,00,Deutschland,2,1,1,8,11,23,38,34,20
 2024-07-09,00,Deutschland,3,1,0,8,15,26,44,32,24
@@ -1173,3 +1173,4 @@ datum,bundesland_id,bundesland_name,altersgruppe_0_bis_17,altersgruppe_18_bis_29
 2024-07-13,00,Deutschland,4,3,2,6,17,26,45,43,15
 2024-07-14,00,Deutschland,3,3,2,6,17,31,47,39,13
 2024-07-15,00,Deutschland,5,3,1,5,17,32,54,37,15
+2024-07-16,00,Deutschland,4,2,0,4,13,33,62,39,20
