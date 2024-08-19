@@ -1196,9 +1196,9 @@ datum,bundesland_id,bundesland_name,altersgruppe_0_bis_17,altersgruppe_18_bis_29
 2024-08-05,00,Deutschland,6,0,2,5,10,39,62,51,20
 2024-08-06,00,Deutschland,4,0,2,4,11,39,59,54,17
 2024-08-07,00,Deutschland,3,1,2,3,10,36,57,50,18
-2024-08-08,00,Deutschland,4,0,2,4,10,41,60,50,18
-2024-08-09,00,Deutschland,4,0,2,6,12,40,59,43,21
-2024-08-10,00,Deutschland,4,1,2,5,12,41,66,49,21
+2024-08-08,00,Deutschland,4,0,2,3,10,41,60,50,18
+2024-08-09,00,Deutschland,4,0,2,5,12,40,59,43,21
+2024-08-10,00,Deutschland,4,1,2,4,12,41,66,49,21
 2024-08-11,00,Deutschland,6,1,0,5,10,44,68,53,24
 2024-08-12,00,Deutschland,6,1,0,5,11,47,67,57,21
 2024-08-13,00,Deutschland,5,2,1,4,11,48,68,58,18
@@ -1207,3 +1207,4 @@ datum,bundesland_id,bundesland_name,altersgruppe_0_bis_17,altersgruppe_18_bis_29
 2024-08-16,00,Deutschland,4,2,0,4,8,49,49,54,20
 2024-08-17,00,Deutschland,4,2,0,4,10,49,51,56,18
 2024-08-18,00,Deutschland,5,1,0,5,9,50,50,56,19
+2024-08-19,00,Deutschland,5,2,1,6,10,46,44,53,15
