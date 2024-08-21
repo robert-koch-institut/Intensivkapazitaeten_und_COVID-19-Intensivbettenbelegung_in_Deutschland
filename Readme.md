@@ -16,7 +16,7 @@ Martina Fischer&sup1; (Projektverantwortung), Kerstin Bischoff&sup1; (Projektlei
 
 **Zitieren**
 
-Robert Koch-Institut (**2024**): Intensivkapazitäten und COVID-19-Intensivbettenbelegung in Deutschland, Berlin: Zenodo. DOI: [10.5281/zenodo.13348751](http://doi.org/10.5281/zenodo.13348751).  
+Robert Koch-Institut (**2024**): Intensivkapazitäten und COVID-19-Intensivbettenbelegung in Deutschland, Berlin: Zenodo. DOI: [10.5281/zenodo.13354673](http://doi.org/10.5281/zenodo.13354673).  
 
 ## Informationen zum Datensatz und Entstehungskontext  
 
