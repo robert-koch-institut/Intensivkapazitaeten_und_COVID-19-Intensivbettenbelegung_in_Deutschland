@@ -1,0 +1,52 @@
+{
+  "name": "intensivkapazitaeten_und_covid-19-intensivbettenbelegung_in_deutschland",
+  "title": "Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland",
+  "description": "Frictionless data package. This package lists and describes all data files in this open data repository. For more information on frictionless data, see https://specs.frictionlessdata.io/ and https://framework.frictionlessdata.io/.",
+  "resources": [
+    {
+      "name": "intensivregister_bundeslaender_kapazitaeten",
+      "type": "table",
+      "path": "../../Intensivregister_Bundeslaender_Kapazitaeten.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": "frictionless_data_schema_Intensivregister_Bundeslaender_Kapazitaeten.json"
+    },
+    {
+      "name": "intensivregister_deutschland_altersgruppen",
+      "type": "table",
+      "path": "../../Intensivregister_Deutschland_Altersgruppen.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": "frictionless_data_schema_Intensivregister_Deutschland_Altersgruppen.json"
+    },
+    {
+      "name": "intensivregister_deutschland_kapazitaeten",
+      "type": "table",
+      "path": "../../Intensivregister_Deutschland_Kapazitaeten.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": "frictionless_data_schema_Intensivregister_Deutschland_Kapazitaeten.json"
+    },
+    {
+      "name": "intensivregister_deutschland_versorgungsstufen",
+      "type": "table",
+      "path": "../../Intensivregister_Deutschland_Versorgungsstufen.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": "frictionless_data_schema_Intensivregister_Deutschland_Versorgungsstufen.json"
+    },
+    {
+      "name": "intensivregister_landkreise_kapazitaeten",
+      "type": "table",
+      "path": "../../Intensivregister_Landkreise_Kapazitaeten.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": "frictionless_data_schema_Intensivregister_Landkreise_Kapazitaeten.json"
+    }
+  ]
+}

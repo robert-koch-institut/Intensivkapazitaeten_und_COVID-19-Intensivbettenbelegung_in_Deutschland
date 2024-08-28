@@ -1,0 +1,36 @@
+{
+  "fields": [
+    {
+      "name": "datum",
+      "type": "date"
+    },
+    {
+      "name": "bundesland_id",
+      "type": "integer"
+    },
+    {
+      "name": "bundesland_name",
+      "type": "string"
+    },
+    {
+      "name": "versorgungsstufe",
+      "type": "string"
+    },
+    {
+      "name": "anzahl_meldebereiche",
+      "type": "integer"
+    },
+    {
+      "name": "faelle_covid_aktuell",
+      "type": "integer"
+    },
+    {
+      "name": "intensivbetten_belegt",
+      "type": "integer"
+    },
+    {
+      "name": "intensivbetten_frei",
+      "type": "integer"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "fields": [
+    {
+      "name": "datum",
+      "type": "date",
+      "description": "Stichdatum der gemeldeten COVID-19-ITS-Fälle und ITS-Kapazitäten"
+    },
+    {
+      "name": "bundesland_id",
+      "type": "string",
+      "description": "Identifikationsnummer der Bundesländer basierend auf dem Amtlichen Gemeindeschlüssel (AGS) bzw. ein Wert für das gesamte Bundesgebiet."
+    },
+    {
+      "name": "bundesland_name",
+      "type": "string",
+      "description": "Name des Bundeslandes bzw. ein Wert für das gesamte Bundesgebiet."
+    },
+    {
+      "name": "behandlungsgruppe",
+      "type": "string",
+      "description": "Angabe der Behandlungsgruppe.",
+      "constraints": {
+        "enum": [
+          "Erwachsene",
+          "Kinder"
+        ]
+      }
+    },
+    {
+      "name": "behandlungsgruppe_level_2",
+      "type": "string",
+      "description": "Aufsplittung der Behandlungsgruppe Kinder in NICU (neonatologische Intensivstation) und PICU (pädiatrische Intensivstation). Bei Erwachsenen erfolgt keine weitere Unterteilung, daher wird hier NA angegeben.",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "enum": [
+          "NICU",
+          "PICU"
+        ]
+      }
+    },
+    {
+      "name": "anzahl_meldebereiche",
+      "type": "integer",
+      "description": "Ein Meldebereich entspricht einer Intensivstation oder einem Intensivbereich, für welchen das dort arbeitende fach-medizinische Personal Meldungen im DIVI-Intensivregister (täglich) abgibt. Die Anzahl der Meldebereiche gibt an, wie viele Meldebereiche der jeweiligen  Aggregationsstufe (Bundesland/Deutschland) gemeldet haben und in den aktuellen Datenstand einfließen.",
+      "constraints": {
+        "minimum": 1
+      }
+    },
+    {
+      "name": "faelle_covid_aktuell",
+      "type": "integer",
+      "description": "Anzahl aller aktuell in intensivmedizinischer Behandlung befindlicher SARS-CoV-2-positiver Patient\\*innen (nur bei labordiagnostischem Nukleinsäure- oder Antigennachweis; keine klinischen Verdachtsfälle). Inklusive Zählung von COVID-19-Patient\\*innen mit zurückliegendem SARS-CoV-2-Nachweis, die weiterhin mit ihrer COVID-19-Erkrankung intensivmedizinisch behandelt werden.",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "faelle_covid_erstaufnahmen",
+      "type": "integer",
+      "description": "Anzahl der Erstaufnahmen von COVID-19-Patient\\*innen auf einer Intensivstation bzw. in einem Meldebereich. Seit dem 29.07.2021 werden die Erstaufnahmen im Intensivregister direkt erfasst. Die Erstaufnahmen des aktuellen Tages können erst am darauffolgenden Tag berichtet werden.",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "intensivbetten_belegt",
+      "type": "integer",
+      "description": "Anzahl der im Meldebereich aktuell belegten sowie zur Belegung am gleichen Tag verplanten Intensivbetten, unabhängig von der Behandlungsursache.",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "intensivbetten_frei",
+      "type": "integer",
+      "description": "**BERECHNET:** Anzahl freier betreibbarer Intensivbetten. Dieser Wert wird errechnet aus der Gesamtzahl aktuell betreibbarer Intensivbetten (hier nicht aufgeführt) minus der Anzahl aktuell belegter Intensivbetten eines Meldebereichs (intensivbetten_belegt). Beide Zahlen sind Teil der Abfrage.",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "intensivbetten_7_tage_notfallreserve",
+      "type": "integer",
+      "description": "Anzahl der Notfallreservekapazität (innerhalb von 7 Tagen aktivierbar).",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "kapazitaeten_frei_invasive_beatmung_gesamt",
+      "type": "integer",
+      "description": "Anzahl der freien betreibbaren invasiven Beatmungs-Kapazitäten.",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "kapazitaeten_frei_invasive_beatmung_covid",
+      "type": "integer",
+      "description": "Anzahl der freien betreibbaren invasiven Beatmungs-Kapazitäten für COVID-19-Patient\\*innen. Wird seit dem 22.12.2021 nicht mehr für Kinder-ITS erfasst. *Achtung:* Dieser Wert wird seit 04.05.2023 nicht mehr bereitgestellt, da die freien Kapazitäten für COVID-19-Patient*innen im Intensivregister nicht mehr erfasst werden.",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "kapazitaeten_frei_invasive_beatmung_isolationspflichtige_kinder",
+      "type": "integer",
+      "description": "Nur für Kinder-ITS. **BERECHNET:** Anzahl der freien betreibbaren invasiven Beatmungs-Kapazitäten für isolationspflichtige Kinder. Für Kinder-ITS wurde zum 22.12.2021 die Abfrage nach freien invasiven Beatmungskapazitäten für COVID-19 umgestellt, d.h. verallgemeinert zur Erfassung aller isolationspflichtigen Fälle (neben SARS-CoV-2 auch RSV, Influenza etc.). Der Wert der freien Kapazitäten zur invasiven Beatmung isolationspflichtiger Kinder errechnet sich aus dem Minimum der freien Isolationskapazitäten für Kinder (hier nicht dargestellt) und der freien Kapazität für invasive Beatmung (*kapazitaeten_frei_invasive_beatmung_gesamt*). Beide Zahlen sind Teil der Abfrage. *Achtung:* Dieser Wert wird seit 08.02.2023 nicht mehr bereitgestellt, da die freien Isolationskapazitäten für Kinder im Intensivregister nicht mehr erfasst werden.",
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "betriebssituation_regulaerer_betrieb",
+      "type": "integer",
+      "description": "Anzahl der Intensivbereiche mit gemeldeter Betriebssituation als \"regulär\".",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "betriebssituation_teilweise_eingeschraenkt",
+      "type": "integer",
+      "description": "Anzahl der Intensivbereiche mit gemeldeter Betriebssituation als \"teilweise eingeschränkt\".",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "betriebssituation_eingeschraenkt",
+      "type": "integer",
+      "description": "Anzahl der Intensivbereiche mit gemeldeter Betriebssituation als \"eingeschränkt\".",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "betriebssituation_keine_angabe",
+      "type": "integer",
+      "description": "Anzahl der Intensivbereiche mit gemeldeter Betriebssituation als \"keine Angabe\".",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "einschraenkung_beatmungsgeraet",
+      "type": "integer",
+      "description": "Anzahl der Meldebereiche mit der Einschätzung, dass der Betrieb gegenüber dem Regelbetrieb aufgrund von Beatmungsgerätemangel eingeschränkt ist.\\*",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "einschraenkung_material",
+      "type": "integer",
+      "description": "Anzahl der Meldebereiche mit der Einschätzung, dass der Betrieb gegenüber dem Regelbetrieb aufgrund von Materialmangel eingeschränkt ist.\\*",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "einschraenkung_personal",
+      "type": "integer",
+      "description": "Anzahl der Meldebereiche mit der Einschätzung, dass der Betrieb gegenüber dem Regelbetrieb aufgrund von Personalmangel eingeschränkt ist.\\*",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "einschraenkung_raum",
+      "type": "integer",
+      "description": "Anzahl der Meldebereiche mit der Einschätzung, dass der Betrieb gegenüber dem Regelbetrieb aufgrund von Raummangel eingeschränkt ist.\\*",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    }
+  ]
+}

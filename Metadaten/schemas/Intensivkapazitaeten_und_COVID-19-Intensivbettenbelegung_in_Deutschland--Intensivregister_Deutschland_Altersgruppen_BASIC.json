@@ -1,0 +1,52 @@
+{
+  "fields": [
+    {
+      "name": "datum",
+      "type": "date"
+    },
+    {
+      "name": "bundesland_id",
+      "type": "integer"
+    },
+    {
+      "name": "bundesland_name",
+      "type": "string"
+    },
+    {
+      "name": "altersgruppe_0_bis_17",
+      "type": "integer"
+    },
+    {
+      "name": "altersgruppe_18_bis_29",
+      "type": "integer"
+    },
+    {
+      "name": "altersgruppe_30_bis_39",
+      "type": "integer"
+    },
+    {
+      "name": "altersgruppe_40_bis_49",
+      "type": "integer"
+    },
+    {
+      "name": "altersgruppe_50_bis_59",
+      "type": "integer"
+    },
+    {
+      "name": "altersgruppe_60_bis_69",
+      "type": "integer"
+    },
+    {
+      "name": "altersgruppe_70_bis_79",
+      "type": "integer"
+    },
+    {
+      "name": "altersgruppe_80_plus",
+      "type": "integer"
+    },
+    {
+      "name": "altersgruppe_unbekannt",
+      "type": "integer"
+    }
+  ]
+}
