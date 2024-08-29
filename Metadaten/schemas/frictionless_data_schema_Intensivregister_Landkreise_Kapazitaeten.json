@@ -36,7 +36,7 @@
       "description": "Name des Bundeslandes.",
       "constraints": {
         "enum": [
-          "Baden-Württemberg",
+          "Baden-Wuerttemberg",
           "Bayern",
           "Berlin",
           "Brandenburg",
@@ -51,7 +51,7 @@
           "Sachsen",
           "Sachsen-Anhalt",
           "Schleswig-Holstein",
-          "Thüringen"
+          "Thueringen"
         ]
       }
     },
