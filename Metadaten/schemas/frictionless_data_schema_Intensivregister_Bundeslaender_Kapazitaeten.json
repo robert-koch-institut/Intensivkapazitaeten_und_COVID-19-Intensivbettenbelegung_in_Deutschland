@@ -3,7 +3,8 @@
     {
       "name": "datum",
       "type": "date",
-      "description": "Stichdatum der gemeldeten COVID-19-ITS-Fälle und ITS-Kapazitäten"
+      "description": "Stichdatum der gemeldeten COVID-19-ITS-Fälle und ITS-Kapazitäten",
+      "format": "%Y-%m-%d"
     },
     {
       "name": "bundesland_id",
@@ -26,7 +27,8 @@
           "13",
           "14",
           "15",
-          "16"
+          "16",
+          "00"
         ]
       }
     },
@@ -36,7 +38,7 @@
       "description": "Name des Bundeslandes bzw. ein Wert für das gesamte Bundesgebiet.",
       "constraints": {
         "enum": [
-          "Baden-Wuerttemberg",
+          "Baden-Württemberg",
           "Bayern",
           "Berlin",
           "Brandenburg",
@@ -51,7 +53,8 @@
           "Sachsen",
           "Sachsen-Anhalt",
           "Schleswig-Holstein",
-          "Thueringen"
+          "Thüringen",
+          "Deutschland"
         ]
       }
     },
@@ -61,7 +64,8 @@
       "description": "Angabe der Behandlungsgruppe.",
       "constraints": {
         "enum": [
-          "Erwachsene"
+          "Erwachsene",
+          "Kinder"
         ]
       }
     },
@@ -74,7 +78,8 @@
       ],
       "constraints": {
         "enum": [
-          "NA"
+          "NICU",
+          "PICU"
         ]
       }
     },

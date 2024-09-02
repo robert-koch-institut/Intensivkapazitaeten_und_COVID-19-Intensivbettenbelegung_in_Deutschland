@@ -3,7 +3,8 @@
     {
       "name": "datum",
       "type": "date",
-      "description": "Stichdatum der gemeldeten ITS-Belegung durch COVID-19-ITS-Fälle."
+      "description": "Stichdatum der gemeldeten ITS-Belegung durch COVID-19-ITS-Fälle.",
+      "format": "%Y-%m-%d"
     },
     {
       "name": "bundesland_id",

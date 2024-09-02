@@ -3,7 +3,8 @@
     {
       "name": "datum",
       "type": "date",
-      "description": "Stichdatum der gemeldeten Altersstruktur der COVID-19-ITS-Fälle."
+      "description": "Stichdatum der gemeldeten Altersstruktur der COVID-19-ITS-Fälle.",
+      "format": "%Y-%m-%d"
     },
     {
       "name": "bundesland_id",
@@ -11,7 +12,7 @@
       "description": "Wert für das gesamte Bundesgebiet.",
       "constraints": {
         "enum": [
-          "`"
+          "00"
         ]
       }
     },
@@ -21,7 +22,7 @@
       "description": "Gesamtes Bundesgebiet.",
       "constraints": {
         "enum": [
-          "`"
+          "Deutschland"
         ]
       }
     },

@@ -3,7 +3,8 @@
     {
       "name": "datum",
       "type": "date",
-      "description": "Stichdatum der gemeldeten ITS-Belegung durch COVID-19-ITS-Fälle."
+      "description": "Stichdatum der gemeldeten ITS-Belegung durch COVID-19-ITS-Fälle.",
+      "format": "%Y-%m-%d"
     },
     {
       "name": "bundesland_id",
@@ -11,7 +12,7 @@
       "description": "Wert für das gesamte Bundesgebiet.",
       "constraints": {
         "enum": [
-          "`"
+          "00"
         ]
       }
     },
@@ -21,7 +22,7 @@
       "description": "Gesamtes Bundesgebiet.",
       "constraints": {
         "enum": [
-          "`"
+          "Deutschland"
         ]
       }
     },
@@ -43,14 +44,20 @@
       "name": "anzahl_meldebereiche",
       "type": "integer",
       "description": "Ein Meldebereich entspricht einer Intensivstation oder einem Intensivbereich, für welchen das dort arbeitende fachmedizinische Personal Meldungen im DIVI-Intensivregister (täglich) abgibt. Die Anzahl der Meldebereiche gibt an, wie viele Meldebereiche gemeldet haben und in den aktuellen Datenstand einfließen. Die Anzahl der Meldebereiche umfasst Kinder- und Erwachsenen-Intensivstationen.",
+      "missingValues": [
+        "NA"
+      ],
       "constraints": {
-        "minimum": 1
+        "minimum": 0
       }
     },
     {
       "name": "faelle_covid_aktuell",
       "type": "integer",
       "description": "Anzahl der gemeldeten COVID-19-Patient\\*innen, die intensivmedizinisch behandelt werden.",
+      "missingValues": [
+        "NA"
+      ],
       "constraints": {
         "minimum": 0
       }
@@ -59,6 +66,9 @@
       "name": "intensivbetten_belegt",
       "type": "integer",
       "description": "Anzahl der im Meldebereich aktuell belegten sowie zur Belegung am gleichen Tag verplanten Intensivbetten, unabhängig von der Behandlungsursache (Erwachsene und Kinder).",
+      "missingValues": [
+        "NA"
+      ],
       "constraints": {
         "minimum": 0
       }
@@ -67,6 +77,9 @@
       "name": "intensivbetten_frei",
       "type": "integer",
       "description": "**BERECHNET:** Anzahl freier betreibbarer Intensivbetten. (Erwachsene und Kinder) Dieser Wert wird errechnet aus der Gesamtzahl aktuell betreibbarer Intensivbetten (hier nicht aufgeführt) minus der Anzahl aktuell belegter Intensivbetten eines Meldebereichs (*intensivbetten_belegt*). Beide Zahlen sind Teil der Abfrage.",
+      "missingValues": [
+        "NA"
+      ],
       "constraints": {
         "minimum": 0
       }

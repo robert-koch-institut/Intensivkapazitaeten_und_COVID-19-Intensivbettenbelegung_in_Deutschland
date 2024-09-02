@@ -1,0 +1,219 @@
+{
+  "fields": [
+    {
+      "name": "datum",
+      "type": "date"
+    },
+    {
+      "name": "bundesland_id",
+      "type": "string",
+      "constraints": {
+        "enum": [
+          "00"
+        ]
+      }
+    },
+    {
+      "name": "bundesland_name",
+      "type": "string",
+      "constraints": {
+        "enum": [
+          "Deutschland"
+        ]
+      }
+    },
+    {
+      "name": "behandlungsgruppe",
+      "type": "string",
+      "constraints": {
+        "enum": [
+          "Erwachsene",
+          "Kinder"
+        ]
+      }
+    },
+    {
+      "name": "behandlungsgruppe_level_2",
+      "type": "string",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "enum": [
+          "NICU",
+          "PICU"
+        ]
+      }
+    },
+    {
+      "name": "anzahl_meldebereiche",
+      "type": "integer",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "faelle_covid_aktuell",
+      "type": "integer",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "faelle_covid_erstaufnahmen",
+      "type": "integer",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "intensivbetten_belegt",
+      "type": "integer",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "intensivbetten_frei",
+      "type": "integer",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "intensivbetten_7_tage_notfallreserve",
+      "type": "integer",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "kapazitaeten_frei_invasive_beatmung_gesamt",
+      "type": "integer",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "kapazitaeten_frei_invasive_beatmung_covid",
+      "type": "integer",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "kapazitaeten_frei_invasive_beatmung_isolationspflichtige_kinder",
+      "type": "integer",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "betriebssituation_regulaerer_betrieb",
+      "type": "integer",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "betriebssituation_teilweise_eingeschraenkt",
+      "type": "integer",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "betriebssituation_eingeschraenkt",
+      "type": "integer",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "betriebssituation_keine_angabe",
+      "type": "integer",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "einschraenkung_beatmungsgeraet",
+      "type": "integer",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "einschraenkung_material",
+      "type": "integer",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "einschraenkung_personal",
+      "type": "integer",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "einschraenkung_raum",
+      "type": "integer",
+      "missingValues": [
+        "NA"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    }
+  ]
+}
