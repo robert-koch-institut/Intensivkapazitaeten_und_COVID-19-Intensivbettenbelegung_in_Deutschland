@@ -4,7 +4,7 @@ datum: xDate
 bundesland_id: is("00")
 bundesland_name: is("Deutschland")
 behandlungsgruppe: any("Erwachsene", "Kinder")
-behandlungsgruppe_level_2: any("NICU", "PICU", "ERWACSHENE")
+behandlungsgruppe_level_2: any("NICU", "PICU", "ERWACHSENE")
 anzahl_meldebereiche: positiveInteger or is("NA")
 faelle_covid_aktuell: positiveInteger or is("NA")
 faelle_covid_erstaufnahmen: positiveInteger or is("NA")
