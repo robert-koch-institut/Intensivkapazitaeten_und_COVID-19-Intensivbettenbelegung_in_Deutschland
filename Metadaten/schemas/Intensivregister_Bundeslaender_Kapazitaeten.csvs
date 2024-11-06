@@ -4,7 +4,7 @@ datum: xDate
 bundesland_id: any("01","02","03","04","05","06","07","08","09","10","11","12","13","14","15","16")
 bundesland_name: any("Baden-Württemberg", "Bayern","Berlin","Brandenburg","Bremen","Hamburg","Hessen","Mecklenburg-Vorpommern", "Niedersachsen", "Nordrhein-Westfalen", "Rheinland-Pfalz", "Saarland", "Sachsen", "Sachsen-Anhalt","Schleswig-Holstein","Thüringen")
 behandlungsgruppe: is("Erwachsene")
-behandlungsgruppe_level_2: is("NA")
+behandlungsgruppe_level_2: is("ERWACHSENE")
 anzahl_meldebereiche: positiveInteger or is("NA")
 faelle_covid_aktuell: positiveInteger or is("NA")
 faelle_covid_erstaufnahmen: positiveInteger or is("NA")

@@ -72,14 +72,12 @@
     {
       "name": "behandlungsgruppe_level_2",
       "type": "string",
-      "description": "Aufsplittung der Behandlungsgruppe Kinder in NICU (neonatologische Intensivstation) und PICU (pädiatrische Intensivstation). Bei Erwachsenen erfolgt keine weitere Unterteilung, daher wird hier NA angegeben.",
-      "missingValues": [
-        "NA"
-      ],
+      "description": "Aufsplittung der Behandlungsgruppe Kinder in NICU (neonatologische Intensivstation) und PICU (pädiatrische Intensivstation). Bei Erwachsenen erfolgt keine weitere Unterteilung.",
       "constraints": {
         "enum": [
           "NICU",
-          "PICU"
+          "PICU",
+          "ERWACHSENE"
         ]
       }
     },
