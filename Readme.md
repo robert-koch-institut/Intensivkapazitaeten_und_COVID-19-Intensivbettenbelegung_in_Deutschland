@@ -174,8 +174,6 @@ Die Datei [Intensivregister_Bundeslaender_Kapazitaeten.csv](https://github.com/r
 Die CSV-Datei der *Intensivregister_Landkreise_Kapazitaeten.csv* enthält eine Aggregation der aktuellsten Meldungen auf Kreisebene.
 
 #### Variablenausprägungen
-
-Die *Intensivregister_Landkreise_Kapazitaeten_CSV* enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen:
     
 <!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "Intensivregister_Landkreise_Kapazitaeten", "lang": "de"} -->
 
@@ -204,11 +202,6 @@ Die Datei [Intensivregister_Landkreise_Kapazitaeten.csv](https://github.com/robe
 <!-- DATA_SCHEMA_SPECIFICATION_END -->
 
 
-
-
-
-
-
 ### COVID-19-Intensivbettenbelegung nach Altersgruppen
 #### Variablen
 
@@ -216,8 +209,6 @@ Die CSV-Datei der Intensivregister_Deutschland_Altersgruppen zeigt die zeitliche
 Das Alter wird im Intensivregister seit dem 29. April 2021 erfasst.
 
 #### Variablenausprägungen
-
-Die *Intensivregister_Deutschland_Altersgruppen.csv* enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen:
     
 <!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "Intensivregister_Deutschland_Altersgruppen", "lang": "de"} -->
 
@@ -245,19 +236,12 @@ Die Datei [Intensivregister_Deutschland_Altersgruppen.csv](https://github.com/ro
 <!-- DATA_SCHEMA_SPECIFICATION_END -->
 
 
-
-
-
-
-
 ### COVID-19-Intensivbettenbelegung nach Versorgungsstufen
 #### Variablen
 
 Die CSV-Datei der Intensivregister_Deutschland_Versorgungsstufen zeigt die zeitliche Entwicklung der Verteilung von allen intensivmedizinisch behandelten COVID-19-Patient\*innen (Erwachsene und Kinder) in Kliniken verschiedener Versorgungsstufen. Diese Daten werden einmalig bereitgestellt für den Zeitraum 01.05.2020 (ca. Beginn der Vollerfassung im Intensivregister) bis 05.05.2023 (WHO erklärt die COVID-19-Pandemie für beendet).
 
 #### Variablenausprägungen
-
-Die *Intensivregister_Deutschland_Versorgungsstufen.csv* enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen:
     
 <!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "Intensivregister_Deutschland_Versorgungsstufen", "lang": "de"} -->
 
@@ -279,12 +263,6 @@ Die Datei [Intensivregister_Deutschland_Versorgungsstufen.csv](https://github.co
 <!-- DATA_SCHEMA_TABLE_END -->
 
 <!-- DATA_SCHEMA_SPECIFICATION_END -->
-
-
-
-
-
-
    
 
 ### Formatierung der Daten 
