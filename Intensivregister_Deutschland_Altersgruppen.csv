@@ -1345,5 +1345,6 @@ datum,bundesland_id,bundesland_name,altersgruppe_0_bis_17,altersgruppe_18_bis_29
 2025-01-01,00,Deutschland,1,2,3,4,14,42,62,78,26
 2025-01-02,00,Deutschland,1,2,4,7,17,43,57,80,23
 2025-01-03,00,Deutschland,0,2,3,4,14,41,62,65,23
-2025-01-04,00,Deutschland,1,2,2,5,15,47,61,59,23
-2025-01-05,00,Deutschland,1,2,1,6,15,53,63,56,17
+2025-01-04,00,Deutschland,1,2,2,5,15,46,61,60,23
+2025-01-05,00,Deutschland,1,2,1,6,15,52,63,57,17
+2025-01-06,00,Deutschland,2,2,3,5,13,52,71,61,19
