@@ -9,8 +9,8 @@ Nordufer 20
 **Beitragende**  
 Martina Fischer&sup1; (Projektverantwortung), Kerstin Bischoff&sup1; (Projektleitung), Wera Berge&sup1; (Wissenschaftliche Mitarbeit) und Janina Esins&sup2; (Wissenschaftliche Mitarbeit)   
 
-&emsp;&sup1; [Robert Koch-Institut](https://www.rki.de) | [Fachgebiet MF 4](https://www.rki.de/DE/Content/Institut/OrgEinheiten/MFI/MF4/mf4_node.html)  
-&emsp;&sup2; [Robert Koch-Institut](https://www.rki.de) | [Fachgebiet IT 4](https://www.rki.de/DE/Content/Institut/OrgEinheiten/MFI/IT4/it4_node.html)  
+&emsp;&sup1; [Robert Koch-Institut](https://www.rki.de) | [Fachgebiet MF 4](https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/MF4/mf4-fach-und-forschungsdatenmanagement-node.html)  
+&emsp;&sup2; [Robert Koch-Institut](https://www.rki.de) | [Fachgebiet IT 4](https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/IT4/it4-softwarearchitektur-und-entwicklung-node.html)  
 
 ---
 
