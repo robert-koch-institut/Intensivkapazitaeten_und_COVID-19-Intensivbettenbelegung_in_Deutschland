@@ -49,8 +49,8 @@
     "Open Data",
     "RKI"
   ],
-  "publication_date": "2025-01-30",
-  "version": "2025-01-30",
+  "publication_date": "2025-03-25",
+  "version": "2025-03-25",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "CC-BY-4.0",
@@ -80,8 +80,8 @@
   ],
   "dates": [
     {
-      "start": "2025-01-30T14:30:33+01:00",
-      "end": "2025-01-30T14:30:33+01:00",
+      "start": "2025-03-25T14:30:42+01:00",
+      "end": "2025-03-25T14:30:42+01:00",
       "type": "Created",
       "description": "Date when the published data was created"
     }
@@ -91,16 +91,6 @@
       "relation": "isSupplementTo",
       "identifier": "https://github.com/robert-koch-institut/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland",
       "resource_type": "dataset"
-    },
-    {
-      "relation": "isDocumentedBy",
-      "identifier": "https://github.com/robert-koch-institut/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland/blob/main/Readme.md",
-      "resource_type": "publication-report"
-    },
-    {
-      "relation": "isDocumentedBy",
-      "identifier": "https://github.com/robert-koch-institut/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland/blob/main/[Dokumentation]_Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland.pdf",
-      "resource_type": "publication-report"
     },
     {
       "relation": "isDescribedBy",
