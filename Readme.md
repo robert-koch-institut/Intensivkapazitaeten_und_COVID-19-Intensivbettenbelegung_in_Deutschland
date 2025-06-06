@@ -16,7 +16,7 @@ Martina Fischer&sup1; (Projektverantwortung), Kerstin Bischoff&sup1; (Projektlei
 
 **Zitieren**
 <!-- CITATION_START: {"citation_style": "apa"} -->
-Robert Koch-Institut. (2025). Intensivkapazitäten und COVID-19-Intensivbettenbelegung in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.15601053](https://doi.org/10.5281/zenodo.15601053)
+Robert Koch-Institut. (2025). Intensivkapazitäten und COVID-19-Intensivbettenbelegung in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.15608593](https://doi.org/10.5281/zenodo.15608593)
 <!-- CITATION_END -->
  
 
