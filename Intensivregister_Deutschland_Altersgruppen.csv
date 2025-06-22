@@ -1512,4 +1512,6 @@ datum,bundesland_id,bundesland_name,altersgruppe_0_bis_17,altersgruppe_18_bis_29
 2025-06-17,00,Deutschland,2,0,0,2,2,3,5,7,4
 2025-06-18,00,Deutschland,2,0,0,2,2,3,5,8,5
 2025-06-19,00,Deutschland,2,0,0,3,2,3,5,7,7
-2025-06-20,00,Deutschland,1,0,0,2,1,4,5,5,7
+2025-06-20,00,Deutschland,1,0,0,2,0,4,5,5,7
+2025-06-21,00,Deutschland,1,0,0,2,0,5,8,5,4
+2025-06-22,00,Deutschland,1,0,0,2,1,5,8,5,3
