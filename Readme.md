@@ -50,7 +50,7 @@ Auf der Intensivregister-Website können sich die Intensivstationen (ITS) initia
 
 ### Datenaufbereitung
 
-Jeder Auswertung und jedem Bericht von Zahlen liegt ein Preprocessing zugrunde, welches unter https://www.intensivregister.de/#/faq nachzulesen ist. 
+Jeder Auswertung und jedem Bericht von Zahlen liegt ein Preprocessing zugrunde, welches [hier](https://www.intensivregister.de/#/faq/464a885b-cecc-447a-a175-f2a1fab75e45) nachzulesen ist. 
 
 ## Aufbau und Inhalt des Datensatzes
 
