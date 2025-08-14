@@ -1,0 +1,70 @@
+[
+  {
+    "name": "datum",
+    "type": "date",
+    "format": "yyyy-MM-dd",
+    "description": "Stichdatum der gemeldeten ITS-Belegung durch COVID-19-ITS-Fälle."
+  },
+  {
+    "name": "bundesland_id",
+    "type": "string",
+    "constraints": {
+      "enum": [
+        "00"
+      ]
+    },
+    "description": "Wert für das gesamte Bundesgebiet."
+  },
+  {
+    "name": "bundesland_name",
+    "type": "string",
+    "constraints": {
+      "enum": [
+        "Deutschland"
+      ]
+    },
+    "description": "Gesamtes Bundesgebiet."
+  },
+  {
+    "name": "behandlungsgruppe",
+    "type": "string",
+    "constraints": {
+      "enum": [
+        "ERWACHSENE"
+      ]
+    },
+    "description": "Angabe der Behandlungsgruppe."
+  },
+  {
+    "name": "anzahl_meldebereiche",
+    "type": "integer",
+    "constraints": {
+      "minimum": 0
+    },
+    "description": "Ein Meldebereich entspricht einer Intensivstation oder einem Intensivbereich, für welchen das dort arbeitende fachmedizinische Personal Meldungen im DIVI-Intensivregister (täglich) abgibt. Die Anzahl der Meldebereiche gibt an, wie viele Meldebereiche gemeldet haben und in den aktuellen Datenstand einfließen. Die Anzahl der Meldebereiche umfasst ausschließlich Erwachsenen-Intensivstationen."
+  },
+  {
+    "name": "faelle_covid_aktuell_invasiv_beatmet",
+    "type": "integer",
+    "constraints": {
+      "minimum": 0
+    },
+    "description": "Anzahl aktuell invasiv beatmeter COVID-19-Patient*innen in intensivmedizinischer Behandlung. (Erwachsene) Diese Angabe bezieht sich auf COVID-19-Intensivpatient*innen mit invasiver Beatmung."
+  },
+  {
+    "name": "faelle_covid_aktuell_nicht_invasiv_beatmet",
+    "type": "integer",
+    "constraints": {
+      "minimum": 0
+    },
+    "description": "Anzahl aktuell nichtinvasiv beatmeter COVID-19-Patient*innen in intensivmedizinischer Behandlung. (Erwachsene) Diese Angabe bezieht sich auf COVID-19-Intensivpatient*innen mit nichtinvasiver Beatmung; als höchste Stufe der respiratorischen Unterstützung in den letzten 24h."
+  },
+  {
+    "name": "faelle_covid_aktuell_ecmo",
+    "type": "integer",
+    "constraints": {
+      "minimum": 0
+    },
+    "description": "Anzahl aktuell mit ECMO behandelter COVID-19-Patient*innen in intensivmedizinischer Behandlung (Erwachsene). Diese Angabe bezieht sich auf alle COVID-19-Intensivpatient*innen mit ECMO Behandlung, auch wenn bei Ihnen eine zusätzlich invasive oder nichtinvasive Beatmung vorliegt; eine Mehrfachzählung mit den Kennzahlen faelle_covid_aktuell_invasiv_beatmet und faelle_covid_aktuell_nicht_invasiv_beatmet ist möglich."
+  }
+]

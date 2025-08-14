@@ -48,6 +48,15 @@
       "format": "csv",
       "mediatype": "text/csv",
       "schema": "Metadaten/schemas/tableschema_Intensivregister_Landkreise_Kapazitaeten.json"
+    },
+    {
+      "name": "intensivregister_deutschland_covid_versorgungsart",
+      "type": "table",
+      "path": "Intensivregister_Deutschland_Covid_Versorgungsart.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": "Metadaten/schemas/tableschema_Intensivregister_Deutschland_Covid_Versorgungsart.json"
     }
   ]
 }
