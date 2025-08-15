@@ -267,11 +267,11 @@ Die Datei [Intensivregister_Deutschland_Versorgungsstufen.csv](https://github.co
 
 <!-- DATA_SCHEMA_SPECIFICATION_END -->
    
-### COVID-19-Prävalenz nach Art der Behandlung auf Deutschlandebene
+### COVID-19-Prävalenz nach Art der Versorgung auf Bundesebene
 
 #### Variablen
 
-Die CSV-Datei der *Intensivregister_Deutschland_Covid_Behandlungsart.csv* zeigt die zeitliche Entwicklung der Behandlungsart von allen erwachsenen intensivmedizinisch behandelten COVID-19-Patient\*innen aggregiert auf Deutschlandebene. Diese Daten werden einmalig bereitgestellt für den Zeitraum 18.12.2020 (ca. Beginn der differenzierteren Erfassung nach Behandlungsart im Intensivregister) bis 05.05.2023 (Ende der differenzierteren Erfassung).
+Die CSV-Datei der *Intensivregister_Deutschland_Covid_Versorungsart.csv* zeigt die zeitliche Entwicklung der Versorgungsart von allen erwachsenen intensivmedizinisch behandelten COVID-19-Patient\*innen aggregiert auf Bundesebene. Diese Daten werden einmalig bereitgestellt für den Zeitraum 18.12.2020 (ca. Beginn der differenzierteren Erfassung nach Behandlungsart im Intensivregister) bis 05.05.2023 (Ende der differenzierteren Erfassung).
 
 #### Variablenausprägungen auf Bundesebene 
 
