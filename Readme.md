@@ -9,8 +9,8 @@ Nordufer 20
 **Beitragende**  
 Martina Fischer&sup1; (Projektverantwortung), Kerstin Bischoff&sup1; (Projektleitung), Wera Berge&sup1; (Wissenschaftliche Mitarbeit) und Janina Esins&sup2; (Wissenschaftliche Mitarbeit)   
 
-&emsp;&sup1; [Robert Koch-Institut](https://www.rki.de) | [Fachgebiet MF 4](https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/MF4/mf4-fach-und-forschungsdatenmanagement-node.html)  
-&emsp;&sup2; [Robert Koch-Institut](https://www.rki.de) | [Fachgebiet IT 4](https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/IT4/it4-softwarearchitektur-und-entwicklung-node.html)  
+&emsp;&sup1; [Robert Koch-Institut](https://www.rki.de) | [Fachgebiet MF 4](https://www.rki.de/mf4)  
+&emsp;&sup2; [Robert Koch-Institut](https://www.rki.de) | [Fachgebiet IT 4](https://www.rki.de/it4)  
 
 ---
 
@@ -60,6 +60,7 @@ Der Datensatz enthält Daten über den Verlauf der intensivmedizinischen Kapazit
 * *Intensivregister_Landkreise_Kapazitaeten.csv*
 * *Intensivregister_Deutschland_Altersgruppen.csv*
 * *Intensivregister_Deutschland_Versorgungsstufen.csv* 
+* *Intensivregister_Deutschland_Covid_Versorgungsart.csv* 
 * Lizenz-Dateien mit der Nutzungslizenz des Datensatzes in Deutsch und Englisch
 * Datensatzdokumentation in deutscher Sprache
 * Metadaten-Datei zum Import in Zenodo
@@ -266,7 +267,34 @@ Die Datei [Intensivregister_Deutschland_Versorgungsstufen.csv](https://github.co
 
 <!-- DATA_SCHEMA_SPECIFICATION_END -->
    
+### COVID-19-Prävalenz nach Art der Behandlung auf Deutschlandebene
 
+#### Variablen
+
+Die CSV-Datei der *Intensivregister_Deutschland_Covid_Behandlungsart.csv* zeigt die zeitliche Entwicklung der Behandlungsart von allen erwachsenen intensivmedizinisch behandelten COVID-19-Patient\*innen aggregiert auf Deutschlandebene. Diese Daten werden einmalig bereitgestellt für den Zeitraum 18.12.2020 (ca. Beginn der differenzierteren Erfassung nach Behandlungsart im Intensivregister) bis 05.05.2023 (Ende der differenzierteren Erfassung).
+
+#### Variablenausprägungen auf Bundesebene 
+
+<!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "Intensivregister_Deutschland_Covid_Versorgungsart", "lang": "de"} -->
+
+Die Datei [Intensivregister_Deutschland_Covid_Versorgungsart.csv](https://github.com/robert-koch-institut/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland/blob/main/Intensivregister_Deutschland_Covid_Versorgungsart.csv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Data Package Standard](https://datapackage.org/) in [tableschema_Intensivregister_Deutschland_Covid_Versorgungsart.json](https://github.com/robert-koch-institut/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland/blob/main/Metadaten/schemas/tableschema_Intensivregister_Deutschland_Covid_Versorgungsart.json) hinterlegt:
+> [tableschema_Intensivregister_Deutschland_Covid_Versorgungsart.json](https://github.com/robert-koch-institut/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland/blob/main/Metadaten/schemas/tableschema_Intensivregister_Deutschland_Covid_Versorgungsart.json)
+
+<!-- DATA_SCHEMA_TABLE_START -->
+| Variable                                       | Typ     | Ausprägungen                        | Beschreibung                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|:-----------------------------------------------|:--------|:------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| datum                                          | date    | Format: `YYYY-MM-DD`                | Stichdatum der gemeldeten ITS-Belegung durch COVID-19-ITS-Fälle.                                                                                                                                                                                                                                                                                                                                                                  |
+| bundesland_id                                  | string  | Werte: `00`                         | Wert für das gesamte Bundesgebiet.                                                                                                                                                                                                                                                                                                                                                                                                |
+| bundesland_name                                | string  | Werte: `Deutschland`                | Gesamtes Bundesgebiet.                                                                                                                                                                                                                                                                                                                                                                                                            |
+| behandlungsgruppe                              | string  | Werte: `ERWACHSENE`                 | Angabe der Behandlungsgruppe.                                                                                                                                                                                                                                                                                                                                                                                                     |
+| anzahl_meldebereiche                           | integer | Werte: `≥0`                         | Ein Meldebereich entspricht einer Intensivstation oder einem Intensivbereich, für welchen das dort arbeitende fachmedizinische Personal Meldungen im DIVI-Intensivregister (täglich) abgibt. Die Anzahl der Meldebereiche gibt an, wie viele Meldebereiche gemeldet haben und in den aktuellen Datenstand einfließen. Die Anzahl der Meldebereiche umfasst ausschließlich Erwachsenen-Intensivstationen.                          |
+| faelle_covid_aktuell_invasiv_<br>beatmet       | integer | Werte: `≥0`                         | Anzahl aktuell invasiv beatmeter COVID-19-Patient\*innen in intensivmedizinischer Behandlung. (Erwachsene) Diese Angabe bezieht sich auf COVID-19-Intensivpatient\*innen mit invasiver Beatmung.                                                                                                                                                                                                                                  |
+| faelle_covid_aktuell_nicht_<br>invasiv_beatmet | integer | Werte: `≥0`                         | Anzahl aktuell nichtinvasiv beatmeter COVID-19-Patient\*innen in intensivmedizinischer Behandlung. (Erwachsene) Diese Angabe bezieht sich auf COVID-19-Intensivpatient\*innen mit nichtinvasiver Beatmung; als höchste Stufe der respiratorischen Unterstützung in den letzten 24h.                                                                                                                                               |
+| faelle_covid_aktuell_ecmo                      | integer | Werte: `≥0`<br>Fehlende Werte: `NA` | Anzahl aktuell mit ECMO behandelter COVID-19-Patient\*innen in intensivmedizinischer Behandlung (Erwachsene). Diese Angabe bezieht sich auf alle COVID-19-Intensivpatient\*innen mit ECMO Behandlung, auch wenn bei Ihnen eine zusätzlich invasive oder nichtinvasive Beatmung vorliegt; eine Mehrfachzählung mit den Kennzahlen faelle_covid_aktuell_invasiv_beatmet und faelle_covid_aktuell_nicht_invasiv_beatmet ist möglich. |
+
+<!-- DATA_SCHEMA_TABLE_END -->
+
+<!-- DATA_SCHEMA_SPECIFICATION_END -->
 ### Formatierung der Daten 
 
 Die Daten sind im Datensatz als kommaseparierte .csv Datei enthalten. Der verwendete Zeichensatz der CSV-Datei ist UTF-8. Trennzeichen der einzelnen Werte ist ein Komma “,”. Datumsangaben sind im ISO8601 Standard formatiert.
