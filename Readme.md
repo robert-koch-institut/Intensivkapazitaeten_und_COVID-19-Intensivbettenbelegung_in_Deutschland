@@ -267,7 +267,7 @@ Die Datei [Intensivregister_Deutschland_Versorgungsstufen.csv](https://github.co
 
 <!-- DATA_SCHEMA_SPECIFICATION_END -->
    
-### COVID-19-Prävalenz nach Art der Versorgung auf Deutschlandebene
+### COVID-19-Prävalenz nach Art der Versorgung auf Bundesebene
 
 #### Variablen
 
