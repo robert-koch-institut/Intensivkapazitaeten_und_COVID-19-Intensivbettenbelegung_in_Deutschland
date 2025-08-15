@@ -47,7 +47,7 @@
     {
       "name": "faelle_covid_aktuell_invasiv_beatmet",
       "type": "integer",
-      "description": "Anzahl aktuell invasiv beatmeter COVID-19-Patient*innen in intensivmedizinischer Behandlung. (Erwachsene) Diese Angabe bezieht sich auf COVID-19-Intensivpatient*innen mit invasiver Beatmung.",
+      "description": "Anzahl aktuell invasiv beatmeter COVID-19-Patient\\*innen in intensivmedizinischer Behandlung. (Erwachsene) Diese Angabe bezieht sich auf COVID-19-Intensivpatient\\*innen mit invasiver Beatmung.",
       "constraints": {
         "minimum": 0
       }
@@ -55,7 +55,7 @@
     {
       "name": "faelle_covid_aktuell_nicht_invasiv_beatmet",
       "type": "integer",
-      "description": "Anzahl aktuell nichtinvasiv beatmeter COVID-19-Patient*innen in intensivmedizinischer Behandlung. (Erwachsene) Diese Angabe bezieht sich auf COVID-19-Intensivpatient*innen mit nichtinvasiver Beatmung; als höchste Stufe der respiratorischen Unterstützung in den letzten 24h.",
+      "description": "Anzahl aktuell nichtinvasiv beatmeter COVID-19-Patient\\*innen in intensivmedizinischer Behandlung. (Erwachsene) Diese Angabe bezieht sich auf COVID-19-Intensivpatient\\*innen mit nichtinvasiver Beatmung; als höchste Stufe der respiratorischen Unterstützung in den letzten 24h.",
       "constraints": {
         "minimum": 0
       }
@@ -63,7 +63,7 @@
     {
       "name": "faelle_covid_aktuell_ecmo",
       "type": "integer",
-      "description": "Anzahl aktuell mit ECMO behandelter COVID-19-Patient*innen in intensivmedizinischer Behandlung (Erwachsene). Diese Angabe bezieht sich auf alle COVID-19-Intensivpatient*innen mit ECMO Behandlung, auch wenn bei Ihnen eine zusätzlich invasive oder nichtinvasive Beatmung vorliegt; eine Mehrfachzählung mit den Kennzahlen faelle_covid_aktuell_invasiv_beatmet und faelle_covid_aktuell_nicht_invasiv_beatmet ist möglich.",
+      "description": "Anzahl aktuell mit ECMO behandelter COVID-19-Patient\\*innen in intensivmedizinischer Behandlung (Erwachsene). Diese Angabe bezieht sich auf alle COVID-19-Intensivpatient\\*innen mit ECMO Behandlung, auch wenn bei Ihnen eine zusätzlich invasive oder nichtinvasive Beatmung vorliegt; eine Mehrfachzählung mit den Kennzahlen faelle_covid_aktuell_invasiv_beatmet und faelle_covid_aktuell_nicht_invasiv_beatmet ist möglich.",
       "missingValues": [
         "NA"
       ],
