@@ -21,7 +21,7 @@ abstract: >-
   maßgebliche Informationsgrundlage für staatliche Steuerungs- und
   Planungsmaßnahmen sowie für die lokale und überregionale Steuerung und
   Koordinierung der Bettenbelegung.
-date-released: '2025-08-19'
+date-released: '2025-08-20'
 keywords:
   - COVID-19
   - SARS-CoV-2
@@ -49,7 +49,7 @@ message: Cite me!
 url: >-
   https://robert-koch-institut.github.io/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland/
 license: CC-BY-4.0
-doi: 10.5281/zenodo.16902420
-version: '2025-08-19T14:30:37+02:00'
+doi: 10.5281/zenodo.16911155
+version: '2025-08-20T14:31:28+02:00'
 authors:
   - name: Robert Koch-Institut
