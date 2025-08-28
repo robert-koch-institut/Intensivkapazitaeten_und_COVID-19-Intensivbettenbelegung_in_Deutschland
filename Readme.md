@@ -73,10 +73,8 @@ Die hier veröffentlichen Daten sind aggregierte Daten. Mehr Informationen finde
 | Intensivregister_Bundeslaender_ Kapazitaeten| Zeitreihendaten: Anzahl Meldebereiche, ITS-Kapazitäten, COVID-19-Fälle auf ITS, Betriebssituation  | Bundesland | Erwachsene |
 | Intensivregister_Deutschland_ Kapazitaeten  | Zeitreihendaten: Anzahl Meldebereiche, ITS-Kapazitäten, COVID-19-Fälle auf ITS, Betriebssituation  |Deutschland | Erwachsene; Kinder |
 | Intensivregister_Deutschland_ Altersgruppen | Zeitreihendaten: Altersstruktur der COVID-19-Fälle auf ITS | Deutschland | Gesamt (Daten für Erwachsene und Kinder gemeinsam aggregiert) |
-| Intensivregister_Deutschland_ Versorgungsstufen | Zeitreihendaten: Anzahl Meldebereiche, ITS-Kapazitäten, COVID-19-Fälle auf ITS, Versorgungsgrad; einmalige Bereitstellung für 01.05.2020 bis 05.05.2023  |
-Deutschland | Gesamt (Daten für Erwachsene und Kinder gemeinsam aggregiert) | 
-| Intensivregister_Deutschland_Covid_Versorgungsart | Zeitreihendaten: Anzahl Meldebereiche, Fälle Covid aktuell invasiv beatmet, Fälle Covid aktuell nicht invasiv beatmet, Fälle Covid Aktuell Ecmo; einmalige Bereitstellung für 01.05.2020 bis 05.05.2023  |
-Deutschland | Erwachsene | 
+| Intensivregister_Deutschland_ Versorgungsstufen | Zeitreihendaten: Anzahl Meldebereiche, ITS-Kapazitäten, COVID-19-Fälle auf ITS, Versorgungsgrad; einmalige Bereitstellung für 01.05.2020 bis 05.05.2023  |Deutschland | Gesamt (Daten für Erwachsene und Kinder gemeinsam aggregiert) | 
+| Intensivregister_Deutschland_Covid_Versorgungsart | Zeitreihendaten: Anzahl Meldebereiche, Fälle Covid aktuell invasiv beatmet, Fälle Covid aktuell nicht invasiv beatmet, Fälle Covid Aktuell Ecmo; einmalige Bereitstellung für 18.12.2020 bis 05.05.2023|Deutschland | Erwachsene | 
 
 
 ### Intensivkapazitäten und COVID-19-Intensivbettenbelegung auf Bundes- und Länderebene
