@@ -1,27 +1,46 @@
 <!-- HEADER_START: {"lang": "de"} -->
 
-# Intensivkapazitäten und COVID-19-Intensivbettenbelegung in Deutschland  
 
-[**Robert Koch-Institut | RKI**](https://rki.de)  
-Nordufer 20  
-13353 Berlin  
+Dokumentation  
+# Intensivkapazitäten und COVID-19-Intensivbettenbelegung in Deutschland
+
+<br> 
+<br> 
+<br> 
+
+[**Robert Koch-Institut**](https://www.rki.de/)
+
+<br> 
+
+**Beitragende**   
+Martina Fischer&sup1;, Kerstin Bischoff&sup1;, Wera Berge&sup1;, & Janina Esins&sup2;
+
+&emsp;&emsp;&sup1; [Robert Koch-Institut](https://www.rki.de/) | [Fachgebiet MF 4](https://www.rki.de/mf4)  
+&emsp;&emsp;&sup2; [Robert Koch-Institut](https://www.rki.de/) | [Fachgebiet IT 4](https://www.rki.de/it4)
+
+<br> 
+
+**Zitieren**  
+Robert Koch-Institut. (2025). Intensivkapazitäten und COVID-19-Intensivbettenbelegung in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.17046865](https://doi.org/10.5281/zenodo.17046865)
 
 <br>
 
-**Beitragende**  
-Martina Fischer&sup1; (Projektverantwortung), Kerstin Bischoff&sup1; (Projektleitung), Wera Berge&sup1; (Wissenschaftliche Mitarbeit) und Janina Esins&sup2; (Wissenschaftliche Mitarbeit)   
 
-&emsp;&sup1; [Robert Koch-Institut](https://www.rki.de) | [Fachgebiet MF 4](https://www.rki.de/mf4)  
-&emsp;&sup2; [Robert Koch-Institut](https://www.rki.de) | [Fachgebiet IT 4](https://www.rki.de/it4)  
+**Zusammenfassung**    
+Der Datensatz "Intensivkapazitäten und COVID-19-Intensivbettenbelegung in Deutschland" des Robert Koch-Instituts dokumentiert die tägliche intensivmedizinische Versorgungslage seit der COVID-19-Pandemie. Basierend auf Meldungen aller intensivbettenführenden Krankenhäuser in Deutschland erfasst das DIVI-Intensivregister Echtzeitdaten zu belegten und freien Intensivbetten. Die Erhebung differenziert nach Altersgruppen, Regionen und Versorgungsstufen. COVID-19-Fälle auf Intensivstationen werden gesondert ausgewiesen. Die Daten stehen aggregiert auf Bundes-, Landes- und Kreisebene zur Verfügung. Damit bildet der Datensatz eine Grundlage für die Überwachung von Kapazitäten, die Koordination von Behandlungskapazitäten und politische Entscheidungsprozesse während der Pandemie und darüber hinaus.
 
----
+<br>
 
-**Zitieren**
-<!-- CITATION_START: {"citation_style": "apa"} -->
-Robert Koch-Institut. (2025). Intensivkapazitäten und COVID-19-Intensivbettenbelegung in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.17046865](https://doi.org/10.5281/zenodo.17046865)
-<!-- CITATION_END -->
- 
- <!-- HEADER_END -->
+**Inhaltsverzeichnis** 
+<!-- TOC_START: {"heading_depth": 2} -->
+  - [Informationen zum Datensatz und Entstehungskontext](#informationen-zum-datensatz-und-entstehungskontext)
+  - [Aufbau und Inhalt des Datensatzes](#aufbau-und-inhalt-des-datensatzes)
+  - [Hinweise zur Nachnutzung der Daten](#hinweise-zur-nachnutzung-der-daten)
+<!-- TOC_END -->
+
+<br>
+
+<!-- HEADER_END -->
 
 
 ## Informationen zum Datensatz und Entstehungskontext  
