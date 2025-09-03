@@ -1,3 +1,5 @@
+<!-- HEADER_START: {"lang": "de"} -->
+
 # Intensivkapazitäten und COVID-19-Intensivbettenbelegung in Deutschland  
 
 [**Robert Koch-Institut | RKI**](https://rki.de)  
@@ -19,6 +21,8 @@ Martina Fischer&sup1; (Projektverantwortung), Kerstin Bischoff&sup1; (Projektlei
 Robert Koch-Institut. (2025). Intensivkapazitäten und COVID-19-Intensivbettenbelegung in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.17046865](https://doi.org/10.5281/zenodo.17046865)
 <!-- CITATION_END -->
  
+ <!-- HEADER_END -->
+
 
 ## Informationen zum Datensatz und Entstehungskontext  
 
