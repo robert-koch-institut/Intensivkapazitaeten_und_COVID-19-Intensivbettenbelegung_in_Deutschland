@@ -2,26 +2,18 @@ cff-version: 1.2.0
 type: dataset
 title: Intensivkapazitäten und COVID-19-Intensivbettenbelegung in Deutschland
 abstract: >-
-  Das Intensivregister (www.intensivregister.de) ist eine digitale Plattform zur
-  Echtzeiterfassung von intensivmedizinischen Behandlungs- und Bettenkapazitäten
-  sowie den Fallzahlen intensivmedizinisch behandelter COVID-19-Patient:innen
-  der etwa 1.300 Akut-Krankenhäuser Deutschlands. Bis 12 Uhr ist die tägliche
-  Meldung laut Verordnung für die Krankenhäuser verpflichtend. Darüber hinaus
-  kann beliebig oft gemeldet werden, sodass Veränderungen in den Kapazitäten
-  aktuell berichtet werden können.
-
-  Damit ermöglicht das Intensivregister in der Pandemie sowie darüber hinaus,
-  Engpässe in der intensivmedizinischen Versorgung im regionalen und zeitlichen
-  Vergleich zu erkennen. Es schafft somit eine wertvolle Grundlage zur Reaktion
-  und zur datengestützten Handlungssteuerung in Echtzeit. Zur Aufrechterhaltung
-  der Krankenhausversorgung bietet das DIVI-Intensivregister demnach ein Portal
-  zur Suche freier Intensivbetten und zur Kontaktaufnahme zwischen
-  Fachkolleg*innen, um die gegenseitige Unterstützung bei Behandlungsfragen im
-  intensivmedizinischen Kontext zu erleichtern. Ebenso liefert es eine
-  maßgebliche Informationsgrundlage für staatliche Steuerungs- und
-  Planungsmaßnahmen sowie für die lokale und überregionale Steuerung und
-  Koordinierung der Bettenbelegung.
-date-released: '2025-09-03'
+  Der Datensatz &quot;Intensivkapazitäten und COVID-19-Intensivbettenbelegung in
+  Deutschland&quot; des Robert Koch-Instituts dokumentiert die tägliche
+  intensivmedizinische Versorgungslage seit der COVID-19-Pandemie. Basierend auf
+  Meldungen aller intensivbettenführenden Krankenhäuser in Deutschland erfasst
+  das DIVI-Intensivregister Echtzeitdaten zu belegten und freien Intensivbetten.
+  Die Erhebung differenziert nach Altersgruppen, Regionen und Versorgungsstufen.
+  COVID-19-Fälle auf Intensivstationen werden gesondert ausgewiesen. Die Daten
+  stehen aggregiert auf Bundes-, Landes- und Kreisebene zur Verfügung. Damit
+  bildet der Datensatz eine Grundlage für die Überwachung von Kapazitäten, die
+  Koordination von Behandlungskapazitäten und politische Entscheidungsprozesse
+  während der Pandemie und darüber hinaus.
+date-released: '2025-09-04'
 keywords:
   - COVID-19
   - SARS-CoV-2
@@ -49,7 +41,8 @@ message: Cite me!
 url: >-
   https://robert-koch-institut.github.io/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland/
 license: CC-BY-4.0
-doi: 10.5281/zenodo.17046865
-version: '2025-09-03T14:30:39+02:00'
+doi: 10.5281/zenodo.17054562
+version: '2025-09-04T14:30:37+02:00'
 authors:
   - name: Robert Koch-Institut
+    email: info@rki.de

@@ -21,7 +21,7 @@ Martina Fischer&sup1;, Kerstin Bischoff&sup1;, Wera Berge&sup1;, & Janina Esins&
 <br> 
 
 **Zitieren**  
-Robert Koch-Institut. (2025). Intensivkapazitäten und COVID-19-Intensivbettenbelegung in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.17046865](https://doi.org/10.5281/zenodo.17046865)
+Robert Koch-Institut. (2025). Intensivkapazitäten und COVID-19-Intensivbettenbelegung in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.17054562](https://doi.org/10.5281/zenodo.17054562)
 
 <br>
 

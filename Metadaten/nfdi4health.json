@@ -9,7 +9,7 @@
     "descriptions": [
       {
         "language": "DE (German)",
-        "text": "Das Intensivregister (www.intensivregister.de) ist eine digitale Plattform zur Echtzeiterfassung von intensivmedizinischen Behandlungs- und Bettenkapazitäten sowie den Fallzahlen intensivmedizinisch behandelter COVID-19-Patient:innen der etwa 1.300 Akut-Krankenhäuser Deutschlands. Bis 12 Uhr ist die tägliche Meldung laut Verordnung für die Krankenhäuser verpflichtend. Darüber hinaus kann beliebig oft gemeldet werden, sodass Veränderungen in den Kapazitäten aktuell berichtet werden können.\nDamit ermöglicht das Intensivregister in der Pandemie sowie darüber hinaus, Engpässe in der intensivmedizinischen Versorgung im regionalen und zeitlichen Vergleich zu erkennen. Es schafft somit eine wertvolle Grundlage zur Reaktion und zur datengestützten Handlungssteuerung in Echtzeit. Zur Aufrechterhaltung der Krankenhausversorgung bietet das DIVI-Intensivregister demnach ein Portal zur Suche freier Intensivbetten und zur Kontaktaufnahme zwischen Fachkolleg*innen, um die gegenseitige Unterstützung bei Behandlungsfragen im intensivmedizinischen Kontext zu erleichtern. Ebenso liefert es eine maßgebliche Informationsgrundlage für staatliche Steuerungs- und Planungsmaßnahmen sowie für die lokale und überregionale Steuerung und Koordinierung der Bettenbelegung."
+        "text": "Der Datensatz \"Intensivkapazitäten und COVID-19-Intensivbettenbelegung in Deutschland\" des Robert Koch-Instituts dokumentiert die tägliche intensivmedizinische Versorgungslage seit der COVID-19-Pandemie. Basierend auf Meldungen aller intensivbettenführenden Krankenhäuser in Deutschland erfasst das DIVI-Intensivregister Echtzeitdaten zu belegten und freien Intensivbetten. Die Erhebung differenziert nach Altersgruppen, Regionen und Versorgungsstufen. COVID-19-Fälle auf Intensivstationen werden gesondert ausgewiesen. Die Daten stehen aggregiert auf Bundes-, Landes- und Kreisebene zur Verfügung. Damit bildet der Datensatz eine Grundlage für die Überwachung von Kapazitäten, die Koordination von Behandlungskapazitäten und politische Entscheidungsprozesse während der Pandemie und darüber hinaus."
       }
     ],
     "titles": [
@@ -20,7 +20,7 @@
     ],
     "ids": [
       {
-        "identifier": "10.5281/zenodo.17046865",
+        "identifier": "10.5281/zenodo.17054562",
         "typeGeneral": "Dataset",
         "relationType": "A references B",
         "scheme": "DOI"
@@ -120,7 +120,7 @@
         },
         "label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
       },
-      "version": "2025-09-03"
+      "version": "2025-09-04"
     },
     "webpage": "https://robert-koch-institut.github.io/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland/",
     "contributors": [
@@ -136,11 +136,10 @@
             ]
           }
         ],
-        "nameType": "Personal",
-        "personal": {
-          "type": "Project leader",
-          "givenName": "Kerstin",
-          "familyName": "Bischoff"
+        "nameType": "Organisational",
+        "organisational": {
+          "name": "Robert Koch-Institut",
+          "type": "Creator/Author"
         }
       },
       {
@@ -176,9 +175,9 @@
         ],
         "nameType": "Personal",
         "personal": {
-          "type": "Researcher",
-          "givenName": "Janina",
-          "familyName": "Esins"
+          "type": "Project leader",
+          "givenName": "Kerstin",
+          "familyName": "Bischoff"
         }
       },
       {
@@ -212,10 +211,11 @@
             ]
           }
         ],
-        "nameType": "Organisational",
-        "organisational": {
-          "name": "Robert Koch-Institut",
-          "type": "Creator/Author"
+        "nameType": "Personal",
+        "personal": {
+          "type": "Researcher",
+          "givenName": "Janina",
+          "familyName": "Esins"
         }
       }
     ],
