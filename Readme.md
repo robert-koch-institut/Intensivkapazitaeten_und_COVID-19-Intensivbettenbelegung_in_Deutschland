@@ -92,10 +92,10 @@ Die hier veröffentlichen Daten sind aggregierte Daten. Mehr Informationen finde
  
 | Name | Inhalt | Aggregationsebene | Behandlungsgruppe |
 | ------ | -------| ------- | --- |
-| Intensivregister_Landkreis_ Kapazitaeten   | Zeitreihendaten: COVID-19-ITS-Fälle und ITS-Kapazitäten.| Landkreis         | Erwachsene; Gesamt (Daten für Erwachsene und Kinder gemeinsam aggregiert) |
+| Intensivregister_Landkreis_ Kapazitaeten   | Zeitreihendaten: COVID-19-ITS-Fälle und ITS-Kapazitäten; Bereitstellung vom 24.04.2020 bis 15.09.2025| Landkreis         | Erwachsene; Gesamt (Daten für Erwachsene und Kinder gemeinsam aggregiert) |
 | Intensivregister_Bundeslaender_ Kapazitaeten| Zeitreihendaten: Anzahl Meldebereiche, ITS-Kapazitäten, COVID-19-Fälle auf ITS, Betriebssituation  | Bundesland | Erwachsene |
 | Intensivregister_Deutschland_ Kapazitaeten  | Zeitreihendaten: Anzahl Meldebereiche, ITS-Kapazitäten, COVID-19-Fälle auf ITS, Betriebssituation  |Deutschland | Erwachsene; Kinder |
-| Intensivregister_Deutschland_ Altersgruppen | Zeitreihendaten: Altersstruktur der COVID-19-Fälle auf ITS | Deutschland | Gesamt (Daten für Erwachsene und Kinder gemeinsam aggregiert) |
+| Intensivregister_Deutschland_ Altersgruppen | Zeitreihendaten: Altersstruktur der COVID-19-Fälle auf ITS; Bereitstellung vom 29.04.2021 bis 15.09.2025| Deutschland | Gesamt (Daten für Erwachsene und Kinder gemeinsam aggregiert) |
 | Intensivregister_Deutschland_ Versorgungsstufen | Zeitreihendaten: Anzahl Meldebereiche, ITS-Kapazitäten, COVID-19-Fälle auf ITS, Versorgungsgrad; einmalige Bereitstellung für 01.05.2020 bis 05.05.2023  |Deutschland | Gesamt (Daten für Erwachsene und Kinder gemeinsam aggregiert) | 
 | Intensivregister_Deutschland_Covid_Versorgungsart | Zeitreihendaten: Anzahl Meldebereiche, Fälle Covid aktuell invasiv beatmet, Fälle Covid aktuell nicht invasiv beatmet, Fälle Covid Aktuell Ecmo; einmalige Bereitstellung für 18.12.2020 bis 05.05.2023|Deutschland | Erwachsene | 
 
@@ -198,7 +198,7 @@ Die Datei [Intensivregister_Bundeslaender_Kapazitaeten.csv](https://github.com/r
 ### Intensivkapazitäten und COVID-19-Intensivbettenbelegung auf Landkreisebene 
 #### Variablen
 
-Die CSV-Datei der *Intensivregister_Landkreise_Kapazitaeten.csv* enthält eine Aggregation der aktuellsten Meldungen auf Kreisebene.
+Die CSV-Datei der *Intensivregister_Landkreise_Kapazitaeten.csv* enthält eine Aggregation aller Meldungen pro Tag vom 24.04.2020 bis 15.09.2025 auf Kreisebene.
 
 #### Variablenausprägungen
     
@@ -232,7 +232,7 @@ Die Datei [Intensivregister_Landkreise_Kapazitaeten.csv](https://github.com/robe
 ### COVID-19-Intensivbettenbelegung nach Altersgruppen
 #### Variablen
 
-Die CSV-Datei der Intensivregister_Deutschland_Altersgruppen zeigt die zeitliche Entwicklung der Altersstruktur nach Altersgruppen in Jahren von COVID-19-Patient\*innen, die bundesweit intensivmedizinisch behandelt wurden und deren Altersgruppe im Intensivregister gemeldet wurde, für Erwachsene und Kinder zusammen.
+Die CSV-Datei der Intensivregister_Deutschland_Altersgruppen zeigt die zeitliche Entwicklung zwischen dem 29.04.2021 und 15.09.2025 der Altersstruktur nach Altersgruppen in Jahren von COVID-19-Patient\*innen, die bundesweit intensivmedizinisch behandelt wurden und deren Altersgruppe im Intensivregister gemeldet wurde, für Erwachsene und Kinder zusammen.
 Das Alter wird im Intensivregister seit dem 29. April 2021 erfasst.
 
 #### Variablenausprägungen
