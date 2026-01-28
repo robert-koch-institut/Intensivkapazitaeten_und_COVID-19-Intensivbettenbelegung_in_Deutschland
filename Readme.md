@@ -78,6 +78,7 @@ Jeder Auswertung und jedem Bericht von Zahlen liegt ein Preprocessing zugrunde, 
 ## Aufbau und Inhalt des Datensatzes
 
 Der Datensatz enthält Daten über den Verlauf der intensivmedizinischen Kapazitäten und der COVID-19-Intensivbettenbelegung in Deutschland sowie begleitende Informationen:
+
 * *Intensivregister_Deutschland_Kapazitaeten.csv* 
 * *Intensivregister_Bundeslaender_Kapazitaeten.csv*
 * *Intensivregister_Landkreise_Kapazitaeten.csv*
