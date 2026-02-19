@@ -22,10 +22,12 @@ Martina Fischer&sup1;, Kerstin Bischoff&sup1;, Wera Berge&sup1;, & Janina Esins&
 <br> 
 
 **Zitieren**  
+<!-- CITATION_START: {"citation_style": "apa"} -->  
 Robert Koch-Institut. (2026). Intensivkapazitäten und COVID-19-Intensivbettenbelegung in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.18482965](https://doi.org/10.5281/zenodo.18482965)
+<!-- CITATION_END -->
+
 
 <br>
-
 
 **Zusammenfassung**    
 Der Datensatz "Intensivkapazitäten und COVID-19-Intensivbettenbelegung in Deutschland" des Robert Koch-Instituts dokumentiert die tägliche intensivmedizinische Versorgungslage seit der COVID-19-Pandemie. Basierend auf Meldungen aller intensivbettenführenden Krankenhäuser in Deutschland erfasst das DIVI-Intensivregister Echtzeitdaten zu belegten und freien Intensivbetten. Die Erhebung differenziert nach Altersgruppen, Regionen und Versorgungsstufen. COVID-19-Fälle auf Intensivstationen werden gesondert ausgewiesen. Die Daten stehen aggregiert auf Bundes-, Landes- und Kreisebene zur Verfügung. Damit bildet der Datensatz eine Grundlage für die Überwachung von Kapazitäten, die Koordination von Behandlungskapazitäten und politische Entscheidungsprozesse während der Pandemie und darüber hinaus.
@@ -57,7 +59,7 @@ Im Rahmen der COVID-19-Pandemie wurde das Register zunächst aus dem bereits bes
 
 Das Intensivregister wird als Kooperationsprojekt des Robert Koch-Instituts (RKI) und der Deutschen Interdisziplinären Vereinigung für Intensiv- und Notfallmedizin e.V. (DIVI e.V.) aufgebaut und entwickelt. Die DIVI e.V. (https://www.divi.de/) ist eine wissenschaftliche Fachgesellschaft auf dem Gebiet der Intensiv- und Notfallmedizin in Deutschland. Sie ist ein Zusammenschluss von Fachverbänden und Berufsgesellschaften, wissenschaftlichen Gesellschaften und Einzelmitgliedern.
 Die Projektleitung des Intensivregisters liegt im Fachgebiet MF4 | Fach- und Forschungsdatenmanagement des RKI. Neben dem Betrieb verantwortet das Fachgebiet die technisch-methodische Entwicklung des Intensivregisters sowie Analysen und Reporting. Die DIVI e.V. übernimmt in Abstimmung mit dem RKI die Konzeption und Weiterentwicklung der intensiv- und notfallmedizinischen Inhalte. In der technischen Umsetzung wird das Projekt durch SAS Institute Inc. und Prodyna SE unterstützt. Die finanzielle und regulatorische Förderung liegt beim Bundesministerium für Gesundheit. 
-Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgen durch das Fachgebiet MF 4. Fragen zum Datenmanagement und zur Publikationsinfrastruktur können an das Open Data-Team des Fachgebiets MF4 unter OpenData@rki.de gerichtet werden.
+Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgen durch das Fachgebiet MF 4. Fragen zum Datenmanagement und zur Publikationsinfrastruktur können an das Open Data-Team des Fachgebiets MF4 unter [OpenData@rki.de](mailto:OpenData@rki.de) gerichtet werden.
 
 ### Rechtliche Grundlage und Arbeitsauftrag
 
@@ -94,13 +96,13 @@ Der Datensatz enthält Daten über den Verlauf der intensivmedizinischen Kapazit
 Die hier veröffentlichen Daten sind aggregierte Daten. Mehr Informationen finden Sie in der nachfolgenden Tabelle: 
  
 | Name | Inhalt | Aggregationsebene | Behandlungsgruppe |
-| ------ | -------| ------- | --- |
-| Intensivregister_Landkreis_ Kapazitaeten   | Zeitreihendaten: COVID-19-ITS-Fälle und ITS-Kapazitäten; Bereitstellung vom 24.04.2020 bis 15.09.2025| Landkreis         | Erwachsene; Gesamt (Daten für Erwachsene und Kinder gemeinsam aggregiert) |
-| Intensivregister_Bundeslaender_ Kapazitaeten| Zeitreihendaten: Anzahl Meldebereiche, ITS-Kapazitäten, COVID-19-Fälle auf ITS, Betriebssituation  | Bundesland | Erwachsene |
-| Intensivregister_Deutschland_ Kapazitaeten  | Zeitreihendaten: Anzahl Meldebereiche, ITS-Kapazitäten, COVID-19-Fälle auf ITS, Betriebssituation  |Deutschland | Erwachsene; Kinder |
-| Intensivregister_Deutschland_ Altersgruppen | Zeitreihendaten: Altersstruktur der COVID-19-Fälle auf ITS; Bereitstellung vom 29.04.2021 bis 15.09.2025| Deutschland | Gesamt (Daten für Erwachsene und Kinder gemeinsam aggregiert) |
-| Intensivregister_Deutschland_ Versorgungsstufen | Zeitreihendaten: Anzahl Meldebereiche, ITS-Kapazitäten, COVID-19-Fälle auf ITS, Versorgungsgrad; einmalige Bereitstellung für 01.05.2020 bis 05.05.2023  |Deutschland | Gesamt (Daten für Erwachsene und Kinder gemeinsam aggregiert) | 
-| Intensivregister_Deutschland_Covid_Versorgungsart | Zeitreihendaten: Anzahl Meldebereiche, Fälle Covid aktuell invasiv beatmet, Fälle Covid aktuell nicht invasiv beatmet, Fälle Covid Aktuell Ecmo; einmalige Bereitstellung für 18.12.2020 bis 05.05.2023|Deutschland | Erwachsene | 
+| :------ | :-------| :------- | :--- |
+| Intensivregister_Landkreis_&#8203;Kapazitaeten   | Zeitreihendaten: COVID-19-ITS-Fälle und ITS-Kapazitäten; Bereitstellung vom 24.04.2020 bis 15.09.2025| Landkreis         | Erwachsene; Gesamt (Daten für Erwachsene und Kinder gemeinsam aggregiert) |
+| Intensivregister_Bundeslaender_&#8203;Kapazitaeten| Zeitreihendaten: Anzahl Meldebereiche, ITS-Kapazitäten, COVID-19-Fälle auf ITS, Betriebssituation  | Bundesland | Erwachsene |
+| Intensivregister_Deutschland_&#8203;Kapazitaeten  | Zeitreihendaten: Anzahl Meldebereiche, ITS-Kapazitäten, COVID-19-Fälle auf ITS, Betriebssituation  |Deutschland | Erwachsene; Kinder |
+| Intensivregister_Deutschland_&#8203;Altersgruppen | Zeitreihendaten: Altersstruktur der COVID-19-Fälle auf ITS; Bereitstellung vom 29.04.2021 bis 15.09.2025| Deutschland | Gesamt (Daten für Erwachsene und Kinder gemeinsam aggregiert) |
+| Intensivregister_Deutschland_&#8203;Versorgungsstufen | Zeitreihendaten: Anzahl Meldebereiche, ITS-Kapazitäten, COVID-19-Fälle auf ITS, Versorgungsgrad; einmalige Bereitstellung für 01.05.2020 bis 05.05.2023  |Deutschland | Gesamt (Daten für Erwachsene und Kinder gemeinsam aggregiert) | 
+| Intensivregister_Deutschland_&#8203;Covid_Versorgungsart | Zeitreihendaten: Anzahl Meldebereiche, Fälle Covid aktuell invasiv beatmet, Fälle Covid aktuell nicht invasiv beatmet, Fälle Covid Aktuell Ecmo; einmalige Bereitstellung für 18.12.2020 bis 05.05.2023|Deutschland | Erwachsene | 
 
 
 ### Intensivkapazitäten und COVID-19-Intensivbettenbelegung auf Bundes- und Länderebene
@@ -118,6 +120,7 @@ Die Datei *Intensivregister_Bundeslaender_Kapazitaeten.csv* ist dagegen nur nach
 <!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "Intensivregister_Deutschland_Kapazitaeten", "lang": "de"} -->
 
 Die Datei [Intensivregister_Deutschland_Kapazitaeten.csv](https://github.com/robert-koch-institut/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland/blob/main/Intensivregister_Deutschland_Kapazitaeten.csv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Data Package Standard](https://datapackage.org/) in [tableschema_Intensivregister_Deutschland_Kapazitaeten.json](https://github.com/robert-koch-institut/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland/blob/main/Metadaten/schemas/tableschema_Intensivregister_Deutschland_Kapazitaeten.json) hinterlegt:
+
 > [tableschema_Intensivregister_Deutschland_Kapazitaeten.json](https://github.com/robert-koch-institut/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland/blob/main/Metadaten/schemas/tableschema_Intensivregister_Deutschland_Kapazitaeten.json)
 
 <!-- DATA_SCHEMA_TABLE_START -->
@@ -160,6 +163,7 @@ Die Datei [Intensivregister_Deutschland_Kapazitaeten.csv](https://github.com/rob
 <!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "Intensivregister_Bundeslaender_Kapazitaeten", "lang": "de"} -->
 
 Die Datei [Intensivregister_Bundeslaender_Kapazitaeten.csv](https://github.com/robert-koch-institut/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland/blob/main/Intensivregister_Bundeslaender_Kapazitaeten.csv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Data Package Standard](https://datapackage.org/) in [tableschema_Intensivregister_Bundeslaender_Kapazitaeten.json](https://github.com/robert-koch-institut/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland/blob/main/Metadaten/schemas/tableschema_Intensivregister_Bundeslaender_Kapazitaeten.json) hinterlegt:
+
 > [tableschema_Intensivregister_Bundeslaender_Kapazitaeten.json](https://github.com/robert-koch-institut/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland/blob/main/Metadaten/schemas/tableschema_Intensivregister_Bundeslaender_Kapazitaeten.json)
 
 <!-- DATA_SCHEMA_TABLE_START -->
@@ -199,6 +203,7 @@ Die Datei [Intensivregister_Bundeslaender_Kapazitaeten.csv](https://github.com/r
 
 
 ### Intensivkapazitäten und COVID-19-Intensivbettenbelegung auf Landkreisebene 
+
 #### Variablen
 
 Die CSV-Datei der *Intensivregister_Landkreise_Kapazitaeten.csv* enthält eine Aggregation aller Meldungen pro Tag vom 24.04.2020 bis 15.09.2025 auf Kreisebene.
@@ -208,6 +213,7 @@ Die CSV-Datei der *Intensivregister_Landkreise_Kapazitaeten.csv* enthält eine A
 <!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "Intensivregister_Landkreise_Kapazitaeten", "lang": "de"} -->
 
 Die Datei [Intensivregister_Landkreise_Kapazitaeten.csv](https://github.com/robert-koch-institut/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland/blob/main/Intensivregister_Landkreise_Kapazitaeten.csv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Data Package Standard](https://datapackage.org/) in [tableschema_Intensivregister_Landkreise_Kapazitaeten.json](https://github.com/robert-koch-institut/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland/blob/main/Metadaten/schemas/tableschema_Intensivregister_Landkreise_Kapazitaeten.json) hinterlegt:
+
 > [tableschema_Intensivregister_Landkreise_Kapazitaeten.json](https://github.com/robert-koch-institut/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland/blob/main/Metadaten/schemas/tableschema_Intensivregister_Landkreise_Kapazitaeten.json)
 
 <!-- DATA_SCHEMA_TABLE_START -->
@@ -233,6 +239,7 @@ Die Datei [Intensivregister_Landkreise_Kapazitaeten.csv](https://github.com/robe
 
 
 ### COVID-19-Intensivbettenbelegung nach Altersgruppen
+
 #### Variablen
 
 Die CSV-Datei der Intensivregister_Deutschland_Altersgruppen zeigt die zeitliche Entwicklung zwischen dem 29.04.2021 und 15.09.2025 der Altersstruktur nach Altersgruppen in Jahren von COVID-19-Patient\*innen, die bundesweit intensivmedizinisch behandelt wurden und deren Altersgruppe im Intensivregister gemeldet wurde, für Erwachsene und Kinder zusammen.
@@ -243,6 +250,7 @@ Das Alter wird im Intensivregister seit dem 29. April 2021 erfasst.
 <!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "Intensivregister_Deutschland_Altersgruppen", "lang": "de"} -->
 
 Die Datei [Intensivregister_Deutschland_Altersgruppen.csv](https://github.com/robert-koch-institut/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland/blob/main/Intensivregister_Deutschland_Altersgruppen.csv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Data Package Standard](https://datapackage.org/) in [tableschema_Intensivregister_Deutschland_Altersgruppen.json](https://github.com/robert-koch-institut/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland/blob/main/Metadaten/schemas/tableschema_Intensivregister_Deutschland_Altersgruppen.json) hinterlegt:
+
 > [tableschema_Intensivregister_Deutschland_Altersgruppen.json](https://github.com/robert-koch-institut/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland/blob/main/Metadaten/schemas/tableschema_Intensivregister_Deutschland_Altersgruppen.json)
 
 <!-- DATA_SCHEMA_TABLE_START -->
@@ -267,6 +275,7 @@ Die Datei [Intensivregister_Deutschland_Altersgruppen.csv](https://github.com/ro
 
 
 ### COVID-19-Intensivbettenbelegung nach Versorgungsstufen
+
 #### Variablen
 
 Die CSV-Datei der Intensivregister_Deutschland_Versorgungsstufen zeigt die zeitliche Entwicklung der Verteilung von allen intensivmedizinisch behandelten COVID-19-Patient\*innen (Erwachsene und Kinder) in Kliniken verschiedener Versorgungsstufen. Diese Daten werden einmalig bereitgestellt für den Zeitraum 01.05.2020 (ca. Beginn der Vollerfassung im Intensivregister) bis 05.05.2023 (WHO erklärt die COVID-19-Pandemie für beendet).
@@ -276,6 +285,7 @@ Die CSV-Datei der Intensivregister_Deutschland_Versorgungsstufen zeigt die zeitl
 <!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "Intensivregister_Deutschland_Versorgungsstufen", "lang": "de"} -->
 
 Die Datei [Intensivregister_Deutschland_Versorgungsstufen.csv](https://github.com/robert-koch-institut/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland/blob/main/Intensivregister_Deutschland_Versorgungsstufen.csv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Data Package Standard](https://datapackage.org/) in [tableschema_Intensivregister_Deutschland_Versorgungsstufen.json](https://github.com/robert-koch-institut/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland/blob/main/Metadaten/schemas/tableschema_Intensivregister_Deutschland_Versorgungsstufen.json) hinterlegt:
+
 > [tableschema_Intensivregister_Deutschland_Versorgungsstufen.json](https://github.com/robert-koch-institut/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland/blob/main/Metadaten/schemas/tableschema_Intensivregister_Deutschland_Versorgungsstufen.json)
 
 <!-- DATA_SCHEMA_TABLE_START -->
@@ -293,7 +303,7 @@ Die Datei [Intensivregister_Deutschland_Versorgungsstufen.csv](https://github.co
 <!-- DATA_SCHEMA_TABLE_END -->
 
 <!-- DATA_SCHEMA_SPECIFICATION_END -->
-   
+
 ### COVID-19-Prävalenz nach Art der Versorgung auf Bundesebene
 
 #### Variablen
@@ -305,6 +315,7 @@ Die CSV-Datei der *Intensivregister_Deutschland_Covid_Versorungsart.csv* zeigt d
 <!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "Intensivregister_Deutschland_Covid_Versorgungsart", "lang": "de"} -->
 
 Die Datei [Intensivregister_Deutschland_Covid_Versorgungsart.csv](https://github.com/robert-koch-institut/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland/blob/main/Intensivregister_Deutschland_Covid_Versorgungsart.csv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Data Package Standard](https://datapackage.org/) in [tableschema_Intensivregister_Deutschland_Covid_Versorgungsart.json](https://github.com/robert-koch-institut/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland/blob/main/Metadaten/schemas/tableschema_Intensivregister_Deutschland_Covid_Versorgungsart.json) hinterlegt:
+
 > [tableschema_Intensivregister_Deutschland_Covid_Versorgungsart.json](https://github.com/robert-koch-institut/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland/blob/main/Metadaten/schemas/tableschema_Intensivregister_Deutschland_Covid_Versorgungsart.json)
 
 <!-- DATA_SCHEMA_TABLE_START -->
@@ -322,18 +333,17 @@ Die Datei [Intensivregister_Deutschland_Covid_Versorgungsart.csv](https://github
 <!-- DATA_SCHEMA_TABLE_END -->
 
 <!-- DATA_SCHEMA_SPECIFICATION_END -->
+
 ### Formatierung der Daten 
 
-Die Daten sind im Datensatz als kommaseparierte .csv Datei enthalten. Der verwendete Zeichensatz der CSV-Datei ist UTF-8. Trennzeichen der einzelnen Werte ist ein Komma “,”. Datumsangaben sind im ISO8601 Standard formatiert.
+Die Daten sind im Datensatz als kommaseparierte .csv Datei enthalten. Der verwendete Zeichensatz der CSV-Datei ist UTF-8. Trennzeichen der einzelnen Werte ist ein Komma `,`. Datumsangaben sind im ISO8601 Standard formatiert.
 
 * Zeichensatz: UTF-8
-* CSV-Trennzeichen: Komma “,”
-* Kennzeichnung fehlender Werte: „NA“
+* CSV-Trennzeichen: Komma `,`
+* Kennzeichnung fehlender Werte: "NA"
 
 
 <!-- FOOTER_START: {"lang": "de"} -->
-
-
 
 ### Metadaten  
 
@@ -378,13 +388,13 @@ Für tabellarische Daten definieren wir zusätzlich ein [Table Schema](https://d
 
 Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [GitHub.com](http://GitHub.com/), [OpenCoDE](https://gitlab.opencode.de) und [Edoc.rki.de](http://Edoc.rki.de/) bereitgestellt:  
 
-- https://zenodo.org/communities/robertkochinstitut  
-- https://github.com/robert-koch-institut  
-- https://gitlab.opencode.de/robert-koch-institut  
-- https://edoc.rki.de/  
+- [https://zenodo.org/communities/robertkochinstitut](https://zenodo.org/communities/robertkochinstitut)  
+- [https://github.com/robert-koch-institut](https://github.com/robert-koch-institut)  
+- [https://gitlab.opencode.de/robert-koch-institut](https://gitlab.opencode.de/robert-koch-institut)  
+- [https://edoc.rki.de/](https://edoc.rki.de/) 
 
 
- 
+
 ### Lizenz  
 
 Der Datensatz "Intensivkapazitäten und COVID-19-Intensivbettenbelegung in Deutschland" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de).  
