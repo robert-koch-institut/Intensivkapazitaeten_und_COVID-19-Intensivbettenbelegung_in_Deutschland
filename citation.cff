@@ -41,8 +41,8 @@ message: Cite me!
 url: >-
   https://robert-koch-institut.github.io/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland/
 license: CC-BY-4.0
-doi: 10.5281/zenodo.18787621
-version: '2026-02-26T14:30:41+01:00'
+doi: 10.5281/zenodo.18789269
+version: '2026-02-26T16:35:48+01:00'
 authors:
   - name: Robert Koch-Institut
     email: info@rki.de
