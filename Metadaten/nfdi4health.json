@@ -20,15 +20,15 @@
     ],
     "ids": [
       {
-        "identifier": "10.5281/zenodo.19608024",
+        "identifier": "10.5281/zenodo.19630911",
         "typeGeneral": "Dataset",
         "relationType": "A references B",
         "scheme": "DOI"
       },
       {
         "identifier": "https://github.com/robert-koch-institut/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland",
-        "relationType": "A references B",
         "typeGeneral": "Dataset",
+        "relationType": "A references B",
         "scheme": "URL"
       }
     ],
@@ -37,10 +37,12 @@
     },
     "keywords": [
       {
-        "label": "COVID-19"
+        "label": "COVID-19",
+        "code": "http://id.nlm.nih.gov/mesh/D000086382"
       },
       {
-        "label": "SARS-CoV-2"
+        "label": "SARS-CoV-2",
+        "code": "http://id.nlm.nih.gov/mesh/D000086402"
       },
       {
         "label": "Beatmung, künstliche"
@@ -79,10 +81,12 @@
         "label": "Bed Occupancy"
       },
       {
-        "label": "Deutschland"
+        "label": "Deutschland",
+        "code": "http://id.nlm.nih.gov/mesh/D005858"
       },
       {
-        "label": "Germany"
+        "label": "Germany",
+        "code": "http://id.nlm.nih.gov/mesh/D005858"
       },
       {
         "label": "Open Data"
@@ -92,19 +96,19 @@
       },
       {
         "label": "Gesundheitsberichterstattung",
-        "code": "info:ddc/22/de//614.42"
+        "code": "http://id.nlm.nih.gov/mesh/D062486"
       },
       {
         "label": "Epidemiologie",
-        "code": "info:ddc/22/de//614.4"
+        "code": "http://id.nlm.nih.gov/mesh/D004813"
       },
       {
         "label": "Public health surveillance",
-        "code": "info:ddc/22/eng//614.42"
+        "code": "http://id.nlm.nih.gov/mesh/D062486"
       },
       {
         "label": "Epidemiology",
-        "code": "info:ddc/22/eng//614.4"
+        "code": "http://id.nlm.nih.gov/mesh/D004813"
       }
     ],
     "languages": [
@@ -120,11 +124,12 @@
         },
         "label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
       },
-      "version": "2026-04-16"
+      "version": "2026-04-17"
     },
-    "webpage": "https://robert-koch-institut.github.io/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland/",
+    "webpage": "https://robert-koch-institut.github.io/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland",
     "contributors": [
       {
+        "nameType": "Organisational",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -136,13 +141,13 @@
             ]
           }
         ],
-        "nameType": "Organisational",
         "organisational": {
           "name": "Robert Koch-Institut",
           "type": "Creator/Author"
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -154,7 +159,6 @@
             ]
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Project leader",
           "givenName": "Martina",
@@ -162,6 +166,7 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -173,7 +178,6 @@
             ]
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Project leader",
           "givenName": "Kerstin",
@@ -181,6 +185,7 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -192,7 +197,6 @@
             ]
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Researcher",
           "givenName": "Wera",
@@ -200,6 +204,7 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -211,7 +216,6 @@
             ]
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Researcher",
           "givenName": "Janina",
