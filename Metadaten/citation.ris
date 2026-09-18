@@ -1,8 +1,8 @@
 TY  - DATA
 AB  - Der Datensatz "Intensivkapazitäten und COVID-19-Intensivbettenbelegung in Deutschland" des Robert Koch-Instituts dokumentiert die tägliche intensivmedizinische Versorgungslage seit der COVID-19-Pandemie. Basierend auf Meldungen aller intensivbettenführenden Krankenhäuser in Deutschland erfasst das DIVI-Intensivregister Echtzeitdaten zu belegten und freien Intensivbetten. Die Erhebung differenziert nach Altersgruppen, Regionen und Versorgungsstufen. COVID-19-Fälle auf Intensivstationen werden gesondert ausgewiesen. Die Daten stehen aggregiert auf Bundes-, Landes- und Kreisebene zur Verfügung. Damit bildet der Datensatz eine Grundlage für die Überwachung von Kapazitäten, die Koordination von Behandlungskapazitäten und politische Entscheidungsprozesse während der Pandemie und darüber hinaus.
 AU  - Robert Koch-Institut
-DA  - 2026-09-17
-DO  - 10.5281/zenodo.22812611
+DA  - 2026-09-18
+DO  - 10.5281/zenodo.22830595
 KW  - COVID-19
 KW  - SARS-CoV-2
 KW  - Beatmung, künstliche
@@ -28,6 +28,6 @@ KW  - Epidemiology
 PY  - 2026
 TI  - Intensivkapazitäten und COVID-19-Intensivbettenbelegung in Deutschland
 UR  - https://robert-koch-institut.github.io/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland
-ET  - 2026-09-17
+ET  - 2026-09-18
 N1  - License: CC-BY-4.0
 ER  -
