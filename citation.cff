@@ -12,7 +12,7 @@ abstract: >-
   Verfügung. Damit bildet der Datensatz eine Grundlage für die Überwachung von Kapazitäten,
   die Koordination von Behandlungskapazitäten und politische Entscheidungsprozesse
   während der Pandemie und darüber hinaus.
-date-released: '2026-09-24'
+date-released: '2026-09-26'
 keywords:
   - COVID-19
   - SARS-CoV-2
@@ -39,8 +39,8 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/Intensivkapazitaeten_und_COVID-19-Intensivbettenbelegung_in_Deutschland
 license: CC-BY-4.0
-doi: 10.5281/zenodo.22939280
-version: '2026-09-24'
+doi: 10.5281/zenodo.22959197
+version: '2026-09-26'
 authors:
   - name: Robert Koch-Institut
     email: info@rki.de
