@@ -14,15 +14,6 @@
       "schema": "Metadaten/schemas/tableschema_Intensivregister_Bundeslaender_Kapazitaeten.json"
     },
     {
-      "name": "intensivregister_deutschland_altersgruppen",
-      "type": "table",
-      "path": "Intensivregister_Deutschland_Altersgruppen.csv",
-      "scheme": "file",
-      "format": "csv",
-      "mediatype": "text/csv",
-      "schema": "Metadaten/schemas/tableschema_Intensivregister_Deutschland_Altersgruppen.json"
-    },
-    {
       "name": "intensivregister_deutschland_kapazitaeten",
       "type": "table",
       "path": "Intensivregister_Deutschland_Kapazitaeten.csv",
@@ -30,33 +21,6 @@
       "format": "csv",
       "mediatype": "text/csv",
       "schema": "Metadaten/schemas/tableschema_Intensivregister_Deutschland_Kapazitaeten.json"
-    },
-    {
-      "name": "intensivregister_deutschland_versorgungsstufen",
-      "type": "table",
-      "path": "Intensivregister_Deutschland_Versorgungsstufen.csv",
-      "scheme": "file",
-      "format": "csv",
-      "mediatype": "text/csv",
-      "schema": "Metadaten/schemas/tableschema_Intensivregister_Deutschland_Versorgungsstufen.json"
-    },
-    {
-      "name": "intensivregister_landkreise_kapazitaeten",
-      "type": "table",
-      "path": "Intensivregister_Landkreise_Kapazitaeten.csv",
-      "scheme": "file",
-      "format": "csv",
-      "mediatype": "text/csv",
-      "schema": "Metadaten/schemas/tableschema_Intensivregister_Landkreise_Kapazitaeten.json"
-    },
-    {
-      "name": "intensivregister_deutschland_covid_versorgungsart",
-      "type": "table",
-      "path": "Intensivregister_Deutschland_Covid_Versorgungsart.csv",
-      "scheme": "file",
-      "format": "csv",
-      "mediatype": "text/csv",
-      "schema": "Metadaten/schemas/tableschema_Intensivregister_Deutschland_Covid_Versorgungsart.json"
     }
   ]
 }
