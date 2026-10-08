@@ -51,7 +51,7 @@ Detailliertere, bislang COVID-19-spezifische Kennzahlen (u. a. COVID-19-Fallzahl
 
 ## Informationen zum Datensatz und Entstehungskontext  
 
-Das Intensivregister ([www.intensivregister.de](https:/www.intensivregister.de)) ist eine digitale Plattform zur Echtzeiterfassung von intensivmedizinischen Behandlungs- und Bettenkapazitäten in Deutschland. Bis 12 Uhr ist die tägliche Meldung laut Verordnung für die Krankenhäuser verpflichtend. Darüber hinaus kann beliebig oft gemeldet werden, sodass Veränderungen in den Kapazitäten aktuell berichtet werden können.
+Das Intensivregister ([www.intensivregister.de](https://www.intensivregister.de)) ist eine digitale Plattform zur Echtzeiterfassung von intensivmedizinischen Behandlungs- und Bettenkapazitäten in Deutschland. Bis 12 Uhr ist die tägliche Meldung laut Verordnung für die Krankenhäuser verpflichtend. Darüber hinaus kann beliebig oft gemeldet werden, sodass Veränderungen in den Kapazitäten aktuell berichtet werden können.
 
 Damit ermöglicht das Intensivregister, Engpässe in der intensivmedizinischen Versorgung im regionalen und zeitlichen Vergleich zu erkennen. Es schafft somit eine wertvolle Grundlage zur Reaktion und zur datengestützten Handlungssteuerung in Echtzeit. Zur Aufrechterhaltung der Krankenhausversorgung bietet das DIVI-Intensivregister demnach ein Portal zur Suche freier Intensivbetten und zur Kontaktaufnahme zwischen Fachkolleg\*innen, um die gegenseitige Unterstützung bei Behandlungsfragen im intensivmedizinischen Kontext zu erleichtern. Ebenso liefert es eine maßgebliche Informationsgrundlage für staatliche Steuerungs- und Planungsmaßnahmen sowie für die lokale und überregionale Steuerung und Koordinierung der Bettenbelegung.
 
@@ -184,7 +184,7 @@ Die Daten sind im Datensatz als kommaseparierte .csv-Datei enthalten. Der verwen
 Die bis zur Umstellung des Meldeumfangs veröffentlichten Daten auf Landkreisebene sowie die weiteren erregerspezifischen Daten wurden aus dem aktiven Datensatz entfernt und in den Archivordner verschoben. Dazu zählen insbesondere:  
 Entfernte Datensätze:  
 
-* Intensivbetten- und Beatmungskapazitäten auf Landkreisebene (`Intensivregister_Landkreis_Kapazitaeten.csv`)
+* Intensivbetten- und Beatmungskapazitäten auf Landkreisebene (`Intensivregister_Landkreise_Kapazitaeten.csv`)
 * COVID-19-Intensivbettenbelegung nach Altersgruppen (`Intensivregister_Deutschland_Altersgruppen.csv`)
 * Intensivbettenbelegung nach Versorgungsstufen (`Intensivregister_Deutschland_Versorgungsstufen.csv`)
 * COVID-19-Prävalenz nach Versorgungsart – invasiv/nicht-invasiv beatmet, ECMO (`Intensivregister_Deutschland_Covid_Versorgungsart.csv`)
