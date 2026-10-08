@@ -6,7 +6,7 @@
     "descriptions": [
       {
         "language": "DE (German)",
-        "text": "Der Datensatz \"Intensivkapazitäten und COVID-19-Intensivbettenbelegung in Deutschland\" des Robert Koch-Instituts dokumentiert die tägliche intensivmedizinische Versorgungslage seit der COVID-19-Pandemie. Basierend auf Meldungen aller intensivbettenführenden Krankenhäuser in Deutschland erfasst das DIVI-Intensivregister Echtzeitdaten zu belegten und freien Intensivbetten. Die Erhebung differenziert nach Altersgruppen, Regionen und Versorgungsstufen. COVID-19-Fälle auf Intensivstationen werden gesondert ausgewiesen. Die Daten stehen aggregiert auf Bundes-, Landes- und Kreisebene zur Verfügung. Damit bildet der Datensatz eine Grundlage für die Überwachung von Kapazitäten, die Koordination von Behandlungskapazitäten und politische Entscheidungsprozesse während der Pandemie und darüber hinaus."
+        "text": "Der Datensatz \"Intensivkapazitäten und Intensivbettenbelegung in Deutschland\" des Robert Koch-Instituts dokumentiert seit April 2020 die tägliche intensivmedizinische Versorgungslage in Deutschland. Basierend auf Meldungen aller intensivbettenführenden Akutkrankenhäuser in Deutschland erfasst das DIVI-Intensivregister Echtzeitdaten zu betreibbaren und belegten Intensivbetten, zu freien invasiven Beatmungskapazitäten und zur Betriebssituation im Rahmen der Akutversorgung. Die Erhebung differenziert nach Behandlungsschwerpunkt (Erwachsene, Kinder) und Regionen. Die Daten stehen aggregiert auf Bundes- und Landesebene zur Verfügung. Damit dient der Datensatz als Grundlage für die Überwachung und Koordination von Behandlungskapazitäten, sowie für politische Entscheidungsprozesse in Krisenzeiten und darüber hinaus.\n\nDetailliertere, bislang COVID-19-spezifische Kennzahlen (u. a. COVID-19-Fallzahlen, Altersstruktur, Versorgungsstufe, Versorgungsart) sowie die Aggregation auf Landkreisebene, die in früheren Versionen dieses Datensatzes veröffentlicht wurden, werden seit der Umstellung nicht mehr fortlaufend bereitgestellt. Die archivierten historischen Daten stehen weiterhin zur Verfügung."
       }
     ],
     "titles": [
@@ -17,7 +17,7 @@
     ],
     "ids": [
       {
-        "identifier": "10.5281/zenodo.23212556",
+        "identifier": "10.5281/zenodo.18863636",
         "typeGeneral": "Dataset",
         "relationType": "A references B",
         "scheme": "DOI"
@@ -33,14 +33,6 @@
       "dataSource": "Automatically uploaded: Other"
     },
     "keywords": [
-      {
-        "label": "COVID-19",
-        "code": "http://id.nlm.nih.gov/mesh/D000086382"
-      },
-      {
-        "label": "SARS-CoV-2",
-        "code": "http://id.nlm.nih.gov/mesh/D000086402"
-      },
       {
         "label": "Beatmung, künstliche"
       },
@@ -76,6 +68,14 @@
       },
       {
         "label": "Bed Occupancy"
+      },
+      {
+        "label": "SARS-CoV-2",
+        "code": "http://id.nlm.nih.gov/mesh/D000086402"
+      },
+      {
+        "label": "COVID-19",
+        "code": "http://id.nlm.nih.gov/mesh/D000086382"
       },
       {
         "label": "Deutschland",
@@ -144,7 +144,7 @@
         }
       },
       {
-        "nameType": "Personal",
+        "nameType": "Organisational",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -156,14 +156,13 @@
             ]
           }
         ],
-        "personal": {
-          "type": "Project leader",
-          "givenName": "Martina",
-          "familyName": "Fischer"
+        "organisational": {
+          "name": "Fachgebiet MF 4",
+          "type": "Project leader"
         }
       },
       {
-        "nameType": "Personal",
+        "nameType": "Organisational",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -175,48 +174,9 @@
             ]
           }
         ],
-        "personal": {
-          "type": "Project leader",
-          "givenName": "Kerstin",
-          "familyName": "Bischoff"
-        }
-      },
-      {
-        "nameType": "Personal",
-        "affiliations": [
-          {
-            "name": "Robert Koch-Institut",
-            "identifiers": [
-              {
-                "identifier": "01k5qnb77",
-                "scheme": "ROR"
-              }
-            ]
-          }
-        ],
-        "personal": {
-          "type": "Researcher",
-          "givenName": "Wera",
-          "familyName": "Berge"
-        }
-      },
-      {
-        "nameType": "Personal",
-        "affiliations": [
-          {
-            "name": "Robert Koch-Institut",
-            "identifiers": [
-              {
-                "identifier": "01k5qnb77",
-                "scheme": "ROR"
-              }
-            ]
-          }
-        ],
-        "personal": {
-          "type": "Researcher",
-          "givenName": "Janina",
-          "familyName": "Esins"
+        "organisational": {
+          "name": "Fachgebiet IT 4",
+          "type": "Researcher"
         }
       }
     ],
