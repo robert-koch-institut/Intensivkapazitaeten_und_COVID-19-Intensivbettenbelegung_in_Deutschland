@@ -35862,7 +35862,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-05-09,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,171,1,0,2318,435,958,400,NA,NA,80,22,29,39,0,0,35,15
 2026-05-09,06,Hessen,Erwachsene,ERWACHSENE,45,0,0,824,106,241,98,NA,NA,22,2,9,11,0,0,10,4
 2026-05-09,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,42,1,0,403,85,145,73,NA,NA,21,3,8,10,0,0,9,6
-2026-05-09,08,Baden-Württemberg,Erwachsene,ERWACHSENE,82,1,0,1018,228,694,231,NA,NA,39,13,12,17,0,0,22,5
+2026-05-09,08,Baden-Württemberg,Erwachsene,ERWACHSENE,81,1,0,1018,221,694,224,NA,NA,38,13,12,17,0,0,22,5
 2026-05-09,09,Bayern,Erwachsene,ERWACHSENE,142,2,0,1912,388,371,376,NA,NA,60,21,15,45,2,0,25,12
 2026-05-09,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,89,5,31,13,NA,NA,2,0,1,5,0,0,1,0
 2026-05-09,11,Berlin,Erwachsene,ERWACHSENE,34,1,0,488,100,270,92,NA,NA,21,5,1,7,0,0,5,1
@@ -35878,7 +35878,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-05-10,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,167,2,0,2264,440,944,399,NA,NA,78,21,30,37,2,0,36,13
 2026-05-10,06,Hessen,Erwachsene,ERWACHSENE,45,0,0,819,107,241,107,NA,NA,22,3,8,11,0,0,10,4
 2026-05-10,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,41,1,0,391,86,143,71,NA,NA,18,5,9,9,0,0,11,7
-2026-05-10,08,Baden-Württemberg,Erwachsene,ERWACHSENE,81,1,0,998,232,696,230,NA,NA,36,15,12,17,0,0,23,6
+2026-05-10,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,1,0,998,225,696,223,NA,NA,35,15,12,17,0,0,23,6
 2026-05-10,09,Bayern,Erwachsene,ERWACHSENE,143,2,0,1920,400,380,373,NA,NA,58,21,15,48,2,0,26,11
 2026-05-10,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,69,9,31,16,NA,NA,2,0,1,4,0,0,1,0
 2026-05-10,11,Berlin,Erwachsene,ERWACHSENE,34,1,0,477,108,270,101,NA,NA,21,5,1,7,0,0,5,1
@@ -35894,7 +35894,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-05-11,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,169,2,1,2300,412,929,390,NA,NA,77,23,29,39,1,0,37,17
 2026-05-11,06,Hessen,Erwachsene,ERWACHSENE,45,0,0,812,117,240,117,NA,NA,23,3,7,11,0,0,9,4
 2026-05-11,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,40,1,0,391,78,133,75,NA,NA,16,4,10,10,0,0,11,7
-2026-05-11,08,Baden-Württemberg,Erwachsene,ERWACHSENE,81,1,0,1003,230,699,238,NA,NA,36,14,14,16,0,0,23,6
+2026-05-11,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,1,0,1003,223,699,231,NA,NA,35,14,14,16,0,0,23,6
 2026-05-11,09,Bayern,Erwachsene,ERWACHSENE,141,2,2,1929,383,369,370,NA,NA,57,20,16,47,1,0,24,13
 2026-05-11,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,66,13,31,20,NA,NA,2,0,1,4,0,0,1,0
 2026-05-11,11,Berlin,Erwachsene,ERWACHSENE,34,1,0,489,94,268,81,NA,NA,20,6,1,7,0,0,6,1
@@ -35910,7 +35910,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-05-12,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,170,2,0,2348,398,917,376,NA,NA,78,24,29,38,1,0,37,20
 2026-05-12,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,784,106,231,99,NA,NA,21,3,7,12,0,0,10,3
 2026-05-12,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,40,1,0,375,95,132,83,NA,NA,14,4,11,11,0,0,12,6
-2026-05-12,08,Baden-Württemberg,Erwachsene,ERWACHSENE,82,1,0,1011,239,684,241,NA,NA,40,12,12,17,0,0,22,3
+2026-05-12,08,Baden-Württemberg,Erwachsene,ERWACHSENE,81,1,0,1011,232,684,234,NA,NA,39,12,12,17,0,0,22,3
 2026-05-12,09,Bayern,Erwachsene,ERWACHSENE,142,3,0,1957,355,404,336,NA,NA,59,16,17,49,3,0,22,12
 2026-05-12,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,67,12,31,21,NA,NA,2,0,1,4,0,0,1,0
 2026-05-12,11,Berlin,Erwachsene,ERWACHSENE,33,1,0,504,75,265,75,NA,NA,20,5,2,6,0,0,6,1
@@ -35926,7 +35926,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-05-13,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,168,1,0,2326,385,904,365,NA,NA,81,25,22,39,1,0,31,18
 2026-05-13,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,783,125,231,118,NA,NA,21,3,7,12,0,0,10,3
 2026-05-13,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,41,1,0,382,91,142,86,NA,NA,16,5,10,10,0,0,14,4
-2026-05-13,08,Baden-Württemberg,Erwachsene,ERWACHSENE,81,1,0,1025,208,679,212,NA,NA,35,14,15,16,0,0,23,8
+2026-05-13,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,1,0,1025,208,679,212,NA,NA,35,14,14,16,0,0,23,7
 2026-05-13,09,Bayern,Erwachsene,ERWACHSENE,142,3,0,1987,340,409,323,NA,NA,59,15,18,49,3,0,21,13
 2026-05-13,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,65,14,31,21,NA,NA,2,0,1,4,0,0,1,0
 2026-05-13,11,Berlin,Erwachsene,ERWACHSENE,34,1,0,519,71,266,73,NA,NA,19,5,3,7,0,0,6,2
@@ -35942,7 +35942,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-05-14,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,166,1,0,2267,417,904,376,NA,NA,81,24,22,38,1,0,32,17
 2026-05-14,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,777,127,231,125,NA,NA,20,4,7,12,0,0,11,3
 2026-05-14,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,41,1,0,381,93,143,92,NA,NA,16,5,10,10,0,0,14,3
-2026-05-14,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,0,0,1006,220,678,232,NA,NA,36,13,15,15,0,0,21,7
+2026-05-14,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,1006,220,678,232,NA,NA,36,13,14,15,0,0,21,6
 2026-05-14,09,Bayern,Erwachsene,ERWACHSENE,142,2,0,1970,335,405,338,NA,NA,59,18,17,47,2,1,25,12
 2026-05-14,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,64,14,31,22,NA,NA,2,0,1,4,0,0,1,0
 2026-05-14,11,Berlin,Erwachsene,ERWACHSENE,34,2,0,516,74,266,78,NA,NA,19,6,2,7,0,0,7,1
@@ -35958,7 +35958,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-05-15,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,164,1,0,2206,438,891,411,NA,NA,77,24,23,39,2,0,33,15
 2026-05-15,06,Hessen,Erwachsene,ERWACHSENE,43,0,0,770,120,231,117,NA,NA,17,5,8,12,0,0,13,3
 2026-05-15,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,40,1,0,373,99,142,101,NA,NA,16,4,10,10,0,0,12,4
-2026-05-15,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,0,0,981,243,681,259,NA,NA,34,13,16,16,0,0,22,6
+2026-05-15,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,981,243,681,259,NA,NA,34,13,15,16,0,0,22,5
 2026-05-15,09,Bayern,Erwachsene,ERWACHSENE,141,1,0,1899,407,408,385,NA,NA,58,20,15,47,2,1,24,12
 2026-05-15,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,63,15,31,23,NA,NA,2,0,1,4,0,0,1,0
 2026-05-15,11,Berlin,Erwachsene,ERWACHSENE,34,2,0,493,96,265,87,NA,NA,20,5,2,7,0,0,6,1
@@ -35974,7 +35974,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-05-16,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,166,1,0,2219,439,888,414,NA,NA,73,24,24,44,2,0,33,15
 2026-05-16,06,Hessen,Erwachsene,ERWACHSENE,42,0,0,755,123,231,115,NA,NA,18,5,7,11,0,0,12,3
 2026-05-16,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,41,1,0,384,95,141,99,NA,NA,18,5,9,9,0,0,12,4
-2026-05-16,08,Baden-Württemberg,Erwachsene,ERWACHSENE,81,0,0,984,248,685,263,NA,NA,33,13,15,19,0,0,20,6
+2026-05-16,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,0,0,984,248,685,263,NA,NA,33,13,14,19,0,0,20,5
 2026-05-16,09,Bayern,Erwachsene,ERWACHSENE,141,1,0,1900,400,403,360,NA,NA,62,15,14,49,1,0,20,10
 2026-05-16,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,61,17,31,24,NA,NA,2,0,1,4,0,0,1,0
 2026-05-16,11,Berlin,Erwachsene,ERWACHSENE,34,2,0,494,88,265,80,NA,NA,21,5,1,7,0,0,5,1
@@ -35990,7 +35990,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-05-17,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,164,1,0,2159,449,891,417,NA,NA,74,25,22,42,2,0,34,15
 2026-05-17,06,Hessen,Erwachsene,ERWACHSENE,42,0,0,757,124,231,118,NA,NA,18,5,7,11,0,0,12,3
 2026-05-17,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,41,1,0,370,110,133,100,NA,NA,15,6,9,11,0,0,14,4
-2026-05-17,08,Baden-Württemberg,Erwachsene,ERWACHSENE,81,0,0,974,260,686,276,NA,NA,32,14,14,20,0,0,20,6
+2026-05-17,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,0,0,974,260,686,276,NA,NA,32,14,13,20,0,0,20,5
 2026-05-17,09,Bayern,Erwachsene,ERWACHSENE,139,1,0,1829,410,393,365,NA,NA,62,16,13,47,1,0,20,9
 2026-05-17,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,66,12,31,21,NA,NA,2,0,0,5,NA,NA,NA,NA
 2026-05-17,11,Berlin,Erwachsene,ERWACHSENE,34,1,0,493,87,265,83,NA,NA,20,6,1,7,0,0,6,1
@@ -36006,7 +36006,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-05-18,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,165,1,0,2165,456,899,415,NA,NA,77,23,22,42,0,0,33,13
 2026-05-18,06,Hessen,Erwachsene,ERWACHSENE,43,0,0,778,123,233,115,NA,NA,20,4,7,11,0,0,11,3
 2026-05-18,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,41,1,0,388,90,142,92,NA,NA,14,6,10,11,0,0,15,5
-2026-05-18,08,Baden-Württemberg,Erwachsene,ERWACHSENE,81,0,0,997,248,683,259,NA,NA,37,12,13,18,0,0,17,6
+2026-05-18,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,0,0,997,248,683,259,NA,NA,37,12,12,18,0,0,17,5
 2026-05-18,09,Bayern,Erwachsene,ERWACHSENE,140,1,0,1814,445,391,418,NA,NA,68,14,12,45,1,0,19,7
 2026-05-18,10,Saarland,Erwachsene,ERWACHSENE,7,1,0,69,8,31,20,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-05-18,11,Berlin,Erwachsene,ERWACHSENE,34,1,0,497,92,267,91,NA,NA,20,5,2,7,0,0,5,2
@@ -36022,7 +36022,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-05-19,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,167,1,0,2268,412,916,398,NA,NA,76,22,25,43,0,0,33,16
 2026-05-19,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,804,109,232,109,NA,NA,22,2,8,11,0,0,9,3
 2026-05-19,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,41,1,0,392,88,143,82,NA,NA,16,5,11,9,0,0,14,7
-2026-05-19,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,0,0,998,234,680,246,NA,NA,36,12,13,18,0,0,18,5
+2026-05-19,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,998,234,680,246,NA,NA,36,12,12,18,0,0,18,4
 2026-05-19,09,Bayern,Erwachsene,ERWACHSENE,141,1,0,1900,396,401,369,NA,NA,65,15,13,47,1,0,21,8
 2026-05-19,10,Saarland,Erwachsene,ERWACHSENE,7,1,0,67,11,31,15,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-05-19,11,Berlin,Erwachsene,ERWACHSENE,34,1,0,511,75,265,76,NA,NA,21,4,2,7,0,0,4,2
@@ -36038,7 +36038,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-05-20,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,169,1,0,2341,399,922,387,NA,NA,78,21,25,44,0,0,35,14
 2026-05-20,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,806,101,231,101,NA,NA,22,4,6,11,0,0,10,2
 2026-05-20,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,41,1,0,382,101,139,94,NA,NA,16,5,10,10,0,0,13,6
-2026-05-20,08,Baden-Württemberg,Erwachsene,ERWACHSENE,81,0,0,995,243,682,238,NA,NA,32,14,15,19,0,0,20,7
+2026-05-20,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,0,0,995,243,682,238,NA,NA,32,14,14,19,0,0,20,6
 2026-05-20,09,Bayern,Erwachsene,ERWACHSENE,142,1,0,1926,376,401,355,NA,NA,64,18,13,46,1,0,22,12
 2026-05-20,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,66,12,31,19,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-05-20,11,Berlin,Erwachsene,ERWACHSENE,34,1,0,507,79,265,84,NA,NA,22,4,1,7,0,0,4,1
@@ -36054,7 +36054,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-05-21,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,167,1,0,2279,431,883,399,NA,NA,76,19,26,45,0,0,33,12
 2026-05-21,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,804,100,231,96,NA,NA,24,3,5,11,0,0,8,2
 2026-05-21,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,41,1,0,373,102,136,95,NA,NA,15,4,12,10,0,0,13,7
-2026-05-21,08,Baden-Württemberg,Erwachsene,ERWACHSENE,82,0,0,1001,245,678,242,NA,NA,32,16,14,19,0,0,21,8
+2026-05-21,08,Baden-Württemberg,Erwachsene,ERWACHSENE,81,0,0,1001,245,678,242,NA,NA,32,16,13,19,0,0,21,7
 2026-05-21,09,Bayern,Erwachsene,ERWACHSENE,142,0,0,1931,387,391,348,NA,NA,65,17,12,47,1,0,20,12
 2026-05-21,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,67,11,31,19,NA,NA,2,1,0,4,0,0,1,0
 2026-05-21,11,Berlin,Erwachsene,ERWACHSENE,34,1,0,515,72,264,80,NA,NA,22,4,1,7,0,0,4,1
@@ -36070,7 +36070,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-05-22,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,168,1,1,2302,447,893,410,NA,NA,80,20,23,44,0,0,32,10
 2026-05-22,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,806,95,231,95,NA,NA,23,4,5,11,0,0,9,2
 2026-05-22,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,41,1,0,378,100,136,97,NA,NA,16,5,10,10,0,0,13,6
-2026-05-22,08,Baden-Württemberg,Erwachsene,ERWACHSENE,82,0,0,1010,236,679,227,NA,NA,33,16,13,19,0,0,20,8
+2026-05-22,08,Baden-Württemberg,Erwachsene,ERWACHSENE,81,0,0,1010,236,679,227,NA,NA,33,16,12,19,0,0,20,7
 2026-05-22,09,Bayern,Erwachsene,ERWACHSENE,143,0,0,1947,374,392,357,NA,NA,67,15,15,45,1,0,19,13
 2026-05-22,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,61,18,29,23,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-05-22,11,Berlin,Erwachsene,ERWACHSENE,34,1,0,504,78,266,90,NA,NA,21,4,2,7,0,0,5,1
@@ -36086,7 +36086,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-05-23,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,166,1,0,2248,460,893,424,NA,NA,76,22,24,43,0,0,33,12
 2026-05-23,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,788,112,233,104,NA,NA,23,4,6,10,0,0,10,3
 2026-05-23,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,40,1,0,374,90,139,85,NA,NA,15,4,11,10,0,0,13,7
-2026-05-23,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,0,0,963,237,680,223,NA,NA,32,16,13,18,0,0,20,8
+2026-05-23,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,963,237,680,223,NA,NA,32,16,12,18,0,0,20,7
 2026-05-23,09,Bayern,Erwachsene,ERWACHSENE,143,1,0,1933,395,391,365,NA,NA,66,15,16,45,1,0,19,14
 2026-05-23,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,59,19,30,23,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-05-23,11,Berlin,Erwachsene,ERWACHSENE,34,1,0,493,91,266,93,NA,NA,21,4,2,7,0,0,5,1
@@ -36102,7 +36102,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-05-24,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,164,1,0,2262,425,898,402,NA,NA,76,20,26,41,0,0,33,11
 2026-05-24,06,Hessen,Erwachsene,ERWACHSENE,45,0,0,800,131,240,112,NA,NA,23,4,7,10,0,0,11,2
 2026-05-24,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,40,1,0,368,96,142,85,NA,NA,14,5,11,10,0,0,13,8
-2026-05-24,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,0,0,951,245,682,221,NA,NA,32,17,13,17,0,0,21,9
+2026-05-24,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,951,245,682,221,NA,NA,32,17,12,17,0,0,21,8
 2026-05-24,09,Bayern,Erwachsene,ERWACHSENE,143,0,0,1912,408,388,373,NA,NA,66,12,18,46,1,0,18,14
 2026-05-24,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,75,19,31,23,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-05-24,11,Berlin,Erwachsene,ERWACHSENE,34,1,0,478,107,266,106,NA,NA,21,4,2,7,0,0,5,1
@@ -36118,7 +36118,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-05-25,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,165,1,0,2231,459,903,414,NA,NA,79,19,22,44,0,0,31,9
 2026-05-25,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,794,122,240,109,NA,NA,22,4,7,10,0,0,11,2
 2026-05-25,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,40,1,0,370,88,142,87,NA,NA,15,5,11,9,0,0,13,8
-2026-05-25,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,0,0,931,254,676,217,NA,NA,31,15,15,18,0,0,22,9
+2026-05-25,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,931,254,676,217,NA,NA,31,15,14,18,0,0,22,8
 2026-05-25,09,Bayern,Erwachsene,ERWACHSENE,142,0,0,1868,444,391,406,NA,NA,67,11,17,46,1,0,19,11
 2026-05-25,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,74,20,31,23,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-05-25,11,Berlin,Erwachsene,ERWACHSENE,34,1,0,486,98,266,102,NA,NA,21,4,2,7,0,0,5,1
@@ -36134,7 +36134,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-05-26,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,168,1,0,2280,458,907,405,NA,NA,84,19,21,43,0,0,31,9
 2026-05-26,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,787,133,241,114,NA,NA,21,3,9,10,0,0,12,3
 2026-05-26,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,41,1,0,416,95,201,85,NA,NA,17,4,11,9,0,0,13,6
-2026-05-26,08,Baden-Württemberg,Erwachsene,ERWACHSENE,81,0,0,975,246,679,240,NA,NA,36,13,13,18,1,0,22,5
+2026-05-26,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,0,0,975,246,679,240,NA,NA,36,13,12,18,1,0,22,4
 2026-05-26,09,Bayern,Erwachsene,ERWACHSENE,140,0,0,1863,432,389,394,NA,NA,61,11,18,49,1,0,21,11
 2026-05-26,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,75,19,31,20,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-05-26,11,Berlin,Erwachsene,ERWACHSENE,34,1,0,494,92,262,96,NA,NA,21,4,1,8,0,0,5,0
@@ -36150,7 +36150,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-05-27,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,167,1,0,2289,432,907,406,NA,NA,90,20,16,40,0,0,28,7
 2026-05-27,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,806,111,240,112,NA,NA,22,4,7,10,0,0,11,2
 2026-05-27,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,41,1,0,434,89,201,92,NA,NA,17,4,11,9,1,0,13,6
-2026-05-27,08,Baden-Württemberg,Erwachsene,ERWACHSENE,81,0,1,1005,223,677,221,NA,NA,36,13,12,19,1,0,21,5
+2026-05-27,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,0,1,1005,223,677,221,NA,NA,36,13,11,19,1,0,21,4
 2026-05-27,09,Bayern,Erwachsene,ERWACHSENE,139,0,0,1920,369,393,350,NA,NA,63,11,18,46,1,0,20,11
 2026-05-27,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,76,16,31,22,NA,NA,2,1,0,5,0,0,1,0
 2026-05-27,11,Berlin,Erwachsene,ERWACHSENE,34,1,0,493,94,262,102,NA,NA,20,4,2,8,0,0,5,1
@@ -36166,7 +36166,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-05-28,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,167,1,0,2319,405,907,363,NA,NA,91,19,15,41,0,0,26,7
 2026-05-28,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,794,119,240,118,NA,NA,23,3,7,10,0,0,10,2
 2026-05-28,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,41,1,0,433,89,193,81,NA,NA,17,5,10,9,1,0,12,5
-2026-05-28,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,1,0,1004,214,678,221,NA,NA,36,14,11,18,0,0,20,5
+2026-05-28,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,1,0,1004,214,678,221,NA,NA,36,14,10,18,0,0,20,4
 2026-05-28,09,Bayern,Erwachsene,ERWACHSENE,136,0,0,1882,360,398,340,NA,NA,62,12,16,45,1,0,19,9
 2026-05-28,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,76,17,31,22,NA,NA,2,1,0,5,0,0,1,0
 2026-05-28,11,Berlin,Erwachsene,ERWACHSENE,34,1,0,501,82,263,91,NA,NA,19,4,2,9,0,0,5,1
@@ -36182,7 +36182,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-05-29,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,166,1,0,2272,431,903,387,NA,NA,84,24,17,40,0,0,28,12
 2026-05-29,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,785,120,240,117,NA,NA,22,4,7,10,0,0,11,2
 2026-05-29,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,41,1,0,432,96,195,91,NA,NA,15,8,9,9,1,0,14,6
-2026-05-29,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,1,0,1010,208,681,227,NA,NA,35,14,11,19,0,0,20,5
+2026-05-29,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,1,0,1010,208,681,227,NA,NA,35,14,10,19,0,0,20,4
 2026-05-29,09,Bayern,Erwachsene,ERWACHSENE,137,0,0,1898,340,407,333,NA,NA,62,9,20,45,1,0,20,10
 2026-05-29,10,Saarland,Erwachsene,ERWACHSENE,8,0,NA,79,13,31,22,NA,NA,2,1,0,5,0,0,1,0
 2026-05-29,11,Berlin,Erwachsene,ERWACHSENE,34,1,0,503,79,264,90,NA,NA,19,5,1,9,0,0,5,1
@@ -36198,7 +36198,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-05-30,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,167,1,0,2259,408,866,371,NA,NA,86,19,19,42,0,0,30,7
 2026-05-30,06,Hessen,Erwachsene,ERWACHSENE,47,0,0,808,129,248,120,NA,NA,23,4,7,12,0,0,11,2
 2026-05-30,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,41,1,0,419,103,195,98,NA,NA,15,8,8,10,1,0,14,6
-2026-05-30,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,1,0,1005,211,682,241,NA,NA,36,14,10,19,0,0,19,4
+2026-05-30,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,1,0,1005,211,682,241,NA,NA,36,14,9,19,0,0,19,3
 2026-05-30,09,Bayern,Erwachsene,ERWACHSENE,137,0,0,1858,363,409,326,NA,NA,60,10,19,47,1,0,20,10
 2026-05-30,10,Saarland,Erwachsene,ERWACHSENE,8,0,NA,79,13,31,22,NA,NA,2,1,0,5,0,0,1,0
 2026-05-30,11,Berlin,Erwachsene,ERWACHSENE,34,1,0,494,87,268,91,NA,NA,20,5,1,8,0,0,5,1
@@ -36214,7 +36214,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-05-31,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,167,1,0,2249,437,898,384,NA,NA,85,20,22,39,0,0,30,10
 2026-05-31,06,Hessen,Erwachsene,ERWACHSENE,46,0,0,768,137,240,128,NA,NA,23,4,6,12,0,0,10,2
 2026-05-31,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,43,1,0,440,96,209,97,NA,NA,15,9,9,10,1,0,16,6
-2026-05-31,08,Baden-Württemberg,Erwachsene,ERWACHSENE,81,1,0,1000,227,688,253,NA,NA,41,11,10,18,0,0,18,2
+2026-05-31,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,1,0,1000,227,688,253,NA,NA,41,11,9,18,0,0,18,1
 2026-05-31,09,Bayern,Erwachsene,ERWACHSENE,133,0,0,1820,364,405,340,NA,NA,55,13,18,46,1,0,21,12
 2026-05-31,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,79,13,31,22,NA,NA,2,1,0,5,0,0,1,0
 2026-05-31,11,Berlin,Erwachsene,ERWACHSENE,34,1,0,493,86,268,92,NA,NA,21,4,1,8,0,0,5,0
@@ -36230,7 +36230,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-06-01,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,168,1,0,2280,449,905,411,NA,NA,88,16,23,40,0,0,26,10
 2026-06-01,06,Hessen,Erwachsene,ERWACHSENE,46,0,0,773,137,238,140,NA,NA,23,5,5,12,0,0,10,2
 2026-06-01,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,43,1,0,436,103,208,98,NA,NA,18,6,10,9,1,0,14,6
-2026-06-01,08,Baden-Württemberg,Erwachsene,ERWACHSENE,81,1,0,996,232,676,239,NA,NA,42,8,11,19,0,0,16,2
+2026-06-01,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,1,0,996,232,676,239,NA,NA,42,8,10,19,0,0,16,1
 2026-06-01,09,Bayern,Erwachsene,ERWACHSENE,134,0,0,1811,391,396,343,NA,NA,59,10,18,46,1,0,18,11
 2026-06-01,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,79,13,31,20,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-06-01,11,Berlin,Erwachsene,ERWACHSENE,34,1,0,492,91,264,92,NA,NA,21,4,2,7,0,0,5,1
@@ -36246,7 +36246,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-06-02,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,166,1,0,2338,382,895,379,NA,NA,83,15,28,39,0,0,29,11
 2026-06-02,06,Hessen,Erwachsene,ERWACHSENE,46,0,0,787,123,238,128,NA,NA,23,4,6,12,0,0,10,2
 2026-06-02,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,43,1,0,445,108,207,103,NA,NA,21,6,7,9,1,0,11,6
-2026-06-02,08,Baden-Württemberg,Erwachsene,ERWACHSENE,81,1,0,1014,213,673,226,NA,NA,40,7,12,21,0,0,16,2
+2026-06-02,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,1,0,1014,213,673,226,NA,NA,40,7,11,21,0,0,16,1
 2026-06-02,09,Bayern,Erwachsene,ERWACHSENE,134,1,0,1887,341,387,311,NA,NA,59,10,18,46,1,0,18,11
 2026-06-02,10,Saarland,Erwachsene,ERWACHSENE,6,0,0,52,15,30,23,NA,NA,3,0,0,3,NA,NA,NA,NA
 2026-06-02,11,Berlin,Erwachsene,ERWACHSENE,34,1,0,498,86,268,87,NA,NA,21,5,1,7,0,0,5,1
@@ -36262,7 +36262,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-06-03,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,166,1,0,2285,417,883,392,NA,NA,83,15,26,41,0,0,28,10
 2026-06-03,06,Hessen,Erwachsene,ERWACHSENE,47,0,0,786,137,240,134,NA,NA,23,3,6,14,0,0,9,1
 2026-06-03,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,42,1,0,445,94,197,92,NA,NA,21,4,8,9,1,0,11,5
-2026-06-03,08,Baden-Württemberg,Erwachsene,ERWACHSENE,81,0,0,1027,203,674,218,NA,NA,38,8,14,20,1,0,19,3
+2026-06-03,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,0,0,1027,203,674,218,NA,NA,38,8,13,20,1,0,19,2
 2026-06-03,09,Bayern,Erwachsene,ERWACHSENE,134,1,0,1875,348,380,318,NA,NA,59,10,18,46,1,0,19,10
 2026-06-03,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,65,20,35,26,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-06-03,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,509,77,268,75,NA,NA,19,7,1,7,0,0,6,2
@@ -36278,7 +36278,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-06-04,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,166,1,0,2257,441,888,399,NA,NA,80,17,25,43,0,0,27,13
 2026-06-04,06,Hessen,Erwachsene,ERWACHSENE,48,0,0,819,136,240,135,NA,NA,22,4,6,15,0,0,9,2
 2026-06-04,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,42,1,0,437,101,196,97,NA,NA,19,6,7,10,1,0,11,6
-2026-06-04,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,0,0,968,225,672,229,NA,NA,37,7,16,19,2,0,19,4
+2026-06-04,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,968,225,672,229,NA,NA,37,7,15,19,2,0,19,3
 2026-06-04,09,Bayern,Erwachsene,ERWACHSENE,135,0,0,1889,341,371,310,NA,NA,59,12,17,46,1,0,21,10
 2026-06-04,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,68,16,35,25,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-06-04,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,489,96,268,95,NA,NA,19,7,1,7,0,0,6,2
@@ -36294,7 +36294,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-06-05,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,169,1,0,2274,476,892,412,NA,NA,85,17,22,44,0,0,26,13
 2026-06-05,06,Hessen,Erwachsene,ERWACHSENE,48,0,0,824,128,241,126,NA,NA,23,4,6,14,0,0,9,2
 2026-06-05,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,42,1,0,434,106,196,100,NA,NA,20,7,5,10,1,0,10,6
-2026-06-05,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,0,0,949,242,675,250,NA,NA,38,7,16,18,1,0,18,5
+2026-06-05,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,949,242,675,250,NA,NA,38,7,15,18,1,0,18,4
 2026-06-05,09,Bayern,Erwachsene,ERWACHSENE,134,0,0,1806,406,373,377,NA,NA,59,12,17,45,1,0,20,10
 2026-06-05,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,69,18,33,24,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-06-05,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,503,83,264,85,NA,NA,21,6,1,6,0,0,5,2
@@ -36310,7 +36310,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-06-06,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,170,1,0,2303,455,923,403,NA,NA,82,18,27,42,0,0,29,15
 2026-06-06,06,Hessen,Erwachsene,ERWACHSENE,47,0,0,769,121,232,121,NA,NA,23,3,6,14,0,0,8,2
 2026-06-06,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,42,1,0,421,115,196,97,NA,NA,21,6,5,10,1,0,10,5
-2026-06-06,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,1,0,945,249,683,260,NA,NA,39,8,14,18,1,0,17,4
+2026-06-06,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,1,0,945,249,683,260,NA,NA,39,8,13,18,1,0,17,3
 2026-06-06,09,Bayern,Erwachsene,ERWACHSENE,138,0,0,1864,385,395,380,NA,NA,63,11,17,46,1,0,20,10
 2026-06-06,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,70,17,33,23,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-06-06,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,512,74,264,79,NA,NA,20,5,3,6,0,0,6,2
@@ -36326,7 +36326,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-06-07,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,168,1,0,2229,482,928,408,NA,NA,82,20,23,42,0,0,28,14
 2026-06-07,06,Hessen,Erwachsene,ERWACHSENE,45,0,0,728,130,226,121,NA,NA,23,3,6,12,0,0,8,2
 2026-06-07,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,41,1,0,393,131,181,106,NA,NA,20,6,4,11,1,0,9,5
-2026-06-07,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,1,0,958,234,688,246,NA,NA,37,9,14,19,1,0,18,4
+2026-06-07,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,1,0,958,234,688,246,NA,NA,37,9,13,19,1,0,18,3
 2026-06-07,09,Bayern,Erwachsene,ERWACHSENE,139,0,0,1866,391,397,376,NA,NA,62,11,19,46,1,0,22,10
 2026-06-07,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,64,18,31,23,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-06-07,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,496,91,264,92,NA,NA,21,6,1,6,0,0,6,1
@@ -36342,7 +36342,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-06-08,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,166,1,0,2200,487,928,433,NA,NA,83,16,24,42,1,0,24,15
 2026-06-08,06,Hessen,Erwachsene,ERWACHSENE,45,0,0,740,123,224,114,NA,NA,22,4,6,12,0,0,9,4
 2026-06-08,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,41,1,0,404,126,185,112,NA,NA,20,6,4,11,0,0,9,5
-2026-06-08,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,0,0,959,238,681,254,NA,NA,39,9,13,18,1,0,18,4
+2026-06-08,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,959,238,681,254,NA,NA,39,9,12,18,1,0,18,3
 2026-06-08,09,Bayern,Erwachsene,ERWACHSENE,139,0,0,1844,420,392,400,NA,NA,62,13,17,46,1,0,21,11
 2026-06-08,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,75,17,35,21,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-06-08,11,Berlin,Erwachsene,ERWACHSENE,34,0,1,495,91,264,90,NA,NA,24,5,0,5,0,0,5,0
@@ -36358,7 +36358,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-06-09,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,168,1,0,2273,450,918,409,NA,NA,80,19,24,44,1,0,27,16
 2026-06-09,06,Hessen,Erwachsene,ERWACHSENE,47,0,0,827,115,236,105,NA,NA,25,3,6,12,0,0,8,4
 2026-06-09,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,41,1,0,406,124,187,117,NA,NA,20,6,4,11,0,0,9,5
-2026-06-09,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,0,0,984,215,674,226,NA,NA,34,11,14,20,1,0,18,6
+2026-06-09,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,984,215,674,226,NA,NA,34,11,13,20,1,0,18,5
 2026-06-09,09,Bayern,Erwachsene,ERWACHSENE,139,0,0,1888,385,391,389,NA,NA,62,13,16,47,1,0,21,11
 2026-06-09,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,75,19,35,25,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-06-09,11,Berlin,Erwachsene,ERWACHSENE,34,1,1,498,89,264,87,NA,NA,25,4,0,5,0,0,4,0
@@ -36374,7 +36374,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-06-10,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,167,1,0,2230,445,909,414,NA,NA,79,19,25,43,1,0,26,17
 2026-06-10,06,Hessen,Erwachsene,ERWACHSENE,47,0,1,829,123,236,119,NA,NA,25,2,7,12,0,0,8,3
 2026-06-10,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,42,1,0,423,114,198,108,NA,NA,18,7,6,11,0,0,12,6
-2026-06-10,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,0,0,989,213,670,223,NA,NA,34,13,13,19,1,0,20,5
+2026-06-10,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,989,213,670,223,NA,NA,34,13,12,19,1,0,20,4
 2026-06-10,09,Bayern,Erwachsene,ERWACHSENE,139,0,0,1921,373,382,373,NA,NA,64,10,17,47,2,0,20,9
 2026-06-10,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,78,16,35,25,NA,NA,2,0,1,5,0,0,1,0
 2026-06-10,11,Berlin,Erwachsene,ERWACHSENE,34,1,0,505,83,264,77,NA,NA,24,4,0,6,0,0,4,0
@@ -36390,7 +36390,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-06-11,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,166,2,0,2218,441,902,425,NA,NA,77,19,25,43,1,0,26,18
 2026-06-11,06,Hessen,Erwachsene,ERWACHSENE,46,1,0,829,117,233,112,NA,NA,25,2,6,12,0,0,7,2
 2026-06-11,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,40,1,0,412,117,194,107,NA,NA,18,6,5,11,0,0,10,5
-2026-06-11,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,0,0,983,213,671,214,NA,NA,37,9,14,19,0,0,20,3
+2026-06-11,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,983,213,671,214,NA,NA,37,9,13,19,0,0,20,2
 2026-06-11,09,Bayern,Erwachsene,ERWACHSENE,138,0,0,1923,366,378,364,NA,NA,62,14,16,45,2,0,19,12
 2026-06-11,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,84,10,35,17,NA,NA,2,0,1,5,0,0,1,0
 2026-06-11,11,Berlin,Erwachsene,ERWACHSENE,34,1,0,492,94,265,84,NA,NA,24,4,0,6,0,0,4,0
@@ -36406,7 +36406,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-06-12,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,161,2,0,2126,465,888,428,NA,NA,81,15,19,42,0,0,18,15
 2026-06-12,06,Hessen,Erwachsene,ERWACHSENE,46,0,0,821,130,233,121,NA,NA,25,3,5,12,0,0,7,2
 2026-06-12,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,40,1,0,402,128,195,123,NA,NA,18,7,5,10,0,0,11,5
-2026-06-12,08,Baden-Württemberg,Erwachsene,ERWACHSENE,81,0,0,1000,233,677,250,NA,NA,37,13,11,19,0,0,19,5
+2026-06-12,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,0,0,1000,233,677,250,NA,NA,37,13,10,19,0,0,19,4
 2026-06-12,09,Bayern,Erwachsene,ERWACHSENE,137,0,0,1902,375,378,362,NA,NA,63,13,15,45,2,0,17,13
 2026-06-12,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,80,14,33,21,NA,NA,2,0,1,5,0,0,1,0
 2026-06-12,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,502,81,265,85,NA,NA,23,5,0,6,0,0,4,1
@@ -36422,7 +36422,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-06-13,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,160,1,0,2090,478,849,424,NA,NA,80,19,18,40,0,0,23,14
 2026-06-13,06,Hessen,Erwachsene,ERWACHSENE,47,0,0,823,132,236,125,NA,NA,25,3,5,13,0,0,7,2
 2026-06-13,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,40,1,0,416,115,195,107,NA,NA,18,7,5,10,0,0,11,5
-2026-06-13,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,0,0,976,241,686,242,NA,NA,34,14,13,18,0,0,21,6
+2026-06-13,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,976,241,686,242,NA,NA,34,14,12,18,0,0,21,5
 2026-06-13,09,Bayern,Erwachsene,ERWACHSENE,137,0,0,1858,397,389,372,NA,NA,60,12,16,48,1,0,16,11
 2026-06-13,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,78,15,33,21,NA,NA,2,0,1,5,0,0,1,0
 2026-06-13,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,498,82,265,88,NA,NA,22,6,0,6,0,0,5,1
@@ -36438,7 +36438,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-06-14,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,161,1,0,2096,478,854,425,NA,NA,80,21,15,42,0,0,22,12
 2026-06-14,06,Hessen,Erwachsene,ERWACHSENE,47,0,0,818,134,236,125,NA,NA,25,3,5,13,0,0,7,2
 2026-06-14,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,40,1,0,401,128,192,110,NA,NA,17,7,5,11,0,0,12,5
-2026-06-14,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,0,0,962,251,687,248,NA,NA,36,14,11,18,0,0,21,4
+2026-06-14,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,962,251,687,248,NA,NA,36,14,10,18,0,0,21,3
 2026-06-14,09,Bayern,Erwachsene,ERWACHSENE,137,1,0,1816,430,392,393,NA,NA,60,13,16,47,2,0,16,10
 2026-06-14,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,76,16,33,22,NA,NA,2,1,0,5,0,0,1,0
 2026-06-14,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,481,97,265,97,NA,NA,24,4,0,6,0,0,4,0
@@ -36454,7 +36454,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-06-15,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,164,1,0,2170,474,871,435,NA,NA,89,16,13,43,0,0,19,8
 2026-06-15,06,Hessen,Erwachsene,ERWACHSENE,47,0,0,838,118,239,115,NA,NA,24,5,5,12,0,0,9,3
 2026-06-15,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,41,1,0,418,118,197,100,NA,NA,17,7,6,11,0,0,12,6
-2026-06-15,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,0,0,971,244,677,255,NA,NA,35,15,11,18,0,0,21,5
+2026-06-15,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,971,244,677,255,NA,NA,35,15,10,18,0,0,21,4
 2026-06-15,09,Bayern,Erwachsene,ERWACHSENE,135,1,0,1817,418,370,372,NA,NA,59,12,16,47,2,0,16,10
 2026-06-15,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,78,14,33,23,NA,NA,2,1,0,5,0,0,1,0
 2026-06-15,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,492,90,265,90,NA,NA,22,5,1,6,0,0,5,1
@@ -36470,7 +36470,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-06-16,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,165,1,0,2182,487,894,431,NA,NA,87,17,15,43,0,0,21,9
 2026-06-16,06,Hessen,Erwachsene,ERWACHSENE,47,0,0,834,118,238,114,NA,NA,25,3,5,13,0,0,7,2
 2026-06-16,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,40,1,0,411,109,193,100,NA,NA,14,7,7,12,0,0,12,7
-2026-06-16,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,982,229,676,241,NA,NA,34,14,13,17,1,0,21,6
+2026-06-16,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,982,229,676,241,NA,NA,34,14,12,17,1,0,21,5
 2026-06-16,09,Bayern,Erwachsene,ERWACHSENE,137,1,0,1927,357,369,353,NA,NA,61,16,14,45,2,0,19,11
 2026-06-16,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,80,12,33,20,NA,NA,4,0,0,4,NA,NA,NA,NA
 2026-06-16,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,484,89,260,83,NA,NA,22,5,1,5,0,0,5,1
@@ -36486,7 +36486,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-06-17,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,164,1,0,2196,465,901,409,NA,NA,86,20,15,40,0,0,22,11
 2026-06-17,06,Hessen,Erwachsene,ERWACHSENE,47,0,0,837,117,238,113,NA,NA,25,3,5,13,0,0,7,2
 2026-06-17,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,40,1,0,406,112,188,97,NA,NA,15,7,7,11,0,0,13,6
-2026-06-17,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,1003,213,680,233,NA,NA,33,14,14,17,1,0,22,7
+2026-06-17,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,1003,213,680,233,NA,NA,33,14,13,17,1,0,22,6
 2026-06-17,09,Bayern,Erwachsene,ERWACHSENE,139,1,0,1938,363,387,356,NA,NA,61,17,15,45,2,0,20,12
 2026-06-17,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,78,12,33,18,NA,NA,4,0,0,4,NA,NA,NA,NA
 2026-06-17,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,470,102,260,89,NA,NA,23,5,0,5,0,0,5,0
@@ -36502,7 +36502,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-06-18,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,164,1,0,2256,428,893,393,NA,NA,83,18,20,40,0,0,26,12
 2026-06-18,06,Hessen,Erwachsene,ERWACHSENE,47,0,0,836,116,236,113,NA,NA,27,1,6,12,0,0,7,2
 2026-06-18,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,40,1,0,408,110,192,102,NA,NA,18,6,6,10,0,0,12,5
-2026-06-18,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,0,0,1027,198,680,227,NA,NA,32,15,13,19,0,0,21,8
+2026-06-18,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,1027,198,680,227,NA,NA,32,15,12,19,0,0,21,7
 2026-06-18,09,Bayern,Erwachsene,ERWACHSENE,141,1,0,1965,353,386,344,NA,NA,59,17,16,48,1,0,21,12
 2026-06-18,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,74,18,33,20,NA,NA,4,0,0,4,NA,NA,NA,NA
 2026-06-18,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,484,89,260,84,NA,NA,22,5,1,5,0,0,5,1
@@ -36518,7 +36518,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-06-19,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,163,1,0,2259,406,878,384,NA,NA,76,20,23,41,0,0,26,14
 2026-06-19,06,Hessen,Erwachsene,ERWACHSENE,47,0,0,840,104,238,106,NA,NA,27,1,6,12,0,0,7,2
 2026-06-19,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,40,1,0,413,107,192,107,NA,NA,18,6,6,10,0,0,12,5
-2026-06-19,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,1015,201,679,211,NA,NA,31,14,14,19,0,0,21,8
+2026-06-19,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,1015,201,679,211,NA,NA,31,14,13,19,0,0,21,7
 2026-06-19,09,Bayern,Erwachsene,ERWACHSENE,141,1,1,1985,330,398,338,NA,NA,59,16,16,49,1,0,21,11
 2026-06-19,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,66,9,31,12,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-06-19,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,493,79,256,73,NA,NA,22,5,2,4,0,0,6,2
@@ -36534,7 +36534,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-06-20,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,166,1,0,2274,422,885,382,NA,NA,76,24,21,41,1,0,25,17
 2026-06-20,06,Hessen,Erwachsene,ERWACHSENE,47,0,0,832,110,238,109,NA,NA,25,3,6,12,0,0,8,3
 2026-06-20,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,41,1,0,407,122,192,122,NA,NA,20,5,5,11,0,0,10,4
-2026-06-20,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,0,0,1000,218,677,227,NA,NA,31,15,14,19,0,0,22,8
+2026-06-20,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,1000,218,677,227,NA,NA,31,15,13,19,0,0,22,7
 2026-06-20,09,Bayern,Erwachsene,ERWACHSENE,141,2,0,1951,344,408,331,NA,NA,61,15,16,48,1,0,21,11
 2026-06-20,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,66,10,31,13,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-06-20,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,483,88,256,74,NA,NA,22,5,2,4,0,0,6,2
@@ -36550,7 +36550,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-06-21,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,166,1,0,2249,439,890,379,NA,NA,76,24,22,41,1,0,27,17
 2026-06-21,06,Hessen,Erwachsene,ERWACHSENE,46,0,0,822,117,235,103,NA,NA,25,3,6,11,0,0,8,3
 2026-06-21,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,41,1,0,422,106,192,111,NA,NA,19,6,5,11,0,0,11,5
-2026-06-21,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,0,0,1000,220,676,227,NA,NA,33,13,14,19,0,0,21,7
+2026-06-21,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,1000,220,676,227,NA,NA,33,13,13,19,0,0,21,6
 2026-06-21,09,Bayern,Erwachsene,ERWACHSENE,140,2,0,1927,347,397,316,NA,NA,60,16,18,45,2,0,25,11
 2026-06-21,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,65,10,31,13,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-06-21,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,474,106,261,88,NA,NA,21,5,2,6,0,0,6,1
@@ -36566,7 +36566,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-06-22,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,167,1,0,2285,441,894,401,NA,NA,81,19,23,41,1,0,26,14
 2026-06-22,06,Hessen,Erwachsene,ERWACHSENE,45,0,0,810,116,228,104,NA,NA,25,2,6,11,0,0,7,3
 2026-06-22,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,41,1,0,432,93,193,95,NA,NA,19,4,7,11,0,0,11,6
-2026-06-22,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,0,0,970,252,680,255,NA,NA,36,12,10,21,0,0,18,4
+2026-06-22,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,970,252,680,255,NA,NA,36,12,9,21,0,0,18,3
 2026-06-22,09,Bayern,Erwachsene,ERWACHSENE,142,2,1,1942,370,401,338,NA,NA,62,16,19,44,1,0,23,13
 2026-06-22,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,67,9,30,13,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-06-22,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,457,119,261,99,NA,NA,20,6,2,6,0,0,6,2
@@ -36582,7 +36582,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-06-23,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,167,1,0,2298,432,894,395,NA,NA,82,20,20,42,0,0,26,12
 2026-06-23,06,Hessen,Erwachsene,ERWACHSENE,46,0,0,824,114,232,109,NA,NA,26,2,6,11,0,0,7,3
 2026-06-23,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,41,1,0,423,111,192,107,NA,NA,17,4,8,12,0,0,11,7
-2026-06-23,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,0,0,993,229,678,217,NA,NA,36,13,11,19,0,0,19,5
+2026-06-23,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,993,229,678,217,NA,NA,36,13,10,19,0,0,19,4
 2026-06-23,09,Bayern,Erwachsene,ERWACHSENE,141,2,0,1989,309,386,307,NA,NA,58,13,21,48,1,0,24,12
 2026-06-23,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,70,8,30,15,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-06-23,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,477,103,265,108,NA,NA,20,6,2,6,0,0,6,2
@@ -36598,7 +36598,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-06-24,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,166,1,0,2282,434,894,402,NA,NA,81,20,21,41,0,0,26,15
 2026-06-24,06,Hessen,Erwachsene,ERWACHSENE,46,0,0,837,101,232,98,NA,NA,26,2,6,11,0,0,7,3
 2026-06-24,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,40,1,0,427,93,192,90,NA,NA,19,5,6,10,1,0,10,7
-2026-06-24,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,973,203,666,214,NA,NA,37,11,10,19,0,0,18,5
+2026-06-24,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,973,203,666,214,NA,NA,37,11,9,19,0,0,18,4
 2026-06-24,09,Bayern,Erwachsene,ERWACHSENE,141,2,0,1986,319,387,300,NA,NA,56,12,21,51,1,0,23,12
 2026-06-24,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,82,13,35,20,NA,NA,3,1,0,4,0,0,1,0
 2026-06-24,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,476,106,265,109,NA,NA,21,4,3,6,0,0,5,2
@@ -36614,7 +36614,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-06-25,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,169,1,0,2357,424,915,369,NA,NA,84,22,19,41,0,0,27,13
 2026-06-25,06,Hessen,Erwachsene,ERWACHSENE,46,0,0,842,101,232,107,NA,NA,25,3,6,11,0,0,7,4
 2026-06-25,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,40,1,0,428,92,192,74,NA,NA,20,4,6,10,1,0,9,6
-2026-06-25,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,967,201,665,213,NA,NA,35,13,10,18,0,0,18,6
+2026-06-25,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,967,201,665,213,NA,NA,35,13,9,18,0,0,18,5
 2026-06-25,09,Bayern,Erwachsene,ERWACHSENE,140,0,0,1952,338,392,306,NA,NA,58,14,16,51,1,0,17,11
 2026-06-25,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,82,12,31,19,NA,NA,3,1,0,4,0,0,1,0
 2026-06-25,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,479,106,265,108,NA,NA,22,4,2,6,0,0,4,2
@@ -36630,7 +36630,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-06-26,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,166,1,0,2312,384,890,351,NA,NA,80,19,24,40,0,0,29,15
 2026-06-26,06,Hessen,Erwachsene,ERWACHSENE,46,0,0,835,110,233,101,NA,NA,25,3,6,11,0,0,8,3
 2026-06-26,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,39,1,0,433,76,188,68,NA,NA,19,3,8,9,1,0,9,6
-2026-06-26,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,1016,185,672,199,NA,NA,34,12,11,20,0,0,18,9
+2026-06-26,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,1016,185,672,199,NA,NA,34,12,10,20,0,0,18,8
 2026-06-26,09,Bayern,Erwachsene,ERWACHSENE,140,0,0,1950,353,399,337,NA,NA,59,17,14,49,2,0,20,12
 2026-06-26,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,86,8,31,17,NA,NA,3,1,0,4,0,0,1,0
 2026-06-26,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,490,93,265,92,NA,NA,21,4,3,6,0,0,5,2
@@ -36646,7 +36646,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-06-27,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,164,1,0,2300,344,891,348,NA,NA,74,18,27,42,0,0,29,17
 2026-06-27,06,Hessen,Erwachsene,ERWACHSENE,46,0,0,839,107,231,93,NA,NA,25,3,6,11,0,0,8,3
 2026-06-27,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,39,1,0,439,69,189,59,NA,NA,17,3,10,9,1,0,11,6
-2026-06-27,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,1014,182,680,206,NA,NA,36,12,12,17,0,0,19,9
+2026-06-27,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,1014,182,680,206,NA,NA,36,12,11,17,0,0,19,8
 2026-06-27,09,Bayern,Erwachsene,ERWACHSENE,139,0,0,1917,375,403,341,NA,NA,61,15,14,48,2,0,19,10
 2026-06-27,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,87,9,31,19,NA,NA,2,1,0,5,0,0,1,0
 2026-06-27,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,491,88,265,90,NA,NA,21,4,3,6,0,0,5,2
@@ -36662,7 +36662,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-06-28,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,162,1,0,2340,298,876,299,NA,NA,71,19,27,42,0,0,32,17
 2026-06-28,06,Hessen,Erwachsene,ERWACHSENE,46,0,0,848,94,232,91,NA,NA,24,4,6,11,0,0,9,3
 2026-06-28,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,39,1,0,443,66,190,56,NA,NA,16,3,10,10,0,0,10,7
-2026-06-28,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,1014,193,685,212,NA,NA,34,14,12,18,1,0,21,9
+2026-06-28,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,1014,193,685,212,NA,NA,34,14,11,18,1,0,21,8
 2026-06-28,09,Bayern,Erwachsene,ERWACHSENE,139,0,0,1896,385,399,340,NA,NA,58,15,15,50,2,0,20,10
 2026-06-28,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,89,7,31,16,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-06-28,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,483,93,264,95,NA,NA,21,4,3,6,0,0,5,2
@@ -36678,7 +36678,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-06-29,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,162,1,0,2399,269,878,283,NA,NA,67,22,28,42,1,0,34,22
 2026-06-29,06,Hessen,Erwachsene,ERWACHSENE,46,0,0,855,88,231,87,NA,NA,22,4,8,11,1,0,10,4
 2026-06-29,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,42,1,0,480,60,192,53,NA,NA,16,3,12,11,1,0,12,9
-2026-06-29,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,0,0,1036,186,676,205,NA,NA,33,17,11,18,1,0,22,10
+2026-06-29,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,1036,186,676,205,NA,NA,33,17,10,18,1,0,22,9
 2026-06-29,09,Bayern,Erwachsene,ERWACHSENE,138,0,0,1959,318,393,308,NA,NA,59,15,13,50,1,0,17,8
 2026-06-29,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,90,5,31,13,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-06-29,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,503,74,264,82,NA,NA,21,4,3,6,0,0,5,2
@@ -36694,7 +36694,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-06-30,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,163,1,0,2369,287,857,282,NA,NA,70,22,29,39,1,0,32,21
 2026-06-30,06,Hessen,Erwachsene,ERWACHSENE,45,0,0,858,75,231,75,NA,NA,20,6,8,10,0,0,11,7
 2026-06-30,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,42,1,0,475,58,193,53,NA,NA,15,3,13,11,1,0,14,9
-2026-06-30,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,0,0,1033,204,673,197,NA,NA,34,15,12,18,1,0,22,9
+2026-06-30,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,1033,204,673,197,NA,NA,34,15,11,18,1,0,22,8
 2026-06-30,09,Bayern,Erwachsene,ERWACHSENE,137,0,1,1989,290,366,296,NA,NA,54,16,16,50,2,1,20,10
 2026-06-30,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,88,9,31,14,NA,NA,2,0,1,5,0,0,1,0
 2026-06-30,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,513,73,262,74,NA,NA,20,5,3,6,0,0,6,2
@@ -36710,7 +36710,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-07-01,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,163,1,0,2356,310,862,314,NA,NA,73,23,25,39,0,0,33,19
 2026-07-01,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,838,82,228,79,NA,NA,20,5,8,10,0,0,11,6
 2026-07-01,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,42,1,1,472,69,193,67,NA,NA,20,3,7,12,1,0,10,7
-2026-07-01,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,0,0,1079,160,674,162,NA,NA,33,14,14,18,1,0,21,11
+2026-07-01,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,1079,160,674,162,NA,NA,33,14,13,18,1,0,21,10
 2026-07-01,09,Bayern,Erwachsene,ERWACHSENE,135,1,0,1996,279,375,289,NA,NA,56,13,16,49,2,1,18,11
 2026-07-01,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,86,9,31,18,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-07-01,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,505,77,262,76,NA,NA,21,5,2,6,0,0,6,1
@@ -36726,7 +36726,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-07-02,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,163,1,0,2321,337,867,341,NA,NA,73,25,23,39,0,0,34,18
 2026-07-02,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,835,86,228,83,NA,NA,21,4,8,10,0,0,10,5
 2026-07-02,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,42,2,0,462,75,193,68,NA,NA,20,3,9,10,1,0,12,7
-2026-07-02,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,1076,157,675,184,NA,NA,35,12,12,19,0,0,18,9
+2026-07-02,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,1076,157,675,184,NA,NA,35,12,11,19,0,0,18,8
 2026-07-02,09,Bayern,Erwachsene,ERWACHSENE,135,0,0,1967,305,368,304,NA,NA,55,14,17,48,2,1,20,12
 2026-07-02,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,89,7,31,14,NA,NA,2,0,1,5,0,0,1,0
 2026-07-02,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,509,75,262,73,NA,NA,21,4,3,6,0,0,5,2
@@ -36742,7 +36742,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-07-03,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,161,1,0,2207,311,915,306,NA,NA,63,26,31,38,0,0,39,23
 2026-07-03,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,833,86,229,83,NA,NA,20,3,9,11,0,0,10,5
 2026-07-03,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,42,2,0,457,75,194,64,NA,NA,17,4,11,10,1,0,12,10
-2026-07-03,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,1009,162,672,190,NA,NA,33,11,13,18,0,0,18,10
+2026-07-03,08,Baden-Württemberg,Erwachsene,ERWACHSENE,75,0,0,1009,162,672,190,NA,NA,33,11,12,18,0,0,18,9
 2026-07-03,09,Bayern,Erwachsene,ERWACHSENE,135,0,0,1978,295,365,285,NA,NA,54,16,15,49,2,1,19,12
 2026-07-03,10,Saarland,Erwachsene,ERWACHSENE,8,0,NA,84,12,31,19,NA,NA,2,0,1,5,0,0,1,0
 2026-07-03,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,516,69,262,69,NA,NA,22,5,1,6,0,0,5,1
@@ -36758,7 +36758,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-07-04,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,160,1,0,2172,326,898,299,NA,NA,68,21,28,39,0,0,34,19
 2026-07-04,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,826,93,229,87,NA,NA,20,4,8,11,0,0,10,5
 2026-07-04,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,42,1,0,452,81,193,68,NA,NA,16,4,12,10,1,0,14,9
-2026-07-04,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,1016,164,671,180,NA,NA,33,9,13,21,0,0,16,10
+2026-07-04,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,1016,164,671,180,NA,NA,33,9,12,21,0,0,16,9
 2026-07-04,09,Bayern,Erwachsene,ERWACHSENE,137,0,0,1956,316,385,313,NA,NA,61,12,16,47,2,1,18,8
 2026-07-04,10,Saarland,Erwachsene,ERWACHSENE,8,0,NA,84,12,31,21,NA,NA,2,0,1,5,0,0,1,0
 2026-07-04,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,500,84,263,76,NA,NA,21,4,3,6,0,0,6,1
@@ -36774,7 +36774,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-07-05,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,161,1,0,2136,334,903,312,NA,NA,66,23,30,39,1,0,36,20
 2026-07-05,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,820,99,231,94,NA,NA,21,4,7,11,0,0,10,3
 2026-07-05,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,42,1,1,449,80,192,72,NA,NA,16,5,11,10,1,0,14,9
-2026-07-05,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,1044,175,689,188,NA,NA,33,8,15,22,0,0,17,9
+2026-07-05,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,1044,175,689,188,NA,NA,33,8,14,22,0,0,17,8
 2026-07-05,09,Bayern,Erwachsene,ERWACHSENE,137,0,0,1911,353,387,340,NA,NA,59,13,16,48,2,1,18,8
 2026-07-05,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,85,11,31,21,NA,NA,2,0,1,5,0,0,1,0
 2026-07-05,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,485,99,262,93,NA,NA,21,4,2,7,0,0,6,0
@@ -36790,7 +36790,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-07-06,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,165,1,0,2191,394,920,374,NA,NA,71,25,28,38,1,0,36,19
 2026-07-06,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,812,107,231,106,NA,NA,22,4,6,11,0,0,9,2
 2026-07-06,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,41,2,0,443,83,193,67,NA,NA,13,6,11,11,2,0,15,7
-2026-07-06,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,1039,172,688,192,NA,NA,35,8,14,20,0,0,17,7
+2026-07-06,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,1039,172,688,192,NA,NA,35,8,13,20,0,0,17,6
 2026-07-06,09,Bayern,Erwachsene,ERWACHSENE,137,0,0,1889,378,390,353,NA,NA,57,15,16,48,1,0,19,9
 2026-07-06,10,Saarland,Erwachsene,ERWACHSENE,6,0,0,68,7,30,19,NA,NA,2,0,1,3,0,0,1,0
 2026-07-06,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,479,104,262,96,NA,NA,21,5,1,7,0,0,6,0
@@ -36806,7 +36806,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-07-07,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,165,1,0,2225,368,918,351,NA,NA,77,22,26,37,0,0,32,17
 2026-07-07,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,826,91,231,91,NA,NA,22,5,5,11,0,0,9,2
 2026-07-07,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,41,2,0,448,86,193,68,NA,NA,15,5,10,11,2,0,13,7
-2026-07-07,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,1029,187,684,200,NA,NA,35,10,13,19,0,0,17,7
+2026-07-07,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,1029,187,684,200,NA,NA,35,10,12,19,0,0,17,6
 2026-07-07,09,Bayern,Erwachsene,ERWACHSENE,137,0,0,1945,340,386,323,NA,NA,60,16,13,47,1,0,17,9
 2026-07-07,10,Saarland,Erwachsene,ERWACHSENE,6,0,0,65,11,30,20,NA,NA,2,0,1,3,0,0,1,0
 2026-07-07,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,485,97,264,98,NA,NA,21,5,1,7,0,0,6,0
@@ -36822,7 +36822,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-07-08,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,164,1,0,2297,421,911,387,NA,NA,82,22,21,36,0,0,29,14
 2026-07-08,06,Hessen,Erwachsene,ERWACHSENE,42,0,0,804,102,231,98,NA,NA,20,6,6,9,0,0,11,4
 2026-07-08,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,41,2,0,439,94,193,77,NA,NA,15,4,11,11,2,0,14,8
-2026-07-08,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,1021,197,679,216,NA,NA,36,8,13,20,0,0,16,6
+2026-07-08,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,1021,197,679,216,NA,NA,36,8,12,20,0,0,16,5
 2026-07-08,09,Bayern,Erwachsene,ERWACHSENE,138,0,0,1947,346,388,330,NA,NA,66,13,13,45,1,0,15,8
 2026-07-08,10,Saarland,Erwachsene,ERWACHSENE,6,0,0,61,13,30,20,NA,NA,2,0,1,3,0,0,1,0
 2026-07-08,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,497,87,265,95,NA,NA,21,5,1,7,0,0,6,0
@@ -36838,7 +36838,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-07-09,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,164,1,0,2267,447,915,411,NA,NA,81,23,21,36,0,0,30,14
 2026-07-09,06,Hessen,Erwachsene,ERWACHSENE,41,0,0,797,88,229,91,NA,NA,20,5,6,9,0,0,9,5
 2026-07-09,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,40,2,0,426,97,192,79,NA,NA,15,6,8,11,1,0,13,7
-2026-07-09,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,1048,171,679,189,NA,NA,35,9,13,20,1,0,16,6
+2026-07-09,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,1048,171,679,189,NA,NA,35,9,12,20,1,0,16,5
 2026-07-09,09,Bayern,Erwachsene,ERWACHSENE,136,0,0,1907,333,399,313,NA,NA,64,13,12,46,1,0,16,8
 2026-07-09,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,63,18,30,20,NA,NA,2,0,1,4,0,0,1,0
 2026-07-09,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,507,76,265,84,NA,NA,23,4,2,5,0,0,6,0
@@ -36854,7 +36854,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-07-10,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,163,1,0,2248,452,911,406,NA,NA,77,22,25,36,0,0,31,15
 2026-07-10,06,Hessen,Erwachsene,ERWACHSENE,43,0,0,803,97,229,101,NA,NA,20,4,7,11,0,0,9,5
 2026-07-10,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,41,2,0,435,101,192,79,NA,NA,15,5,9,12,1,0,12,8
-2026-07-10,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,1057,163,680,191,NA,NA,31,12,14,20,0,0,16,10
+2026-07-10,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,1057,163,680,191,NA,NA,31,12,13,20,0,0,16,9
 2026-07-10,09,Bayern,Erwachsene,ERWACHSENE,135,0,0,1913,307,389,313,NA,NA,63,13,15,43,1,0,17,9
 2026-07-10,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,61,18,30,20,NA,NA,2,0,1,4,0,0,1,0
 2026-07-10,11,Berlin,Erwachsene,ERWACHSENE,34,0,1,507,79,267,82,NA,NA,23,4,2,5,0,0,6,0
@@ -36870,7 +36870,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-07-11,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,165,1,0,2233,482,884,415,NA,NA,78,22,24,39,0,0,29,15
 2026-07-11,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,783,132,231,115,NA,NA,21,4,7,11,0,0,9,5
 2026-07-11,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,39,1,0,417,94,193,62,NA,NA,14,6,8,11,1,0,12,8
-2026-07-11,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,1026,197,688,209,NA,NA,33,12,12,20,1,0,14,9
+2026-07-11,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,1026,197,688,209,NA,NA,33,12,11,20,1,0,14,8
 2026-07-11,09,Bayern,Erwachsene,ERWACHSENE,135,0,0,1874,354,389,331,NA,NA,62,13,15,44,1,0,19,7
 2026-07-11,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,60,19,29,21,NA,NA,3,0,1,3,0,0,1,0
 2026-07-11,11,Berlin,Erwachsene,ERWACHSENE,34,1,0,486,90,266,94,NA,NA,23,4,2,5,0,0,6,0
@@ -36886,7 +36886,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-07-12,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,162,2,0,2203,468,877,422,NA,NA,81,20,21,37,0,0,24,13
 2026-07-12,06,Hessen,Erwachsene,ERWACHSENE,45,0,0,788,123,234,122,NA,NA,20,4,8,12,0,0,11,5
 2026-07-12,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,39,1,0,410,100,193,70,NA,NA,14,6,8,11,1,0,12,8
-2026-07-12,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,1019,191,687,211,NA,NA,32,10,14,20,1,0,15,9
+2026-07-12,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,1019,191,687,211,NA,NA,32,10,13,20,1,0,15,8
 2026-07-12,09,Bayern,Erwachsene,ERWACHSENE,133,0,0,1831,362,391,326,NA,NA,59,13,14,46,1,0,18,7
 2026-07-12,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,62,13,29,19,NA,NA,3,0,1,3,0,0,1,0
 2026-07-12,11,Berlin,Erwachsene,ERWACHSENE,34,1,0,471,109,266,108,NA,NA,23,4,2,5,0,0,6,0
@@ -36902,7 +36902,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-07-13,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,162,2,0,2168,509,888,438,NA,NA,86,18,19,36,0,0,21,12
 2026-07-13,06,Hessen,Erwachsene,ERWACHSENE,45,0,0,792,118,234,121,NA,NA,22,3,7,12,0,0,9,3
 2026-07-13,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,40,1,0,423,94,190,69,NA,NA,15,5,8,12,1,0,10,8
-2026-07-13,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,1004,211,687,229,NA,NA,34,10,12,20,1,0,14,8
+2026-07-13,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,1004,211,687,229,NA,NA,34,10,11,20,1,0,14,7
 2026-07-13,09,Bayern,Erwachsene,ERWACHSENE,132,0,0,1822,353,397,332,NA,NA,57,13,16,45,1,0,18,9
 2026-07-13,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,62,16,31,16,NA,NA,4,0,0,3,NA,NA,NA,NA
 2026-07-13,11,Berlin,Erwachsene,ERWACHSENE,34,1,0,476,104,266,112,NA,NA,22,4,3,5,0,0,6,1
@@ -36918,7 +36918,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-07-14,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,163,2,0,2253,455,890,415,NA,NA,83,20,21,36,0,0,24,15
 2026-07-14,06,Hessen,Erwachsene,ERWACHSENE,45,0,0,796,126,239,127,NA,NA,21,3,7,13,0,0,9,3
 2026-07-14,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,38,1,0,394,107,186,76,NA,NA,16,5,7,10,1,0,10,8
-2026-07-14,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,1009,221,681,238,NA,NA,33,10,13,22,1,0,15,8
+2026-07-14,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,1009,221,681,238,NA,NA,33,10,12,22,1,0,15,7
 2026-07-14,09,Bayern,Erwachsene,ERWACHSENE,135,0,0,1920,343,394,329,NA,NA,62,12,14,46,1,0,17,7
 2026-07-14,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,59,21,31,17,NA,NA,4,0,0,3,NA,NA,NA,NA
 2026-07-14,11,Berlin,Erwachsene,ERWACHSENE,34,1,0,492,88,265,100,NA,NA,22,5,2,5,0,0,6,1
@@ -36934,7 +36934,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-07-15,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,165,3,0,2260,466,892,437,NA,NA,81,19,25,37,0,0,25,16
 2026-07-15,06,Hessen,Erwachsene,ERWACHSENE,45,0,0,807,124,237,118,NA,NA,22,3,6,13,0,0,8,2
 2026-07-15,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,38,1,0,403,95,186,74,NA,NA,17,5,7,9,1,0,10,8
-2026-07-15,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,1012,207,678,233,NA,NA,32,11,12,21,0,0,16,8
+2026-07-15,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,1012,207,678,233,NA,NA,32,11,11,21,0,0,16,7
 2026-07-15,09,Bayern,Erwachsene,ERWACHSENE,135,0,0,1922,348,405,345,NA,NA,64,11,14,45,1,0,17,6
 2026-07-15,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,67,13,31,17,NA,NA,3,1,0,3,0,0,1,0
 2026-07-15,11,Berlin,Erwachsene,ERWACHSENE,34,2,0,510,70,265,81,NA,NA,23,5,1,5,0,0,5,1
@@ -36950,7 +36950,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-07-16,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,165,3,0,2256,466,895,448,NA,NA,80,23,22,37,0,0,26,16
 2026-07-16,06,Hessen,Erwachsene,ERWACHSENE,45,0,0,803,124,237,123,NA,NA,21,4,6,13,0,0,9,3
 2026-07-16,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,38,1,0,402,94,186,81,NA,NA,17,4,7,10,1,0,11,6
-2026-07-16,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,1020,206,664,221,NA,NA,31,10,15,20,0,0,19,8
+2026-07-16,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,1020,206,664,221,NA,NA,31,10,14,20,0,0,19,7
 2026-07-16,09,Bayern,Erwachsene,ERWACHSENE,133,0,0,1918,312,389,298,NA,NA,60,12,15,45,2,0,17,8
 2026-07-16,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,67,13,31,16,NA,NA,4,0,0,3,NA,NA,NA,NA
 2026-07-16,11,Berlin,Erwachsene,ERWACHSENE,34,1,0,508,75,265,86,NA,NA,25,4,0,5,0,0,3,1
@@ -36966,7 +36966,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-07-17,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,164,3,0,2222,473,882,465,NA,NA,83,21,20,37,0,0,26,12
 2026-07-17,06,Hessen,Erwachsene,ERWACHSENE,45,0,0,807,114,237,113,NA,NA,21,4,6,13,0,0,9,3
 2026-07-17,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,38,1,0,397,102,189,82,NA,NA,15,8,6,9,1,0,13,8
-2026-07-17,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,1035,187,653,211,NA,NA,30,11,14,20,0,0,17,8
+2026-07-17,08,Baden-Württemberg,Erwachsene,ERWACHSENE,75,0,0,1035,187,653,211,NA,NA,30,11,13,20,0,0,17,7
 2026-07-17,09,Bayern,Erwachsene,ERWACHSENE,133,0,0,1916,318,371,313,NA,NA,61,14,12,45,2,0,17,7
 2026-07-17,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,73,8,30,15,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-07-17,11,Berlin,Erwachsene,ERWACHSENE,34,1,0,506,78,267,86,NA,NA,23,4,1,6,0,0,3,2
@@ -36982,7 +36982,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-07-18,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,163,3,0,2218,467,886,443,NA,NA,82,20,19,39,0,0,22,15
 2026-07-18,06,Hessen,Erwachsene,ERWACHSENE,46,0,0,825,107,238,107,NA,NA,21,3,7,14,0,0,9,3
 2026-07-18,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,40,1,0,411,110,193,95,NA,NA,16,8,6,10,1,0,12,9
-2026-07-18,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,999,216,658,225,NA,NA,28,12,14,21,0,0,18,9
+2026-07-18,08,Baden-Württemberg,Erwachsene,ERWACHSENE,75,0,0,999,216,658,225,NA,NA,28,12,13,21,0,0,18,8
 2026-07-18,09,Bayern,Erwachsene,ERWACHSENE,132,0,0,1873,353,325,337,NA,NA,62,11,12,46,2,0,16,7
 2026-07-18,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,67,14,30,20,NA,NA,3,0,1,3,0,0,1,0
 2026-07-18,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,506,75,277,83,NA,NA,20,4,3,7,0,0,4,2
@@ -36998,7 +36998,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-07-19,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,163,3,0,2196,469,894,441,NA,NA,80,21,16,43,0,0,22,13
 2026-07-19,06,Hessen,Erwachsene,ERWACHSENE,46,0,0,795,131,238,125,NA,NA,21,3,7,14,0,0,9,3
 2026-07-19,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,40,1,0,418,98,192,92,NA,NA,16,7,7,10,1,0,13,8
-2026-07-19,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,983,228,663,244,NA,NA,31,11,13,20,0,0,17,8
+2026-07-19,08,Baden-Württemberg,Erwachsene,ERWACHSENE,75,0,0,983,228,663,244,NA,NA,31,11,12,20,0,0,17,7
 2026-07-19,09,Bayern,Erwachsene,ERWACHSENE,133,0,0,1842,384,337,356,NA,NA,60,13,12,47,2,0,17,8
 2026-07-19,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,63,14,30,21,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-07-19,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,495,87,275,87,NA,NA,19,4,3,8,0,0,4,2
@@ -37014,7 +37014,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-07-20,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,164,2,0,2178,523,913,474,NA,NA,78,23,16,44,0,0,24,13
 2026-07-20,06,Hessen,Erwachsene,ERWACHSENE,46,0,0,806,120,238,122,NA,NA,21,3,7,14,0,0,9,3
 2026-07-20,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,39,1,0,411,100,192,90,NA,NA,16,5,9,9,1,0,13,8
-2026-07-20,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,977,242,661,245,NA,NA,32,11,12,21,0,0,17,9
+2026-07-20,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,977,242,661,245,NA,NA,32,11,11,21,0,0,17,8
 2026-07-20,09,Bayern,Erwachsene,ERWACHSENE,132,0,0,1833,396,343,353,NA,NA,60,12,13,46,2,0,17,9
 2026-07-20,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,66,11,29,21,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-07-20,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,485,99,277,98,NA,NA,20,5,1,8,0,0,4,1
@@ -37030,7 +37030,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-07-21,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,165,2,0,2210,505,905,471,NA,NA,77,21,20,44,0,0,27,13
 2026-07-21,06,Hessen,Erwachsene,ERWACHSENE,46,0,0,821,123,238,129,NA,NA,23,2,6,14,0,0,8,1
 2026-07-21,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,39,1,0,410,101,190,96,NA,NA,16,6,7,10,1,0,12,9
-2026-07-21,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,974,256,659,250,NA,NA,34,11,10,21,0,0,18,6
+2026-07-21,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,974,256,659,250,NA,NA,34,11,9,21,0,0,18,5
 2026-07-21,09,Bayern,Erwachsene,ERWACHSENE,133,0,0,1871,375,358,347,NA,NA,56,13,15,48,2,0,19,11
 2026-07-21,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,65,13,31,21,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-07-21,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,498,89,275,90,NA,NA,21,4,1,8,0,0,3,1
@@ -37046,7 +37046,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-07-22,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,164,2,0,2232,482,903,453,NA,NA,79,21,17,46,0,0,25,13
 2026-07-22,06,Hessen,Erwachsene,ERWACHSENE,46,0,0,821,118,233,124,NA,NA,23,1,7,14,0,0,8,1
 2026-07-22,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,39,1,0,408,98,191,92,NA,NA,19,4,6,10,1,0,9,6
-2026-07-22,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,974,240,659,240,NA,NA,33,12,9,21,0,0,17,6
+2026-07-22,08,Baden-Württemberg,Erwachsene,ERWACHSENE,75,0,0,974,240,659,240,NA,NA,33,12,8,21,0,0,17,5
 2026-07-22,09,Bayern,Erwachsene,ERWACHSENE,135,0,0,1892,376,377,358,NA,NA,59,14,12,49,2,0,19,9
 2026-07-22,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,81,13,31,20,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-07-22,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,489,98,275,108,NA,NA,21,4,1,8,0,0,3,1
@@ -37062,7 +37062,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-07-23,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,163,1,0,2197,510,893,468,NA,NA,85,21,11,43,0,0,21,8
 2026-07-23,06,Hessen,Erwachsene,ERWACHSENE,45,0,0,811,127,233,123,NA,NA,22,2,7,13,0,0,9,2
 2026-07-23,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,39,1,0,399,107,191,100,NA,NA,20,4,6,9,1,0,10,6
-2026-07-23,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,959,257,664,267,NA,NA,33,9,12,22,0,0,17,6
+2026-07-23,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,959,257,664,267,NA,NA,33,9,11,22,0,0,17,5
 2026-07-23,09,Bayern,Erwachsene,ERWACHSENE,135,0,0,1905,367,380,345,NA,NA,60,13,13,48,1,0,21,7
 2026-07-23,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,82,13,29,21,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-07-23,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,502,84,275,99,NA,NA,21,4,1,8,0,0,3,1
@@ -37078,7 +37078,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-07-24,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,161,1,0,2178,507,879,469,NA,NA,80,21,14,45,0,0,23,10
 2026-07-24,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,786,140,221,131,NA,NA,22,2,6,13,0,0,8,2
 2026-07-24,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,39,1,0,391,115,191,105,NA,NA,19,4,8,8,1,0,12,6
-2026-07-24,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,984,229,660,254,NA,NA,32,10,11,23,0,0,16,5
+2026-07-24,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,984,229,660,254,NA,NA,32,10,10,23,0,0,16,4
 2026-07-24,09,Bayern,Erwachsene,ERWACHSENE,135,0,0,1904,357,374,340,NA,NA,59,12,14,49,1,0,20,8
 2026-07-24,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,74,18,29,24,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-07-24,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,477,91,267,99,NA,NA,21,3,2,7,0,0,3,1
@@ -37094,7 +37094,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-07-25,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,160,1,0,2150,514,864,477,NA,NA,77,22,16,43,0,0,23,12
 2026-07-25,06,Hessen,Erwachsene,ERWACHSENE,43,0,0,770,136,223,134,NA,NA,22,2,6,12,0,0,8,2
 2026-07-25,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,40,1,0,406,110,192,108,NA,NA,19,4,8,9,1,0,12,6
-2026-07-25,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,990,226,656,245,NA,NA,31,11,11,24,0,0,18,6
+2026-07-25,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,990,226,656,245,NA,NA,31,11,10,24,0,0,18,5
 2026-07-25,09,Bayern,Erwachsene,ERWACHSENE,135,0,0,1868,357,380,337,NA,NA,58,11,16,49,2,0,21,7
 2026-07-25,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,76,17,30,24,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-07-25,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,479,90,267,98,NA,NA,20,3,3,7,0,0,4,1
@@ -37110,7 +37110,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-07-26,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,158,1,0,2095,528,853,505,NA,NA,76,19,18,41,0,0,23,12
 2026-07-26,06,Hessen,Erwachsene,ERWACHSENE,43,0,0,760,135,220,129,NA,NA,22,2,6,12,0,0,8,2
 2026-07-26,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,40,1,0,412,103,192,102,NA,NA,18,4,9,9,1,0,13,6
-2026-07-26,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,983,231,658,243,NA,NA,34,10,10,23,0,0,16,6
+2026-07-26,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,983,231,658,243,NA,NA,34,10,9,23,0,0,16,5
 2026-07-26,09,Bayern,Erwachsene,ERWACHSENE,135,0,0,1836,380,378,354,NA,NA,58,11,16,49,2,0,20,8
 2026-07-26,10,Saarland,Erwachsene,ERWACHSENE,9,0,0,94,15,30,24,NA,NA,3,0,0,6,NA,NA,NA,NA
 2026-07-26,11,Berlin,Erwachsene,ERWACHSENE,33,0,1,471,99,267,109,NA,NA,20,5,1,7,0,0,4,1
@@ -37126,7 +37126,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-07-27,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,160,1,0,2147,509,869,482,NA,NA,73,19,20,47,0,0,24,13
 2026-07-27,06,Hessen,Erwachsene,ERWACHSENE,43,0,0,746,138,218,134,NA,NA,21,3,6,12,0,0,9,2
 2026-07-27,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,40,1,0,413,103,194,113,NA,NA,18,5,7,10,1,0,11,7
-2026-07-27,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,0,0,985,252,670,258,NA,NA,34,14,9,22,1,0,19,7
+2026-07-27,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,985,252,670,258,NA,NA,34,14,8,22,1,0,19,6
 2026-07-27,09,Bayern,Erwachsene,ERWACHSENE,139,0,0,1884,404,382,378,NA,NA,65,10,16,47,1,0,19,7
 2026-07-27,10,Saarland,Erwachsene,ERWACHSENE,9,0,0,96,12,31,27,NA,NA,3,0,0,6,NA,NA,NA,NA
 2026-07-27,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,469,104,267,106,NA,NA,21,4,1,7,0,0,3,1
@@ -37142,7 +37142,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-07-28,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,162,1,0,2163,515,876,498,NA,NA,77,16,23,45,0,0,25,10
 2026-07-28,06,Hessen,Erwachsene,ERWACHSENE,43,0,0,750,139,220,129,NA,NA,20,4,5,13,0,0,9,2
 2026-07-28,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,40,1,0,416,113,193,112,NA,NA,19,5,6,10,1,0,10,6
-2026-07-28,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,0,0,1006,240,669,261,NA,NA,35,13,9,22,1,0,17,5
+2026-07-28,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,1006,240,669,261,NA,NA,35,13,8,22,1,0,17,4
 2026-07-28,09,Bayern,Erwachsene,ERWACHSENE,139,0,1,1905,388,382,370,NA,NA,63,12,15,48,1,0,20,8
 2026-07-28,10,Saarland,Erwachsene,ERWACHSENE,9,0,0,99,9,31,21,NA,NA,3,0,0,6,NA,NA,NA,NA
 2026-07-28,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,468,102,267,102,NA,NA,21,4,1,7,0,0,3,1
@@ -37158,7 +37158,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-07-29,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,164,1,0,2222,489,888,465,NA,NA,74,19,25,44,0,0,27,13
 2026-07-29,06,Hessen,Erwachsene,ERWACHSENE,43,0,0,767,125,220,114,NA,NA,20,3,6,13,0,0,9,2
 2026-07-29,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,40,1,0,416,110,193,104,NA,NA,20,4,6,10,1,0,10,5
-2026-07-29,08,Baden-Württemberg,Erwachsene,ERWACHSENE,80,0,0,1007,241,668,253,NA,NA,37,10,10,22,1,0,15,6
+2026-07-29,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,1007,241,668,253,NA,NA,37,10,9,22,1,0,15,5
 2026-07-29,09,Bayern,Erwachsene,ERWACHSENE,139,1,0,1937,358,398,346,NA,NA,64,12,15,47,1,0,20,8
 2026-07-29,10,Saarland,Erwachsene,ERWACHSENE,9,0,0,97,14,31,25,NA,NA,3,0,0,6,NA,NA,NA,NA
 2026-07-29,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,457,113,267,116,NA,NA,22,3,2,6,0,0,4,0
@@ -37174,7 +37174,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-07-30,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,163,1,0,2238,464,890,446,NA,NA,73,17,29,41,0,0,29,15
 2026-07-30,06,Hessen,Erwachsene,ERWACHSENE,43,0,0,769,123,220,115,NA,NA,19,5,5,13,0,0,10,3
 2026-07-30,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,40,1,0,420,112,196,108,NA,NA,18,4,7,11,1,0,11,6
-2026-07-30,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,1015,223,667,250,NA,NA,37,12,7,22,1,0,15,5
+2026-07-30,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,1015,223,667,250,NA,NA,37,12,6,22,1,0,15,4
 2026-07-30,09,Bayern,Erwachsene,ERWACHSENE,139,1,0,1914,386,390,365,NA,NA,64,11,16,47,1,0,18,9
 2026-07-30,10,Saarland,Erwachsene,ERWACHSENE,9,0,0,94,17,31,26,NA,NA,3,0,0,6,NA,NA,NA,NA
 2026-07-30,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,476,111,275,117,NA,NA,23,3,2,6,0,0,4,0
@@ -37190,7 +37190,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-07-31,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,161,1,0,2208,463,892,425,NA,NA,73,18,26,41,0,0,29,13
 2026-07-31,06,Hessen,Erwachsene,ERWACHSENE,43,0,0,771,125,220,110,NA,NA,20,4,5,13,0,0,9,3
 2026-07-31,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,41,1,0,429,106,196,104,NA,NA,19,5,7,10,1,0,12,7
-2026-07-31,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,984,241,667,248,NA,NA,42,9,5,21,1,0,13,2
+2026-07-31,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,984,241,667,248,NA,NA,42,9,4,21,1,0,13,1
 2026-07-31,09,Bayern,Erwachsene,ERWACHSENE,138,1,0,1915,366,382,371,NA,NA,61,13,14,49,1,0,21,7
 2026-07-31,10,Saarland,Erwachsene,ERWACHSENE,9,0,0,94,11,31,23,NA,NA,3,0,0,6,NA,NA,NA,NA
 2026-07-31,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,463,118,275,118,NA,NA,23,3,2,6,0,0,4,0
@@ -37206,7 +37206,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-08-01,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,161,1,0,2201,468,889,429,NA,NA,75,18,25,40,0,0,26,15
 2026-08-01,06,Hessen,Erwachsene,ERWACHSENE,43,0,0,765,128,219,121,NA,NA,20,4,5,13,0,0,9,3
 2026-08-01,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,40,1,0,417,101,192,95,NA,NA,19,5,7,9,1,0,12,7
-2026-08-01,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,993,227,666,238,NA,NA,39,11,5,22,1,0,14,3
+2026-08-01,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,993,227,666,238,NA,NA,39,11,4,22,1,0,14,2
 2026-08-01,09,Bayern,Erwachsene,ERWACHSENE,135,1,0,1864,385,378,371,NA,NA,60,12,14,48,1,0,22,5
 2026-08-01,10,Saarland,Erwachsene,ERWACHSENE,9,0,NA,94,13,31,25,NA,NA,3,0,0,6,NA,NA,NA,NA
 2026-08-01,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,469,115,275,114,NA,NA,23,3,2,6,0,0,4,0
@@ -37222,7 +37222,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-08-02,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,159,1,0,2124,492,886,453,NA,NA,74,21,22,39,0,0,26,13
 2026-08-02,06,Hessen,Erwachsene,ERWACHSENE,43,0,0,757,127,219,114,NA,NA,21,4,4,13,0,0,8,3
 2026-08-02,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,40,1,0,401,111,195,108,NA,NA,19,5,7,9,1,0,12,7
-2026-08-02,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,980,242,667,249,NA,NA,41,8,6,22,1,0,13,1
+2026-08-02,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,980,242,667,249,NA,NA,41,8,5,22,1,0,13,0
 2026-08-02,09,Bayern,Erwachsene,ERWACHSENE,135,1,0,1852,375,376,356,NA,NA,61,11,16,46,1,0,22,6
 2026-08-02,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,76,14,30,25,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-08-02,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,472,111,275,121,NA,NA,20,6,2,6,0,0,6,1
@@ -37238,7 +37238,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-08-03,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,163,1,0,2161,514,915,467,NA,NA,77,24,20,41,0,0,25,14
 2026-08-03,06,Hessen,Erwachsene,ERWACHSENE,43,1,1,758,131,219,121,NA,NA,21,3,5,13,0,0,8,3
 2026-08-03,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,40,1,0,407,111,195,114,NA,NA,19,6,6,9,1,0,12,7
-2026-08-03,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,993,214,664,233,NA,NA,42,8,7,19,1,0,12,4
+2026-08-03,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,993,214,664,233,NA,NA,42,8,6,19,1,0,12,3
 2026-08-03,09,Bayern,Erwachsene,ERWACHSENE,136,1,0,1881,351,396,348,NA,NA,64,12,17,42,2,0,22,8
 2026-08-03,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,80,10,30,25,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-08-03,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,475,106,271,104,NA,NA,19,5,2,8,0,0,6,0
@@ -37254,7 +37254,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-08-04,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,162,1,0,2154,517,916,467,NA,NA,80,22,18,41,0,0,24,10
 2026-08-04,06,Hessen,Erwachsene,ERWACHSENE,43,0,0,771,120,221,107,NA,NA,21,4,4,13,0,0,8,3
 2026-08-04,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,40,1,0,418,99,195,102,NA,NA,18,6,7,9,1,0,13,7
-2026-08-04,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,983,229,666,232,NA,NA,41,9,8,18,1,0,15,4
+2026-08-04,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,983,229,666,232,NA,NA,41,9,7,18,1,0,15,3
 2026-08-04,09,Bayern,Erwachsene,ERWACHSENE,136,1,0,1878,386,392,379,NA,NA,66,14,13,42,2,0,20,6
 2026-08-04,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,78,12,30,15,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-08-04,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,473,114,270,108,NA,NA,19,6,2,7,0,0,6,1
@@ -37270,7 +37270,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-08-05,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,162,1,0,2154,518,907,470,NA,NA,83,20,17,39,0,0,23,7
 2026-08-05,06,Hessen,Erwachsene,ERWACHSENE,43,0,0,771,128,218,114,NA,NA,20,4,4,14,0,0,8,3
 2026-08-05,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,40,1,0,423,94,192,99,NA,NA,20,6,5,9,1,0,11,6
-2026-08-05,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,987,224,665,242,NA,NA,40,9,9,18,1,0,14,5
+2026-08-05,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,987,224,665,242,NA,NA,40,9,8,18,1,0,14,4
 2026-08-05,09,Bayern,Erwachsene,ERWACHSENE,135,1,0,1863,391,380,381,NA,NA,65,16,11,42,2,0,19,7
 2026-08-05,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,73,17,30,29,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-08-05,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,471,112,268,109,NA,NA,19,5,2,8,0,0,6,0
@@ -37286,7 +37286,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-08-06,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,164,1,0,2172,512,914,454,NA,NA,77,25,19,40,0,0,25,12
 2026-08-06,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,794,116,219,103,NA,NA,20,4,4,15,0,0,8,3
 2026-08-06,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,39,1,0,416,92,192,83,NA,NA,18,7,6,8,1,0,12,8
-2026-08-06,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,991,217,664,243,NA,NA,40,10,8,18,1,0,16,4
+2026-08-06,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,991,217,664,243,NA,NA,40,10,7,18,1,0,16,3
 2026-08-06,09,Bayern,Erwachsene,ERWACHSENE,135,1,0,1875,378,385,367,NA,NA,64,11,15,44,1,0,19,6
 2026-08-06,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,66,24,32,32,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-08-06,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,467,112,268,110,NA,NA,18,6,2,8,0,0,5,3
@@ -37302,7 +37302,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-08-07,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,164,1,0,2160,524,915,452,NA,NA,81,23,17,40,0,0,24,10
 2026-08-07,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,774,138,220,124,NA,NA,21,3,4,15,0,0,7,2
 2026-08-07,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,38,1,0,410,83,192,85,NA,NA,16,7,7,8,1,0,13,8
-2026-08-07,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,996,209,661,230,NA,NA,40,11,7,17,1,0,17,3
+2026-08-07,08,Baden-Württemberg,Erwachsene,ERWACHSENE,75,0,0,996,209,661,230,NA,NA,40,11,6,17,1,0,17,2
 2026-08-07,09,Bayern,Erwachsene,ERWACHSENE,133,1,0,1908,338,390,330,NA,NA,65,12,14,41,1,0,20,5
 2026-08-07,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,53,22,32,31,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-08-07,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,477,103,270,101,NA,NA,18,6,2,8,0,0,5,3
@@ -37318,7 +37318,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-08-08,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,165,1,0,2144,520,910,450,NA,NA,79,22,19,41,0,0,26,9
 2026-08-08,06,Hessen,Erwachsene,ERWACHSENE,44,1,0,763,137,220,130,NA,NA,20,4,4,15,0,0,8,2
 2026-08-08,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,37,1,0,358,81,139,84,NA,NA,16,6,7,8,1,0,13,7
-2026-08-08,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,966,250,667,261,NA,NA,41,11,7,17,1,0,16,2
+2026-08-08,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,966,250,667,261,NA,NA,41,11,6,17,1,0,16,1
 2026-08-08,09,Bayern,Erwachsene,ERWACHSENE,132,0,0,1875,347,377,319,NA,NA,65,11,14,41,1,0,19,4
 2026-08-08,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,55,19,32,30,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-08-08,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,467,108,270,108,NA,NA,21,4,2,7,0,0,4,1
@@ -37334,7 +37334,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-08-09,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,163,1,0,2137,503,903,433,NA,NA,77,21,20,41,0,0,26,10
 2026-08-09,06,Hessen,Erwachsene,ERWACHSENE,44,1,0,758,144,219,136,NA,NA,19,5,4,15,0,0,8,3
 2026-08-09,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,37,1,0,346,98,136,92,NA,NA,16,6,6,9,1,0,12,7
-2026-08-09,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,941,264,651,262,NA,NA,39,12,8,16,1,0,18,2
+2026-08-09,08,Baden-Württemberg,Erwachsene,ERWACHSENE,75,0,0,941,264,651,262,NA,NA,39,12,7,16,1,0,18,1
 2026-08-09,09,Bayern,Erwachsene,ERWACHSENE,133,0,0,1833,385,378,377,NA,NA,67,12,13,40,1,0,20,4
 2026-08-09,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,73,19,32,30,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-08-09,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,461,116,270,110,NA,NA,19,5,3,7,0,0,4,3
@@ -37350,7 +37350,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-08-10,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,162,1,0,2141,528,893,471,NA,NA,78,17,22,42,0,0,24,9
 2026-08-10,06,Hessen,Erwachsene,ERWACHSENE,44,1,0,776,135,219,134,NA,NA,21,3,4,15,0,0,7,2
 2026-08-10,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,38,1,0,409,93,192,99,NA,NA,18,6,5,9,1,0,11,7
-2026-08-10,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,948,254,664,264,NA,NA,39,12,7,18,1,0,17,4
+2026-08-10,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,948,254,664,264,NA,NA,39,12,6,18,1,0,17,3
 2026-08-10,09,Bayern,Erwachsene,ERWACHSENE,134,1,0,1864,382,382,368,NA,NA,67,11,13,42,1,0,20,3
 2026-08-10,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,78,14,32,23,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-08-10,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,478,100,270,104,NA,NA,19,4,4,7,0,0,4,3
@@ -37366,7 +37366,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-08-11,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,163,1,0,2165,525,885,476,NA,NA,75,20,24,41,0,0,26,13
 2026-08-11,06,Hessen,Erwachsene,ERWACHSENE,44,1,0,779,134,219,127,NA,NA,21,3,4,15,0,0,7,2
 2026-08-11,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,38,1,0,408,95,192,95,NA,NA,18,6,4,10,1,0,9,7
-2026-08-11,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,983,241,664,240,NA,NA,39,13,7,18,1,0,19,3
+2026-08-11,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,983,241,664,240,NA,NA,39,13,6,18,1,0,19,2
 2026-08-11,09,Bayern,Erwachsene,ERWACHSENE,134,1,1,1902,357,396,343,NA,NA,64,12,13,44,1,0,21,4
 2026-08-11,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,82,10,33,19,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-08-11,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,483,92,271,94,NA,NA,20,4,3,7,0,0,4,2
@@ -37382,7 +37382,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-08-12,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,163,1,0,2167,526,895,464,NA,NA,76,19,24,41,0,0,26,12
 2026-08-12,06,Hessen,Erwachsene,ERWACHSENE,44,1,0,797,122,226,122,NA,NA,22,2,5,14,0,0,7,1
 2026-08-12,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,38,1,0,417,85,193,81,NA,NA,18,6,5,9,1,0,9,7
-2026-08-12,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,983,231,663,232,NA,NA,40,12,7,18,1,0,18,2
+2026-08-12,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,983,231,663,232,NA,NA,40,12,6,18,1,0,18,1
 2026-08-12,09,Bayern,Erwachsene,ERWACHSENE,134,2,0,1912,346,405,358,NA,NA,62,13,13,45,1,0,22,5
 2026-08-12,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,83,10,33,14,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-08-12,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,475,100,266,102,NA,NA,19,4,3,8,0,0,4,2
@@ -37398,7 +37398,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-08-13,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,159,1,0,2089,543,900,458,NA,NA,78,19,21,38,0,0,23,12
 2026-08-13,06,Hessen,Erwachsene,ERWACHSENE,43,1,0,773,129,226,123,NA,NA,22,2,5,13,0,0,7,1
 2026-08-13,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,38,1,0,416,84,193,92,NA,NA,18,6,5,9,1,0,9,7
-2026-08-13,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,968,236,663,236,NA,NA,37,11,10,18,1,0,18,5
+2026-08-13,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,968,236,663,236,NA,NA,37,11,9,18,1,0,18,4
 2026-08-13,09,Bayern,Erwachsene,ERWACHSENE,133,2,0,1907,326,380,334,NA,NA,59,14,13,46,1,0,22,5
 2026-08-13,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,78,16,32,18,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-08-13,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,482,96,266,100,NA,NA,19,4,3,8,0,0,4,2
@@ -37414,7 +37414,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-08-14,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,158,1,0,2088,518,890,452,NA,NA,75,24,18,38,0,0,25,14
 2026-08-14,06,Hessen,Erwachsene,ERWACHSENE,43,1,0,766,135,226,123,NA,NA,22,2,5,13,0,0,7,1
 2026-08-14,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,38,1,0,437,65,193,84,NA,NA,17,7,5,9,1,0,10,8
-2026-08-14,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,950,255,663,247,NA,NA,37,13,8,18,1,0,18,4
+2026-08-14,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,950,255,663,247,NA,NA,37,13,7,18,1,0,18,3
 2026-08-14,09,Bayern,Erwachsene,ERWACHSENE,132,2,0,1879,340,373,333,NA,NA,61,15,10,45,1,0,20,4
 2026-08-14,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,74,16,32,21,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-08-14,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,481,95,276,90,NA,NA,19,4,3,8,0,0,4,2
@@ -37430,7 +37430,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-08-15,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,161,1,0,2117,511,867,448,NA,NA,76,26,17,38,0,0,27,12
 2026-08-15,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,770,134,230,131,NA,NA,21,2,6,14,0,0,8,1
 2026-08-15,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,39,1,0,412,91,192,102,NA,NA,16,7,5,11,1,0,10,8
-2026-08-15,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,944,257,670,252,NA,NA,35,14,9,18,1,0,20,5
+2026-08-15,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,944,257,670,252,NA,NA,35,14,8,18,1,0,20,4
 2026-08-15,09,Bayern,Erwachsene,ERWACHSENE,131,1,0,1838,349,355,341,NA,NA,61,15,10,44,1,0,20,4
 2026-08-15,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,75,15,32,19,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-08-15,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,481,93,276,95,NA,NA,20,4,2,8,0,0,4,2
@@ -37446,7 +37446,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-08-16,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,161,1,0,2109,543,874,468,NA,NA,78,26,15,38,0,0,21,14
 2026-08-16,06,Hessen,Erwachsene,ERWACHSENE,45,0,0,784,137,230,126,NA,NA,21,2,6,15,0,0,8,1
 2026-08-16,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,39,1,0,395,114,192,107,NA,NA,16,7,5,11,1,0,10,8
-2026-08-16,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,924,274,670,261,NA,NA,37,12,9,18,1,0,18,4
+2026-08-16,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,924,274,670,261,NA,NA,37,12,8,18,1,0,18,3
 2026-08-16,09,Bayern,Erwachsene,ERWACHSENE,131,1,1,1803,379,358,361,NA,NA,60,15,10,45,1,0,21,4
 2026-08-16,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,62,11,31,13,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-08-16,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,477,97,276,102,NA,NA,20,4,2,8,0,0,4,2
@@ -37462,7 +37462,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-08-17,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,163,1,0,2195,495,880,445,NA,NA,79,22,21,38,0,0,23,15
 2026-08-17,06,Hessen,Erwachsene,ERWACHSENE,45,0,0,784,135,230,126,NA,NA,20,1,7,16,0,0,8,2
 2026-08-17,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,38,1,0,350,104,137,96,NA,NA,15,6,6,11,1,0,10,8
-2026-08-17,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,924,278,670,266,NA,NA,39,10,9,18,1,0,17,4
+2026-08-17,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,924,278,670,266,NA,NA,39,10,8,18,1,0,17,3
 2026-08-17,09,Bayern,Erwachsene,ERWACHSENE,129,2,0,1786,375,351,361,NA,NA,58,15,10,45,1,0,21,4
 2026-08-17,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,59,14,31,25,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-08-17,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,458,113,276,115,NA,NA,20,4,2,8,0,0,4,2
@@ -37478,7 +37478,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-08-18,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,164,1,0,2167,528,884,494,NA,NA,82,21,20,38,0,0,22,14
 2026-08-18,06,Hessen,Erwachsene,ERWACHSENE,45,0,0,800,123,230,113,NA,NA,20,1,7,16,0,0,8,2
 2026-08-18,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,38,1,0,350,102,137,95,NA,NA,16,5,6,11,1,0,9,7
-2026-08-18,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,951,257,671,265,NA,NA,39,11,9,18,1,0,18,4
+2026-08-18,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,951,257,671,265,NA,NA,39,11,8,18,1,0,18,3
 2026-08-18,09,Bayern,Erwachsene,ERWACHSENE,130,1,0,1808,383,360,364,NA,NA,60,14,9,46,1,0,19,1
 2026-08-18,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,56,21,31,22,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-08-18,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,451,121,281,118,NA,NA,19,6,1,8,0,0,4,3
@@ -37494,7 +37494,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-08-19,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,164,1,0,2200,520,886,482,NA,NA,80,22,21,38,0,0,26,13
 2026-08-19,06,Hessen,Erwachsene,ERWACHSENE,45,0,0,809,118,230,105,NA,NA,21,1,6,16,0,0,7,1
 2026-08-19,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,38,1,0,356,95,136,95,NA,NA,15,6,6,11,1,0,10,9
-2026-08-19,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,921,284,671,279,NA,NA,37,12,10,18,1,0,19,6
+2026-08-19,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,921,284,671,279,NA,NA,37,12,9,18,1,0,19,5
 2026-08-19,09,Bayern,Erwachsene,ERWACHSENE,130,1,0,1817,380,369,362,NA,NA,60,14,10,45,2,0,19,3
 2026-08-19,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,56,22,31,21,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-08-19,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,471,99,287,96,NA,NA,22,4,1,7,0,0,4,1
@@ -37510,7 +37510,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-08-20,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,165,1,0,2193,540,863,507,NA,NA,82,21,20,39,0,0,26,11
 2026-08-20,06,Hessen,Erwachsene,ERWACHSENE,45,0,0,801,117,231,107,NA,NA,20,1,7,16,0,0,8,2
 2026-08-20,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,38,1,0,350,108,136,105,NA,NA,15,6,6,11,1,0,10,8
-2026-08-20,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,904,287,665,275,NA,NA,38,11,10,18,1,0,19,4
+2026-08-20,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,904,287,665,275,NA,NA,38,11,9,18,1,0,19,3
 2026-08-20,09,Bayern,Erwachsene,ERWACHSENE,131,1,0,1838,366,373,353,NA,NA,61,13,10,46,1,0,20,2
 2026-08-20,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,58,21,31,22,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-08-20,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,472,105,287,106,NA,NA,22,4,0,8,0,0,4,0
@@ -37526,7 +37526,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-08-21,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,165,1,0,2184,551,867,506,NA,NA,83,20,20,41,0,0,23,14
 2026-08-21,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,805,104,233,97,NA,NA,21,2,6,14,0,0,8,2
 2026-08-21,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,38,1,0,363,102,137,99,NA,NA,13,6,8,11,1,0,12,9
-2026-08-21,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,963,258,668,264,NA,NA,37,13,10,18,1,0,20,5
+2026-08-21,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,963,258,668,264,NA,NA,37,13,9,18,1,0,20,4
 2026-08-21,09,Bayern,Erwachsene,ERWACHSENE,130,1,0,1839,360,364,362,NA,NA,59,13,11,46,1,0,20,4
 2026-08-21,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,62,17,30,17,NA,NA,4,0,0,3,NA,NA,NA,NA
 2026-08-21,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,462,107,289,102,NA,NA,22,4,0,8,0,0,4,0
@@ -37542,7 +37542,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-08-22,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,164,1,0,2153,525,893,475,NA,NA,81,20,20,40,0,0,25,12
 2026-08-22,06,Hessen,Erwachsene,ERWACHSENE,45,0,0,796,111,235,102,NA,NA,21,2,6,15,0,0,8,2
 2026-08-22,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,38,1,0,363,100,139,101,NA,NA,14,4,8,12,1,0,10,8
-2026-08-22,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,954,269,677,264,NA,NA,38,13,9,18,1,0,19,5
+2026-08-22,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,954,269,677,264,NA,NA,38,13,8,18,1,0,19,4
 2026-08-22,09,Bayern,Erwachsene,ERWACHSENE,130,1,0,1796,392,362,394,NA,NA,60,14,9,46,1,0,20,3
 2026-08-22,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,58,20,30,17,NA,NA,4,0,0,3,NA,NA,NA,NA
 2026-08-22,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,459,111,287,99,NA,NA,21,4,1,8,0,0,4,1
@@ -37558,7 +37558,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-08-23,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,163,1,0,2096,555,894,519,NA,NA,79,20,20,41,0,0,27,12
 2026-08-23,06,Hessen,Erwachsene,ERWACHSENE,45,0,0,791,124,235,113,NA,NA,22,2,5,15,0,0,7,2
 2026-08-23,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,38,1,0,357,105,139,108,NA,NA,13,4,9,12,1,0,11,8
-2026-08-23,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,929,287,675,269,NA,NA,38,14,8,18,1,0,19,5
+2026-08-23,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,929,287,675,269,NA,NA,38,14,7,18,1,0,19,4
 2026-08-23,09,Bayern,Erwachsene,ERWACHSENE,127,1,0,1702,429,349,391,NA,NA,57,12,11,46,1,0,21,3
 2026-08-23,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,59,18,30,20,NA,NA,2,1,0,4,0,0,1,0
 2026-08-23,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,453,118,287,108,NA,NA,22,4,0,8,0,0,4,0
@@ -37574,7 +37574,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-08-24,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,164,1,0,2082,597,892,545,NA,NA,84,20,17,40,0,0,22,12
 2026-08-24,06,Hessen,Erwachsene,ERWACHSENE,43,0,0,756,136,235,120,NA,NA,21,1,7,13,0,0,8,3
 2026-08-24,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,37,1,0,346,102,129,105,NA,NA,13,4,8,12,1,0,10,8
-2026-08-24,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,924,287,675,272,NA,NA,39,12,8,18,1,0,19,2
+2026-08-24,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,924,287,675,272,NA,NA,39,12,7,18,1,0,19,1
 2026-08-24,09,Bayern,Erwachsene,ERWACHSENE,130,1,0,1765,401,372,376,NA,NA,57,12,12,48,1,0,21,4
 2026-08-24,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,58,22,30,22,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-08-24,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,445,115,282,108,NA,NA,22,4,0,7,0,0,4,0
@@ -37590,7 +37590,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-08-25,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,163,1,0,2122,554,890,518,NA,NA,79,23,18,40,0,0,25,13
 2026-08-25,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,771,134,234,126,NA,NA,21,1,7,14,0,0,8,3
 2026-08-25,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,38,1,0,399,106,185,106,NA,NA,15,4,7,12,1,0,9,7
-2026-08-25,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,933,269,682,269,NA,NA,38,12,8,18,1,0,18,3
+2026-08-25,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,933,269,682,269,NA,NA,38,12,7,18,1,0,18,2
 2026-08-25,09,Bayern,Erwachsene,ERWACHSENE,129,1,0,1766,401,379,371,NA,NA,57,12,12,47,1,0,21,4
 2026-08-25,10,Saarland,Erwachsene,ERWACHSENE,6,0,0,54,21,30,25,NA,NA,3,0,0,3,NA,NA,NA,NA
 2026-08-25,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,447,116,280,120,NA,NA,23,3,0,7,0,0,3,0
@@ -37606,7 +37606,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-08-26,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,162,1,0,2091,559,868,507,NA,NA,80,20,19,40,0,0,24,12
 2026-08-26,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,774,129,234,133,NA,NA,22,2,5,14,0,0,7,2
 2026-08-26,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,38,1,0,392,111,183,113,NA,NA,17,4,6,11,1,0,8,7
-2026-08-26,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,954,265,677,265,NA,NA,37,13,8,18,1,0,18,4
+2026-08-26,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,954,265,677,265,NA,NA,37,13,7,18,1,0,18,3
 2026-08-26,09,Bayern,Erwachsene,ERWACHSENE,127,0,0,1778,383,376,360,NA,NA,57,11,14,44,1,0,23,5
 2026-08-26,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,63,28,31,30,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-08-26,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,456,108,280,107,NA,NA,23,3,0,7,0,0,3,0
@@ -37622,7 +37622,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-08-27,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,162,1,0,2094,559,868,508,NA,NA,81,22,15,41,0,0,21,12
 2026-08-27,06,Hessen,Erwachsene,ERWACHSENE,44,1,0,770,131,234,115,NA,NA,22,1,6,14,0,0,6,1
 2026-08-27,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,37,1,0,395,104,183,110,NA,NA,15,5,7,10,1,0,10,8
-2026-08-27,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,953,262,677,256,NA,NA,36,11,10,19,2,0,17,6
+2026-08-27,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,953,262,677,256,NA,NA,36,11,9,19,2,0,17,5
 2026-08-27,09,Bayern,Erwachsene,ERWACHSENE,129,0,0,1800,382,390,353,NA,NA,58,11,15,44,1,0,22,7
 2026-08-27,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,70,20,31,25,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-08-27,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,463,102,282,105,NA,NA,22,4,0,7,0,0,3,1
@@ -37638,7 +37638,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-08-28,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,161,1,0,2108,528,844,474,NA,NA,79,22,18,38,0,0,22,14
 2026-08-28,06,Hessen,Erwachsene,ERWACHSENE,44,1,0,775,133,234,123,NA,NA,22,1,6,14,0,0,6,1
 2026-08-28,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,37,1,1,402,95,183,102,NA,NA,15,6,6,10,1,0,10,7
-2026-08-28,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,957,261,676,257,NA,NA,35,14,8,19,2,0,17,7
+2026-08-28,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,957,261,676,257,NA,NA,35,14,7,19,2,0,17,6
 2026-08-28,09,Bayern,Erwachsene,ERWACHSENE,126,0,0,1780,355,384,341,NA,NA,58,12,14,41,1,0,23,5
 2026-08-28,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,70,19,31,24,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-08-28,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,473,109,290,113,NA,NA,22,3,0,9,0,0,3,0
@@ -37654,7 +37654,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-08-29,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,162,1,0,2100,533,859,487,NA,NA,76,22,17,44,0,0,23,12
 2026-08-29,06,Hessen,Erwachsene,ERWACHSENE,45,0,0,776,141,237,131,NA,NA,22,1,6,15,0,0,7,1
 2026-08-29,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,37,2,0,400,90,184,93,NA,NA,16,6,5,10,1,0,9,7
-2026-08-29,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,943,276,676,261,NA,NA,36,13,8,19,2,0,18,6
+2026-08-29,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,943,276,676,261,NA,NA,36,13,7,19,2,0,18,5
 2026-08-29,09,Bayern,Erwachsene,ERWACHSENE,127,0,0,1770,371,385,337,NA,NA,56,12,14,44,1,0,24,4
 2026-08-29,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,69,20,31,25,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-08-29,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,471,108,286,117,NA,NA,23,3,0,8,0,0,3,0
@@ -37670,7 +37670,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-08-30,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,165,1,0,2128,566,866,512,NA,NA,77,21,17,47,0,0,23,11
 2026-08-30,06,Hessen,Erwachsene,ERWACHSENE,45,0,0,781,125,219,117,NA,NA,21,1,7,15,0,0,8,1
 2026-08-30,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,37,2,0,381,109,184,96,NA,NA,17,6,4,10,1,0,8,7
-2026-08-30,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,923,287,675,257,NA,NA,36,14,8,18,1,0,18,6
+2026-08-30,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,923,287,675,257,NA,NA,36,14,7,18,1,0,18,5
 2026-08-30,09,Bayern,Erwachsene,ERWACHSENE,127,0,0,1725,413,387,361,NA,NA,57,12,13,44,1,0,23,4
 2026-08-30,10,Saarland,Erwachsene,ERWACHSENE,9,0,0,79,23,33,25,NA,NA,3,0,0,6,NA,NA,NA,NA
 2026-08-30,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,465,117,286,116,NA,NA,23,3,0,8,0,0,3,0
@@ -37686,7 +37686,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-08-31,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,164,1,0,2151,549,867,516,NA,NA,81,20,15,45,0,0,22,9
 2026-08-31,06,Hessen,Erwachsene,ERWACHSENE,46,0,0,799,129,218,120,NA,NA,20,1,8,16,0,0,9,2
 2026-08-31,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,37,2,0,371,129,182,108,NA,NA,19,4,4,10,1,0,7,6
-2026-08-31,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,922,278,670,275,NA,NA,37,13,8,17,2,0,18,5
+2026-08-31,08,Baden-Württemberg,Erwachsene,ERWACHSENE,75,0,0,922,278,670,275,NA,NA,37,13,7,17,2,0,18,4
 2026-08-31,09,Bayern,Erwachsene,ERWACHSENE,126,0,0,1702,407,386,389,NA,NA,58,11,14,42,1,0,21,4
 2026-08-31,10,Saarland,Erwachsene,ERWACHSENE,9,0,0,83,19,33,24,NA,NA,3,0,0,6,NA,NA,NA,NA
 2026-08-31,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,457,124,288,119,NA,NA,23,3,0,8,0,0,3,0
@@ -37702,7 +37702,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-09-01,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,165,1,0,2245,491,872,465,NA,NA,80,18,20,44,0,0,24,12
 2026-09-01,06,Hessen,Erwachsene,ERWACHSENE,47,0,0,817,127,218,121,NA,NA,19,1,9,17,1,0,9,2
 2026-09-01,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,37,2,0,393,104,182,93,NA,NA,18,5,4,10,1,0,8,6
-2026-09-01,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,942,269,672,268,NA,NA,37,12,7,19,1,0,17,4
+2026-09-01,08,Baden-Württemberg,Erwachsene,ERWACHSENE,75,0,0,942,269,672,268,NA,NA,37,12,6,19,1,0,17,3
 2026-09-01,09,Bayern,Erwachsene,ERWACHSENE,128,0,0,1793,387,385,381,NA,NA,59,11,13,44,1,0,21,3
 2026-09-01,10,Saarland,Erwachsene,ERWACHSENE,9,0,0,85,17,33,24,NA,NA,3,0,0,6,NA,NA,NA,NA
 2026-09-01,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,488,94,285,99,NA,NA,22,4,0,8,0,0,4,0
@@ -37718,7 +37718,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-09-02,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,164,1,0,2227,501,861,479,NA,NA,80,19,19,43,0,0,23,11
 2026-09-02,06,Hessen,Erwachsene,ERWACHSENE,46,0,0,803,135,211,130,NA,NA,18,1,9,17,1,0,9,2
 2026-09-02,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,36,1,0,386,101,180,92,NA,NA,18,5,4,9,1,0,8,6
-2026-09-02,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,953,258,683,278,NA,NA,38,10,8,19,1,0,16,5
+2026-09-02,08,Baden-Württemberg,Erwachsene,ERWACHSENE,75,0,0,953,258,683,278,NA,NA,38,10,7,19,1,0,16,4
 2026-09-02,09,Bayern,Erwachsene,ERWACHSENE,129,0,0,1777,421,386,382,NA,NA,58,12,14,44,1,0,22,5
 2026-09-02,10,Saarland,Erwachsene,ERWACHSENE,9,0,0,83,20,33,26,NA,NA,2,1,0,6,0,0,1,0
 2026-09-02,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,483,96,285,99,NA,NA,21,4,1,8,0,0,5,0
@@ -37734,7 +37734,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-09-03,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,165,1,0,2220,530,863,504,NA,NA,79,21,17,45,0,0,23,12
 2026-09-03,06,Hessen,Erwachsene,ERWACHSENE,46,0,0,827,115,211,118,NA,NA,18,2,8,17,1,0,9,2
 2026-09-03,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,36,1,0,363,123,180,104,NA,NA,18,5,4,9,2,0,8,6
-2026-09-03,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,962,244,679,269,NA,NA,39,9,8,19,1,0,16,5
+2026-09-03,08,Baden-Württemberg,Erwachsene,ERWACHSENE,75,0,0,962,244,679,269,NA,NA,39,9,7,19,1,0,16,4
 2026-09-03,09,Bayern,Erwachsene,ERWACHSENE,129,0,0,1776,416,374,384,NA,NA,60,10,14,44,1,0,20,4
 2026-09-03,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,74,20,33,26,NA,NA,2,1,0,5,0,0,1,0
 2026-09-03,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,481,99,285,96,NA,NA,21,4,1,8,0,0,5,0
@@ -37750,7 +37750,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-09-04,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,165,1,0,2254,489,875,476,NA,NA,82,18,18,44,0,0,24,11
 2026-09-04,06,Hessen,Erwachsene,ERWACHSENE,46,0,0,824,112,211,115,NA,NA,17,2,8,18,1,0,9,1
 2026-09-04,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,36,2,0,381,105,182,100,NA,NA,18,5,4,9,1,0,9,6
-2026-09-04,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,956,249,679,249,NA,NA,36,10,9,20,1,0,18,5
+2026-09-04,08,Baden-Württemberg,Erwachsene,ERWACHSENE,75,0,0,956,249,679,249,NA,NA,36,10,8,20,1,0,18,4
 2026-09-04,09,Bayern,Erwachsene,ERWACHSENE,129,0,0,1794,389,366,371,NA,NA,60,12,11,45,1,0,18,5
 2026-09-04,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,73,18,33,24,NA,NA,2,0,1,5,0,0,1,0
 2026-09-04,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,486,98,285,98,NA,NA,21,4,1,8,0,0,5,0
@@ -37766,7 +37766,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-09-05,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,165,2,0,2231,482,881,448,NA,NA,82,17,19,44,0,0,24,9
 2026-09-05,06,Hessen,Erwachsene,ERWACHSENE,46,0,0,814,118,213,121,NA,NA,18,3,7,17,1,0,9,1
 2026-09-05,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,36,2,0,364,120,182,108,NA,NA,19,4,4,9,1,0,8,5
-2026-09-05,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,979,248,679,237,NA,NA,37,9,9,22,1,0,17,5
+2026-09-05,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,979,248,679,237,NA,NA,37,9,8,22,1,0,17,4
 2026-09-05,09,Bayern,Erwachsene,ERWACHSENE,129,0,2,1790,384,385,354,NA,NA,57,12,10,49,1,0,19,3
 2026-09-05,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,71,20,33,24,NA,NA,2,0,1,5,0,0,1,0
 2026-09-05,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,464,119,285,114,NA,NA,21,5,0,8,0,0,5,0
@@ -37782,7 +37782,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-09-06,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,162,2,0,2149,517,855,458,NA,NA,79,17,18,45,0,0,25,8
 2026-09-06,06,Hessen,Erwachsene,ERWACHSENE,45,0,0,809,112,208,118,NA,NA,17,3,8,16,1,0,10,1
 2026-09-06,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,36,2,0,366,117,183,106,NA,NA,20,4,4,8,1,0,7,6
-2026-09-06,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,966,249,675,250,NA,NA,38,8,10,20,0,0,17,5
+2026-09-06,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,966,249,675,250,NA,NA,38,8,9,20,0,0,17,4
 2026-09-06,09,Bayern,Erwachsene,ERWACHSENE,129,2,0,1743,437,384,380,NA,NA,60,11,10,47,1,0,18,3
 2026-09-06,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,56,18,31,24,NA,NA,2,0,1,4,0,0,1,0
 2026-09-06,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,467,116,285,107,NA,NA,21,4,1,8,0,0,5,0
@@ -37798,7 +37798,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-09-07,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,164,2,0,2161,541,881,483,NA,NA,83,16,18,44,0,0,23,9
 2026-09-07,06,Hessen,Erwachsene,ERWACHSENE,44,0,1,809,116,205,121,NA,NA,17,5,6,15,1,0,10,2
 2026-09-07,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,36,2,0,367,123,182,112,NA,NA,19,4,4,9,1,0,7,6
-2026-09-07,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,942,278,679,286,NA,NA,38,10,9,19,1,0,16,6
+2026-09-07,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,942,278,679,286,NA,NA,38,10,8,19,1,0,16,5
 2026-09-07,09,Bayern,Erwachsene,ERWACHSENE,131,1,0,1756,466,389,408,NA,NA,58,13,10,49,1,0,20,4
 2026-09-07,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,55,21,31,28,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-09-07,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,468,119,285,113,NA,NA,21,5,0,8,0,0,5,0
@@ -37814,7 +37814,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-09-08,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,165,2,0,2198,511,882,466,NA,NA,80,22,17,43,0,0,26,10
 2026-09-08,06,Hessen,Erwachsene,ERWACHSENE,46,1,0,825,116,213,120,NA,NA,16,7,6,16,1,0,12,3
 2026-09-08,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,36,2,0,391,101,184,100,NA,NA,17,4,6,9,1,0,8,7
-2026-09-08,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,958,262,683,265,NA,NA,39,10,7,20,0,0,14,3
+2026-09-08,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,958,262,683,265,NA,NA,39,10,6,20,0,0,14,2
 2026-09-08,09,Bayern,Erwachsene,ERWACHSENE,131,1,0,1810,417,395,389,NA,NA,60,13,10,47,1,0,20,4
 2026-09-08,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,59,19,31,28,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-09-08,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,472,110,279,101,NA,NA,20,4,1,9,0,0,5,0
@@ -37830,7 +37830,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-09-09,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,165,2,0,2201,520,893,485,NA,NA,81,23,16,42,0,0,26,11
 2026-09-09,06,Hessen,Erwachsene,ERWACHSENE,45,1,0,814,114,202,119,NA,NA,16,6,6,16,1,0,11,3
 2026-09-09,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,37,2,0,401,99,195,101,NA,NA,18,5,5,9,1,0,9,6
-2026-09-09,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,990,233,679,246,NA,NA,34,12,9,21,0,0,16,6
+2026-09-09,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,990,233,679,246,NA,NA,34,12,8,21,0,0,16,5
 2026-09-09,09,Bayern,Erwachsene,ERWACHSENE,132,1,1,1824,420,390,380,NA,NA,61,13,10,47,1,0,20,3
 2026-09-09,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,61,17,31,22,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-09-09,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,479,107,284,111,NA,NA,20,4,1,9,0,0,5,0
@@ -37846,7 +37846,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-09-10,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,165,2,0,2151,552,886,502,NA,NA,86,18,16,42,0,0,24,9
 2026-09-10,06,Hessen,Erwachsene,ERWACHSENE,45,1,0,812,111,203,117,NA,NA,18,5,5,16,1,0,9,1
 2026-09-10,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,37,1,0,398,101,193,100,NA,NA,18,5,5,9,1,0,9,6
-2026-09-10,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,965,258,683,260,NA,NA,37,11,7,21,0,0,15,4
+2026-09-10,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,965,258,683,260,NA,NA,37,11,6,21,0,0,15,3
 2026-09-10,09,Bayern,Erwachsene,ERWACHSENE,131,2,1,1838,393,381,388,NA,NA,59,14,11,46,1,0,22,4
 2026-09-10,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,59,19,31,22,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-09-10,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,471,103,275,100,NA,NA,20,4,1,8,0,0,5,0
@@ -37862,7 +37862,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-09-11,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,163,2,0,2158,542,882,493,NA,NA,88,18,13,41,0,0,23,6
 2026-09-11,06,Hessen,Erwachsene,ERWACHSENE,45,1,0,814,113,203,113,NA,NA,18,5,5,16,1,0,10,1
 2026-09-11,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,37,1,0,391,106,193,97,NA,NA,18,5,5,9,1,0,9,6
-2026-09-11,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,964,257,678,272,NA,NA,36,10,8,22,0,0,15,4
+2026-09-11,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,964,257,678,272,NA,NA,36,10,7,22,0,0,15,3
 2026-09-11,09,Bayern,Erwachsene,ERWACHSENE,129,2,0,1790,407,366,394,NA,NA,59,13,11,45,1,0,21,4
 2026-09-11,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,60,18,31,23,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-09-11,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,465,115,284,110,NA,NA,19,4,2,9,0,0,6,0
@@ -37878,7 +37878,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-09-12,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,163,2,0,2175,535,868,498,NA,NA,79,21,17,43,0,0,24,12
 2026-09-12,06,Hessen,Erwachsene,ERWACHSENE,46,1,0,819,110,209,115,NA,NA,18,5,5,17,1,0,10,1
 2026-09-12,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,36,1,0,376,113,192,96,NA,NA,18,5,4,9,0,0,8,5
-2026-09-12,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,969,258,681,267,NA,NA,39,9,7,22,0,0,15,2
+2026-09-12,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,969,258,681,267,NA,NA,39,9,6,22,0,0,15,1
 2026-09-12,09,Bayern,Erwachsene,ERWACHSENE,129,1,0,1789,404,384,393,NA,NA,60,13,11,44,2,0,21,4
 2026-09-12,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,61,16,31,24,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-09-12,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,464,115,284,106,NA,NA,21,4,1,8,0,0,5,0
@@ -37894,7 +37894,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-09-13,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,163,3,0,2188,523,861,467,NA,NA,77,19,19,44,0,0,26,9
 2026-09-13,06,Hessen,Erwachsene,ERWACHSENE,46,1,0,795,131,230,124,NA,NA,18,5,6,16,1,0,11,2
 2026-09-13,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,36,1,0,372,117,192,101,NA,NA,17,5,5,9,0,0,8,6
-2026-09-13,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,932,291,680,277,NA,NA,39,8,7,23,0,0,14,2
+2026-09-13,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,932,291,680,277,NA,NA,39,8,6,23,0,0,14,1
 2026-09-13,09,Bayern,Erwachsene,ERWACHSENE,129,1,1,1761,426,389,407,NA,NA,61,11,12,44,1,0,20,3
 2026-09-13,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,59,17,31,26,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-09-13,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,457,120,284,118,NA,NA,21,4,1,8,0,0,5,0
@@ -37910,7 +37910,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-09-14,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,162,3,0,2204,521,887,458,NA,NA,76,22,18,43,0,0,26,12
 2026-09-14,06,Hessen,Erwachsene,ERWACHSENE,47,1,0,804,118,245,124,NA,NA,19,2,9,16,1,0,11,2
 2026-09-14,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,37,1,0,373,127,196,109,NA,NA,18,5,5,9,1,0,9,6
-2026-09-14,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,939,286,681,278,NA,NA,37,10,7,23,0,0,14,4
+2026-09-14,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,939,286,681,278,NA,NA,37,10,6,23,0,0,14,3
 2026-09-14,09,Bayern,Erwachsene,ERWACHSENE,129,1,0,1740,458,402,429,NA,NA,62,11,12,43,1,0,20,2
 2026-09-14,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,62,14,31,26,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-09-14,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,471,110,284,110,NA,NA,19,6,1,8,0,0,6,1
@@ -37926,7 +37926,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-09-15,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,163,3,0,2262,480,899,439,NA,NA,81,20,17,42,0,0,26,9
 2026-09-15,06,Hessen,Erwachsene,ERWACHSENE,46,0,1,809,109,239,122,NA,NA,17,4,9,15,1,0,11,3
 2026-09-15,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,37,2,0,394,101,196,93,NA,NA,15,6,6,10,1,0,12,5
-2026-09-15,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,965,266,682,268,NA,NA,36,11,7,23,0,0,15,5
+2026-09-15,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,965,266,682,268,NA,NA,36,11,6,23,0,0,15,4
 2026-09-15,09,Bayern,Erwachsene,ERWACHSENE,128,1,0,1801,400,385,373,NA,NA,57,16,12,42,1,0,23,4
 2026-09-15,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,62,15,31,28,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-09-15,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,491,94,281,97,NA,NA,20,6,0,8,0,0,5,1
@@ -37942,7 +37942,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-09-16,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,162,3,1,2233,494,893,459,NA,NA,80,22,15,42,0,0,26,9
 2026-09-16,06,Hessen,Erwachsene,ERWACHSENE,45,1,0,804,107,237,111,NA,NA,18,3,8,15,1,0,9,3
 2026-09-16,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,37,2,0,390,107,194,100,NA,NA,15,6,7,9,1,0,11,7
-2026-09-16,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,972,266,685,263,NA,NA,38,10,6,24,0,0,13,4
+2026-09-16,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,972,266,685,263,NA,NA,38,10,5,24,0,0,13,3
 2026-09-16,09,Bayern,Erwachsene,ERWACHSENE,128,1,0,1747,410,385,403,NA,NA,57,14,13,43,1,0,22,5
 2026-09-16,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,62,15,31,31,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-09-16,11,Berlin,Erwachsene,ERWACHSENE,34,0,0,502,85,281,96,NA,NA,19,6,1,8,0,0,4,3
@@ -37958,7 +37958,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-09-17,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,160,4,0,2188,480,893,462,NA,NA,78,23,15,41,0,0,25,10
 2026-09-17,06,Hessen,Erwachsene,ERWACHSENE,45,1,0,792,121,237,121,NA,NA,20,2,7,15,0,0,8,3
 2026-09-17,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,36,1,0,389,100,180,89,NA,NA,15,6,5,10,1,0,10,6
-2026-09-17,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,0,0,996,243,687,267,NA,NA,36,10,8,24,0,0,14,6
+2026-09-17,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,0,0,996,243,687,267,NA,NA,36,10,7,24,0,0,14,5
 2026-09-17,09,Bayern,Erwachsene,ERWACHSENE,130,1,0,1813,402,376,379,NA,NA,57,13,15,44,1,0,22,5
 2026-09-17,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,51,25,31,31,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-09-17,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,467,81,274,88,NA,NA,19,5,1,8,0,0,4,2
@@ -37974,7 +37974,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-09-18,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,161,3,0,2090,462,891,442,NA,NA,79,23,13,43,0,0,24,10
 2026-09-18,06,Hessen,Erwachsene,ERWACHSENE,45,0,0,800,102,239,102,NA,NA,19,3,7,15,0,0,9,3
 2026-09-18,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,1,0,397,87,179,90,NA,NA,17,5,4,9,1,0,9,5
-2026-09-18,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,1,943,240,678,254,NA,NA,35,12,4,24,0,0,12,4
+2026-09-18,08,Baden-Württemberg,Erwachsene,ERWACHSENE,75,0,1,943,240,678,254,NA,NA,35,12,3,24,0,0,12,3
 2026-09-18,09,Bayern,Erwachsene,ERWACHSENE,129,1,0,1818,382,374,358,NA,NA,55,12,17,44,1,0,22,6
 2026-09-18,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,60,17,31,25,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-09-18,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,469,80,266,90,NA,NA,18,6,1,8,0,0,4,3
@@ -37990,7 +37990,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-09-19,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,161,3,0,2051,491,886,453,NA,NA,74,23,16,45,0,0,27,11
 2026-09-19,06,Hessen,Erwachsene,ERWACHSENE,44,1,0,796,101,236,112,NA,NA,19,3,7,14,0,0,9,3
 2026-09-19,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,1,0,391,86,180,88,NA,NA,16,5,5,9,1,0,9,5
-2026-09-19,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,0,959,233,678,261,NA,NA,35,12,4,25,0,0,14,4
+2026-09-19,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,959,233,678,261,NA,NA,35,12,3,25,0,0,14,3
 2026-09-19,09,Bayern,Erwachsene,ERWACHSENE,130,1,0,1817,385,385,375,NA,NA,59,10,15,45,1,0,20,4
 2026-09-19,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,58,19,31,25,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-09-19,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,459,87,266,99,NA,NA,18,6,1,8,0,0,4,3
@@ -38006,7 +38006,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-09-20,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,160,3,2,2013,510,896,474,NA,NA,75,24,14,44,0,0,25,10
 2026-09-20,06,Hessen,Erwachsene,ERWACHSENE,44,1,0,794,106,236,114,NA,NA,19,3,7,14,0,0,9,3
 2026-09-20,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,1,0,387,91,180,93,NA,NA,16,6,4,9,1,0,10,5
-2026-09-20,08,Baden-Württemberg,Erwachsene,ERWACHSENE,75,0,0,904,260,666,265,NA,NA,37,7,4,26,0,0,9,3
+2026-09-20,08,Baden-Württemberg,Erwachsene,ERWACHSENE,74,0,0,904,260,666,265,NA,NA,37,7,3,26,0,0,9,2
 2026-09-20,09,Bayern,Erwachsene,ERWACHSENE,130,1,2,1767,427,374,387,NA,NA,61,11,13,44,1,0,20,4
 2026-09-20,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,58,17,31,25,NA,NA,4,0,0,3,NA,NA,NA,NA
 2026-09-20,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,456,87,263,101,NA,NA,17,7,1,8,0,0,5,3
@@ -38022,7 +38022,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-09-21,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,162,3,0,2140,554,886,503,NA,NA,83,19,13,44,0,0,22,7
 2026-09-21,06,Hessen,Erwachsene,ERWACHSENE,43,2,0,776,113,236,122,NA,NA,19,5,6,12,0,0,9,4
 2026-09-21,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,34,1,0,374,99,178,99,NA,NA,16,5,4,9,0,0,9,4
-2026-09-21,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,936,236,676,250,NA,NA,35,9,6,25,0,0,14,4
+2026-09-21,08,Baden-Württemberg,Erwachsene,ERWACHSENE,75,0,0,936,236,676,250,NA,NA,35,9,5,25,0,0,14,3
 2026-09-21,09,Bayern,Erwachsene,ERWACHSENE,131,2,1,1804,400,367,368,NA,NA,63,10,12,45,1,0,19,4
 2026-09-21,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,57,20,33,23,NA,NA,4,0,0,3,NA,NA,NA,NA
 2026-09-21,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,452,95,266,99,NA,NA,19,6,1,7,0,0,4,3
@@ -38038,7 +38038,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-09-22,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,162,4,1,2144,530,878,495,NA,NA,78,23,15,45,0,0,25,10
 2026-09-22,06,Hessen,Erwachsene,ERWACHSENE,44,2,0,801,104,235,117,NA,NA,19,5,6,13,0,0,9,4
 2026-09-22,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,1,0,386,98,180,99,NA,NA,16,5,5,9,1,0,10,5
-2026-09-22,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,0,918,260,676,269,NA,NA,34,13,4,24,0,0,13,5
+2026-09-22,08,Baden-Württemberg,Erwachsene,ERWACHSENE,75,0,0,918,260,676,269,NA,NA,34,13,3,24,0,0,13,4
 2026-09-22,09,Bayern,Erwachsene,ERWACHSENE,131,2,0,1810,409,367,381,NA,NA,61,11,16,42,1,0,23,5
 2026-09-22,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,62,15,31,23,NA,NA,4,0,0,3,NA,NA,NA,NA
 2026-09-22,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,458,90,266,91,NA,NA,20,5,1,7,0,0,3,3
@@ -38054,7 +38054,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-09-23,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,161,5,0,2185,509,883,481,NA,NA,81,22,14,43,0,0,23,9
 2026-09-23,06,Hessen,Erwachsene,ERWACHSENE,45,1,0,791,124,236,129,NA,NA,22,2,6,14,0,0,8,1
 2026-09-23,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,36,1,0,389,97,182,95,NA,NA,16,6,5,9,1,0,11,5
-2026-09-23,08,Baden-Württemberg,Erwachsene,ERWACHSENE,75,0,0,939,230,669,241,NA,NA,32,13,6,23,0,0,15,5
+2026-09-23,08,Baden-Württemberg,Erwachsene,ERWACHSENE,74,0,0,939,230,669,241,NA,NA,32,13,5,23,0,0,15,4
 2026-09-23,09,Bayern,Erwachsene,ERWACHSENE,130,1,0,1818,392,367,376,NA,NA,61,10,16,42,1,0,22,6
 2026-09-23,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,54,23,31,23,NA,NA,4,0,0,3,NA,NA,NA,NA
 2026-09-23,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,451,97,266,88,NA,NA,20,5,1,7,0,0,3,3
@@ -38070,7 +38070,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-09-24,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,161,5,0,2179,540,873,498,NA,NA,81,22,14,43,0,0,23,10
 2026-09-24,06,Hessen,Erwachsene,ERWACHSENE,45,1,0,791,128,236,130,NA,NA,21,2,7,14,0,0,9,2
 2026-09-24,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,36,1,0,383,103,182,104,NA,NA,16,6,5,9,1,0,11,6
-2026-09-24,08,Baden-Württemberg,Erwachsene,ERWACHSENE,75,0,0,946,222,672,236,NA,NA,33,13,6,22,0,0,15,4
+2026-09-24,08,Baden-Württemberg,Erwachsene,ERWACHSENE,74,0,0,946,222,672,236,NA,NA,33,13,5,22,0,0,15,3
 2026-09-24,09,Bayern,Erwachsene,ERWACHSENE,131,1,0,1854,393,367,368,NA,NA,61,9,15,45,1,0,22,4
 2026-09-24,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,58,19,31,23,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-09-24,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,454,97,258,93,NA,NA,20,6,0,7,0,0,3,3
@@ -38086,7 +38086,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-09-25,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,159,5,0,2191,489,873,449,NA,NA,78,23,15,40,0,0,24,11
 2026-09-25,06,Hessen,Erwachsene,ERWACHSENE,45,1,0,802,118,236,116,NA,NA,20,5,5,14,0,0,9,1
 2026-09-25,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,36,1,0,392,97,182,95,NA,NA,17,6,5,8,1,0,11,6
-2026-09-25,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,1,0,951,243,672,255,NA,NA,35,11,6,23,0,0,15,2
+2026-09-25,08,Baden-Württemberg,Erwachsene,ERWACHSENE,75,1,0,951,243,672,255,NA,NA,35,11,5,23,0,0,15,1
 2026-09-25,09,Bayern,Erwachsene,ERWACHSENE,130,0,0,1840,379,367,361,NA,NA,62,9,13,45,1,0,20,4
 2026-09-25,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,61,17,30,23,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-09-25,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,435,115,258,104,NA,NA,19,6,1,7,0,0,4,3
@@ -38102,7 +38102,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-09-26,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,161,5,1,2173,524,862,485,NA,NA,76,23,18,41,0,0,26,14
 2026-09-26,06,Hessen,Erwachsene,ERWACHSENE,45,1,0,787,130,235,126,NA,NA,19,5,6,14,0,0,10,1
 2026-09-26,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,36,1,0,394,93,182,88,NA,NA,16,7,5,8,1,0,12,6
-2026-09-26,08,Baden-Württemberg,Erwachsene,ERWACHSENE,75,1,0,951,231,673,253,NA,NA,34,10,8,22,0,0,16,4
+2026-09-26,08,Baden-Württemberg,Erwachsene,ERWACHSENE,74,1,0,951,231,673,253,NA,NA,34,10,7,22,0,0,16,3
 2026-09-26,09,Bayern,Erwachsene,ERWACHSENE,129,0,0,1837,366,369,359,NA,NA,63,9,13,43,2,1,20,4
 2026-09-26,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,58,17,31,25,NA,NA,2,1,0,4,0,0,1,0
 2026-09-26,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,434,116,256,100,NA,NA,18,7,0,8,0,0,5,2
@@ -38118,7 +38118,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-09-27,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,162,5,1,2193,505,894,471,NA,NA,79,21,17,42,0,0,25,13
 2026-09-27,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,785,133,235,123,NA,NA,19,5,6,13,0,0,10,1
 2026-09-27,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,1,0,376,96,172,85,NA,NA,17,6,4,8,1,0,10,6
-2026-09-27,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,1,1,937,270,676,271,NA,NA,35,10,8,22,0,0,16,3
+2026-09-27,08,Baden-Württemberg,Erwachsene,ERWACHSENE,75,1,1,937,270,676,271,NA,NA,35,10,7,22,0,0,16,2
 2026-09-27,09,Bayern,Erwachsene,ERWACHSENE,128,0,0,1795,383,378,369,NA,NA,65,8,11,43,1,0,17,2
 2026-09-27,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,57,18,31,26,NA,NA,2,1,0,4,0,0,1,0
 2026-09-27,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,440,108,256,92,NA,NA,18,7,0,8,0,0,5,2
@@ -38134,7 +38134,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-09-28,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,164,4,0,2243,493,925,447,NA,NA,78,18,22,43,0,0,27,13
 2026-09-28,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,782,140,232,132,NA,NA,20,4,6,13,0,0,9,1
 2026-09-28,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,1,0,384,91,173,89,NA,NA,15,6,5,9,1,0,9,7
-2026-09-28,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,1,0,956,262,684,268,NA,NA,34,11,8,23,0,0,15,5
+2026-09-28,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,1,0,956,262,684,268,NA,NA,34,11,7,23,0,0,15,4
 2026-09-28,09,Bayern,Erwachsene,ERWACHSENE,128,0,0,1776,412,371,374,NA,NA,64,12,10,41,1,0,18,5
 2026-09-28,10,Saarland,Erwachsene,ERWACHSENE,6,0,0,45,10,14,19,NA,NA,1,1,0,4,0,0,1,0
 2026-09-28,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,447,99,255,98,NA,NA,18,7,0,8,0,0,5,2
@@ -38150,7 +38150,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-09-29,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,164,4,0,2317,429,910,415,NA,NA,79,18,22,42,0,0,27,14
 2026-09-29,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,805,127,232,124,NA,NA,22,2,6,13,0,0,8,1
 2026-09-29,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,1,0,395,79,173,91,NA,NA,14,5,7,9,1,0,10,7
-2026-09-29,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,3,0,977,246,677,244,NA,NA,33,11,9,23,0,0,14,8
+2026-09-29,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,3,0,977,246,677,244,NA,NA,33,11,8,23,0,0,14,7
 2026-09-29,09,Bayern,Erwachsene,ERWACHSENE,129,0,1,1841,372,383,347,NA,NA,65,11,12,40,1,0,19,5
 2026-09-29,10,Saarland,Erwachsene,ERWACHSENE,6,0,0,49,8,16,19,NA,NA,1,1,0,4,0,0,1,0
 2026-09-29,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,461,88,255,85,NA,NA,18,7,0,8,0,0,5,2
@@ -38166,7 +38166,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-09-30,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,164,4,0,2258,472,910,433,NA,NA,79,18,23,41,0,0,25,17
 2026-09-30,06,Hessen,Erwachsene,ERWACHSENE,43,0,0,783,139,232,134,NA,NA,21,2,6,13,0,0,8,1
 2026-09-30,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,1,0,408,66,173,76,NA,NA,15,5,6,9,1,0,9,7
-2026-09-30,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,3,0,970,258,677,268,NA,NA,35,7,11,23,0,0,12,7
+2026-09-30,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,3,0,970,258,677,268,NA,NA,35,7,10,23,0,0,12,6
 2026-09-30,09,Bayern,Erwachsene,ERWACHSENE,132,1,0,1897,350,383,331,NA,NA,65,11,11,44,1,0,18,5
 2026-09-30,10,Saarland,Erwachsene,ERWACHSENE,6,0,0,47,10,16,19,NA,NA,1,0,1,4,0,0,1,0
 2026-09-30,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,469,79,264,83,NA,NA,18,6,1,8,0,0,5,2
@@ -38182,7 +38182,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-10-01,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,165,5,1,2295,456,919,417,NA,NA,79,17,25,41,0,0,28,16
 2026-10-01,06,Hessen,Erwachsene,ERWACHSENE,43,0,0,785,135,232,133,NA,NA,21,2,6,13,0,0,8,1
 2026-10-01,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,1,0,394,79,173,80,NA,NA,16,5,5,9,1,0,9,6
-2026-10-01,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,3,0,1011,233,686,241,NA,NA,37,6,11,24,0,0,13,6
+2026-10-01,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,3,0,1011,233,686,241,NA,NA,37,6,10,24,0,0,13,5
 2026-10-01,09,Bayern,Erwachsene,ERWACHSENE,131,1,1,1907,335,386,330,NA,NA,62,12,12,44,1,0,20,5
 2026-10-01,10,Saarland,Erwachsene,ERWACHSENE,6,0,1,54,4,16,15,NA,NA,1,0,1,4,0,0,1,0
 2026-10-01,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,476,79,266,82,NA,NA,15,7,2,9,0,0,6,3
@@ -38198,7 +38198,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-10-02,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,165,6,0,2264,477,917,430,NA,NA,73,21,25,43,0,0,31,16
 2026-10-02,06,Hessen,Erwachsene,ERWACHSENE,43,0,0,792,129,232,132,NA,NA,22,1,6,13,0,0,7,1
 2026-10-02,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,36,1,0,405,79,184,89,NA,NA,17,6,4,9,1,0,9,6
-2026-10-02,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,2,0,1012,238,689,238,NA,NA,37,8,10,23,0,0,12,7
+2026-10-02,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,2,0,1012,238,689,238,NA,NA,37,8,9,23,0,0,12,6
 2026-10-02,09,Bayern,Erwachsene,ERWACHSENE,131,2,0,1876,349,383,340,NA,NA,59,12,13,46,1,0,21,6
 2026-10-02,10,Saarland,Erwachsene,ERWACHSENE,6,0,0,47,10,16,16,NA,NA,1,1,0,4,0,0,1,0
 2026-10-02,11,Berlin,Erwachsene,ERWACHSENE,32,0,0,464,79,260,75,NA,NA,16,6,1,9,0,0,4,3
@@ -38214,7 +38214,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-10-03,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,164,6,0,2245,479,927,426,NA,NA,74,20,22,45,0,0,28,13
 2026-10-03,06,Hessen,Erwachsene,ERWACHSENE,45,0,0,809,122,237,125,NA,NA,21,1,7,15,0,0,8,1
 2026-10-03,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,37,1,0,410,79,193,89,NA,NA,16,8,5,8,1,0,11,7
-2026-10-03,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,1,0,1029,216,691,239,NA,NA,39,6,9,24,0,0,12,3
+2026-10-03,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,1,0,1029,216,691,239,NA,NA,39,6,8,24,0,0,12,2
 2026-10-03,09,Bayern,Erwachsene,ERWACHSENE,130,2,0,1815,369,381,342,NA,NA,59,13,11,46,1,0,20,6
 2026-10-03,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,63,10,16,16,NA,NA,1,1,0,5,0,0,1,0
 2026-10-03,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,477,79,264,72,NA,NA,16,6,2,9,0,0,5,3
@@ -38230,7 +38230,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-10-04,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,163,5,0,2180,523,888,451,NA,NA,79,19,17,45,0,0,25,8
 2026-10-04,06,Hessen,Erwachsene,ERWACHSENE,45,0,0,779,148,242,145,NA,NA,21,2,6,15,0,0,8,1
 2026-10-04,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,37,1,0,394,95,193,96,NA,NA,16,8,5,8,1,0,11,7
-2026-10-04,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,1,0,991,240,689,247,NA,NA,40,7,8,23,0,0,12,3
+2026-10-04,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,1,0,991,240,689,247,NA,NA,40,7,7,23,0,0,12,2
 2026-10-04,09,Bayern,Erwachsene,ERWACHSENE,130,2,0,1780,399,386,349,NA,NA,59,11,12,47,1,0,19,4
 2026-10-04,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,64,9,16,17,NA,NA,1,1,0,5,0,0,1,0
 2026-10-04,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,466,90,263,85,NA,NA,17,7,0,9,0,0,5,2
@@ -38246,7 +38246,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-10-05,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,162,4,2,2176,516,907,462,NA,NA,74,19,19,47,0,0,25,10
 2026-10-05,06,Hessen,Erwachsene,ERWACHSENE,45,0,0,797,133,243,130,NA,NA,19,4,6,15,0,0,9,2
 2026-10-05,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,37,1,0,407,88,193,94,NA,NA,17,7,4,9,1,0,9,7
-2026-10-05,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,1,0,987,238,687,244,NA,NA,36,9,9,23,0,0,15,4
+2026-10-05,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,1,0,987,238,687,244,NA,NA,36,9,8,23,0,0,15,3
 2026-10-05,09,Bayern,Erwachsene,ERWACHSENE,130,1,0,1791,395,370,347,NA,NA,60,9,14,46,2,0,20,5
 2026-10-05,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,64,9,16,17,NA,NA,1,1,0,5,0,0,1,0
 2026-10-05,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,454,99,259,98,NA,NA,18,6,1,8,0,0,4,3
@@ -38262,7 +38262,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-10-06,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,164,6,1,2234,496,909,469,NA,NA,76,19,19,47,0,0,24,11
 2026-10-06,06,Hessen,Erwachsene,ERWACHSENE,45,0,1,779,150,238,130,NA,NA,20,3,6,15,0,0,9,1
 2026-10-06,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,37,1,0,408,91,193,89,NA,NA,18,6,4,9,1,0,9,6
-2026-10-06,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,1,0,926,267,681,262,NA,NA,35,9,10,22,0,0,14,6
+2026-10-06,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,1,0,926,267,681,262,NA,NA,35,9,9,22,0,0,14,5
 2026-10-06,09,Bayern,Erwachsene,ERWACHSENE,131,0,0,1834,394,392,365,NA,NA,63,8,14,45,2,0,19,5
 2026-10-06,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,80,13,31,22,NA,NA,2,1,0,5,0,0,1,0
 2026-10-06,11,Berlin,Erwachsene,ERWACHSENE,33,0,1,464,87,259,81,NA,NA,18,6,1,8,0,0,5,2
@@ -38278,7 +38278,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-10-07,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,162,7,0,2249,465,897,436,NA,NA,77,20,16,46,0,0,22,12
 2026-10-07,06,Hessen,Erwachsene,ERWACHSENE,46,1,0,800,140,240,138,NA,NA,21,2,6,16,0,0,8,1
 2026-10-07,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,36,1,0,400,89,191,94,NA,NA,17,7,3,9,0,0,9,6
-2026-10-07,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,1,0,993,237,687,239,NA,NA,36,10,9,22,0,0,15,5
+2026-10-07,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,1,0,993,237,687,239,NA,NA,36,10,8,22,0,0,15,4
 2026-10-07,09,Bayern,Erwachsene,ERWACHSENE,130,0,1,1887,339,385,333,NA,NA,63,9,13,44,2,0,19,5
 2026-10-07,10,Saarland,Erwachsene,ERWACHSENE,8,0,NA,74,21,31,25,NA,NA,2,1,0,5,0,0,1,0
 2026-10-07,11,Berlin,Erwachsene,ERWACHSENE,33,1,0,467,85,257,84,NA,NA,17,6,2,8,0,0,5,3
@@ -38294,7 +38294,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-10-08,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,165,7,0,2256,496,902,445,NA,NA,79,20,18,47,0,0,24,12
 2026-10-08,06,Hessen,Erwachsene,ERWACHSENE,46,1,0,802,137,242,137,NA,NA,19,4,6,16,0,0,10,2
 2026-10-08,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,36,1,0,394,94,191,89,NA,NA,18,6,3,9,0,0,8,5
-2026-10-08,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,1,0,992,236,681,242,NA,NA,37,9,9,22,0,0,14,5
+2026-10-08,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,1,0,992,236,681,242,NA,NA,37,9,8,22,0,0,14,4
 2026-10-08,09,Bayern,Erwachsene,ERWACHSENE,130,1,0,1881,344,385,324,NA,NA,66,10,11,42,2,0,19,3
 2026-10-08,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,62,23,29,27,NA,NA,2,1,0,4,0,0,1,0
 2026-10-08,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,466,83,258,78,NA,NA,18,6,1,8,0,0,4,3
@@ -38310,7 +38310,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-10-09,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,163,5,1,2246,470,897,429,NA,NA,79,21,16,44,0,0,26,10
 2026-10-09,06,Hessen,Erwachsene,ERWACHSENE,46,1,0,786,152,244,139,NA,NA,20,2,7,16,0,0,9,2
 2026-10-09,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,36,1,0,397,87,191,90,NA,NA,16,8,3,9,0,0,10,7
-2026-10-09,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,1,0,999,232,679,242,NA,NA,35,10,9,23,0,0,15,5
+2026-10-09,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,1,0,999,232,679,242,NA,NA,35,10,8,23,0,0,15,4
 2026-10-09,09,Bayern,Erwachsene,ERWACHSENE,129,1,0,1850,349,384,333,NA,NA,62,12,10,44,2,0,20,3
 2026-10-09,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,68,27,31,38,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-10-09,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,456,91,249,95,NA,NA,17,8,0,8,0,0,5,3
@@ -38326,7 +38326,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-10-10,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,163,5,1,2257,459,893,418,NA,NA,78,21,19,42,1,0,29,9
 2026-10-10,06,Hessen,Erwachsene,ERWACHSENE,45,0,0,787,148,242,124,NA,NA,18,1,10,15,0,0,10,3
 2026-10-10,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,1,0,382,92,181,92,NA,NA,16,8,2,9,0,0,9,7
-2026-10-10,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,1,0,965,242,673,251,NA,NA,36,9,8,24,0,0,13,4
+2026-10-10,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,1,0,965,242,673,251,NA,NA,36,9,7,24,0,0,13,3
 2026-10-10,09,Bayern,Erwachsene,ERWACHSENE,130,0,0,1801,394,396,376,NA,NA,63,13,10,43,2,0,20,5
 2026-10-10,10,Saarland,Erwachsene,ERWACHSENE,8,0,NA,73,20,31,37,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-10-10,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,457,87,247,81,NA,NA,15,7,2,9,0,0,6,3
@@ -38342,7 +38342,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-10-11,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,163,5,0,2215,502,889,443,NA,NA,75,23,20,42,1,0,31,13
 2026-10-11,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,781,142,239,128,NA,NA,18,3,8,14,0,0,10,3
 2026-10-11,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,1,0,376,98,181,103,NA,NA,16,9,2,8,0,0,10,7
-2026-10-11,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,1,943,249,673,245,NA,NA,37,9,8,22,0,0,13,4
+2026-10-11,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,1,943,249,673,245,NA,NA,37,9,7,22,0,0,13,3
 2026-10-11,09,Bayern,Erwachsene,ERWACHSENE,129,0,0,1745,413,389,394,NA,NA,61,15,9,43,2,0,20,5
 2026-10-11,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,73,20,31,37,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-10-11,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,450,94,247,87,NA,NA,16,7,1,9,0,0,6,2
@@ -38358,7 +38358,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-10-12,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,165,2,1,2235,508,894,473,NA,NA,78,23,20,41,0,0,32,13
 2026-10-12,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,793,128,232,127,NA,NA,18,4,7,14,0,0,10,3
 2026-10-12,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,36,1,0,377,106,183,111,NA,NA,15,9,4,8,1,0,11,8
-2026-10-12,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,1,949,228,679,240,NA,NA,35,10,8,22,0,0,12,7
+2026-10-12,08,Baden-Württemberg,Erwachsene,ERWACHSENE,75,0,1,949,228,679,240,NA,NA,35,10,7,22,0,0,12,6
 2026-10-12,09,Bayern,Erwachsene,ERWACHSENE,131,1,1,1799,419,403,400,NA,NA,60,14,11,45,2,0,21,5
 2026-10-12,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,70,23,31,36,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-10-12,11,Berlin,Erwachsene,ERWACHSENE,33,1,0,456,97,249,77,NA,NA,16,8,0,9,0,0,6,2
@@ -38374,7 +38374,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-10-13,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,164,3,0,2266,453,879,429,NA,NA,78,23,19,41,0,0,30,12
 2026-10-13,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,776,136,230,133,NA,NA,19,4,6,14,0,0,9,3
 2026-10-13,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,36,1,0,387,94,183,104,NA,NA,14,9,4,9,1,0,11,8
-2026-10-13,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,1,0,983,229,677,238,NA,NA,36,9,8,23,0,0,12,5
+2026-10-13,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,1,0,983,229,677,238,NA,NA,36,9,7,23,0,0,12,4
 2026-10-13,09,Bayern,Erwachsene,ERWACHSENE,128,2,0,1790,384,373,396,NA,NA,64,12,8,43,1,0,18,2
 2026-10-13,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,72,21,31,32,NA,NA,2,1,0,5,0,0,1,0
 2026-10-13,11,Berlin,Erwachsene,ERWACHSENE,33,2,0,476,72,246,69,NA,NA,18,6,1,8,0,0,5,2
@@ -38390,7 +38390,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-10-14,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,164,5,1,2276,444,882,437,NA,NA,76,24,19,42,0,0,29,14
 2026-10-14,06,Hessen,Erwachsene,ERWACHSENE,43,0,0,784,118,219,115,NA,NA,18,5,5,14,0,0,9,3
 2026-10-14,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,1,0,321,97,126,101,NA,NA,13,8,5,9,1,0,12,7
-2026-10-14,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,1,0,979,234,674,237,NA,NA,36,7,11,22,0,0,13,6
+2026-10-14,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,1,0,979,234,674,237,NA,NA,36,7,10,22,0,0,13,5
 2026-10-14,09,Bayern,Erwachsene,ERWACHSENE,128,3,2,1806,370,372,371,NA,NA,63,11,9,44,1,0,18,2
 2026-10-14,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,76,17,31,31,NA,NA,2,1,0,5,0,0,1,0
 2026-10-14,11,Berlin,Erwachsene,ERWACHSENE,33,2,0,478,73,251,73,NA,NA,17,7,1,8,0,0,5,3
@@ -38406,7 +38406,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-10-15,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,162,6,2,2274,452,889,455,NA,NA,76,21,18,44,0,0,23,14
 2026-10-15,06,Hessen,Erwachsene,ERWACHSENE,43,1,0,778,126,218,118,NA,NA,18,5,5,14,0,0,9,3
 2026-10-15,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,1,0,330,88,127,94,NA,NA,13,10,4,8,1,0,13,7
-2026-10-15,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,0,1,991,229,670,234,NA,NA,34,10,10,22,0,0,16,6
+2026-10-15,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,0,1,991,229,670,234,NA,NA,34,10,9,22,0,0,16,5
 2026-10-15,09,Bayern,Erwachsene,ERWACHSENE,126,3,0,1772,365,366,342,NA,NA,59,10,11,45,1,0,17,4
 2026-10-15,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,76,18,29,30,NA,NA,2,0,0,6,NA,NA,NA,NA
 2026-10-15,11,Berlin,Erwachsene,ERWACHSENE,33,1,0,473,80,251,76,NA,NA,17,7,1,8,0,0,5,3
@@ -38422,7 +38422,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-10-16,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,160,6,0,2169,398,875,383,NA,NA,74,22,17,44,0,0,22,15
 2026-10-16,06,Hessen,Erwachsene,ERWACHSENE,43,0,0,770,135,219,130,NA,NA,19,4,5,14,0,0,7,3
 2026-10-16,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,1,0,377,91,173,103,NA,NA,17,5,5,8,1,0,10,6
-2026-10-16,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,1,0,973,243,672,259,NA,NA,36,8,11,21,0,0,15,5
+2026-10-16,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,1,0,973,243,672,259,NA,NA,36,8,10,21,0,0,15,4
 2026-10-16,09,Bayern,Erwachsene,ERWACHSENE,128,5,0,1855,324,371,323,NA,NA,61,11,10,45,1,0,17,4
 2026-10-16,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,73,21,29,33,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-10-16,11,Berlin,Erwachsene,ERWACHSENE,33,1,0,490,65,251,74,NA,NA,17,7,0,9,0,0,5,2
@@ -38438,7 +38438,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-10-17,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,160,5,0,2142,421,879,399,NA,NA,77,20,15,45,0,0,23,10
 2026-10-17,06,Hessen,Erwachsene,ERWACHSENE,44,0,2,780,122,219,114,NA,NA,19,4,5,15,0,0,7,3
 2026-10-17,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,1,0,368,102,173,115,NA,NA,16,6,5,8,1,0,11,7
-2026-10-17,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,1,0,975,238,667,241,NA,NA,36,8,11,21,0,0,15,5
+2026-10-17,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,1,0,975,238,667,241,NA,NA,36,8,10,21,0,0,15,4
 2026-10-17,09,Bayern,Erwachsene,ERWACHSENE,129,1,0,1851,349,383,335,NA,NA,60,13,10,45,1,0,18,5
 2026-10-17,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,58,19,29,34,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-10-17,11,Berlin,Erwachsene,ERWACHSENE,33,1,0,474,77,252,79,NA,NA,17,6,0,10,0,0,5,1
@@ -38454,7 +38454,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-10-18,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,157,5,1,2056,459,867,429,NA,NA,76,19,16,43,0,0,22,10
 2026-10-18,06,Hessen,Erwachsene,ERWACHSENE,44,1,0,790,111,219,108,NA,NA,19,4,5,15,0,0,7,3
 2026-10-18,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,1,0,366,101,171,108,NA,NA,15,5,6,9,1,0,11,7
-2026-10-18,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,1,0,983,233,668,229,NA,NA,36,8,11,21,0,0,14,5
+2026-10-18,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,1,0,983,233,668,229,NA,NA,36,8,10,21,0,0,14,4
 2026-10-18,09,Bayern,Erwachsene,ERWACHSENE,130,1,0,1802,396,384,349,NA,NA,61,11,10,47,1,0,17,4
 2026-10-18,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,61,16,29,32,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-10-18,11,Berlin,Erwachsene,ERWACHSENE,33,1,0,461,89,252,89,NA,NA,17,6,0,10,0,0,5,1
@@ -38470,7 +38470,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-10-19,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,155,6,0,2019,450,808,417,NA,NA,78,19,13,44,0,0,21,9
 2026-10-19,06,Hessen,Erwachsene,ERWACHSENE,45,2,0,795,121,231,119,NA,NA,18,5,6,15,0,0,9,5
 2026-10-19,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,34,1,0,374,96,168,111,NA,NA,16,4,6,8,1,0,10,7
-2026-10-19,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,2,1,987,227,671,234,NA,NA,32,12,10,21,0,0,17,6
+2026-10-19,08,Baden-Württemberg,Erwachsene,ERWACHSENE,75,2,1,987,227,671,234,NA,NA,32,12,9,21,0,0,17,5
 2026-10-19,09,Bayern,Erwachsene,ERWACHSENE,130,2,1,1826,380,380,361,NA,NA,62,12,10,45,1,0,17,5
 2026-10-19,10,Saarland,Erwachsene,ERWACHSENE,6,0,0,45,12,14,23,NA,NA,2,0,0,4,NA,NA,NA,NA
 2026-10-19,11,Berlin,Erwachsene,ERWACHSENE,33,0,0,455,100,255,94,NA,NA,16,6,2,9,0,0,5,3
@@ -38486,7 +38486,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-10-20,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,159,6,1,2234,461,842,430,NA,NA,78,19,17,44,0,0,21,13
 2026-10-20,06,Hessen,Erwachsene,ERWACHSENE,45,2,0,793,117,230,108,NA,NA,19,4,6,15,0,0,8,4
 2026-10-20,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,1,0,391,85,168,101,NA,NA,17,4,5,9,1,0,9,6
-2026-10-20,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,3,0,1047,169,674,182,NA,NA,34,5,15,21,0,0,14,6
+2026-10-20,08,Baden-Württemberg,Erwachsene,ERWACHSENE,75,3,0,1047,169,674,182,NA,NA,34,5,14,21,0,0,14,5
 2026-10-20,09,Bayern,Erwachsene,ERWACHSENE,130,3,1,1851,378,370,347,NA,NA,64,12,11,42,1,1,18,5
 2026-10-20,10,Saarland,Erwachsene,ERWACHSENE,6,0,0,51,8,14,21,NA,NA,2,0,0,4,NA,NA,NA,NA
 2026-10-20,11,Berlin,Erwachsene,ERWACHSENE,33,0,1,455,98,258,93,NA,NA,17,6,1,9,0,0,5,2
@@ -38502,7 +38502,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-10-21,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,159,8,0,2289,420,844,390,NA,NA,73,22,18,43,0,0,23,16
 2026-10-21,06,Hessen,Erwachsene,ERWACHSENE,45,2,0,800,106,229,107,NA,NA,20,4,5,15,0,0,8,3
 2026-10-21,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,1,0,388,88,168,103,NA,NA,17,5,4,9,1,0,9,7
-2026-10-21,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,4,0,1013,203,668,216,NA,NA,32,8,14,21,0,0,16,7
+2026-10-21,08,Baden-Württemberg,Erwachsene,ERWACHSENE,75,4,0,1013,203,668,216,NA,NA,32,8,13,21,0,0,16,6
 2026-10-21,09,Bayern,Erwachsene,ERWACHSENE,130,4,1,1868,369,377,343,NA,NA,65,10,12,42,1,0,17,5
 2026-10-21,10,Saarland,Erwachsene,ERWACHSENE,6,0,0,45,14,14,21,NA,NA,2,0,0,4,NA,NA,NA,NA
 2026-10-21,11,Berlin,Erwachsene,ERWACHSENE,33,2,0,469,85,259,87,NA,NA,16,7,1,9,0,0,5,3
@@ -38518,7 +38518,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-10-22,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,160,10,1,2271,450,883,413,NA,NA,76,17,20,44,1,0,23,13
 2026-10-22,06,Hessen,Erwachsene,ERWACHSENE,45,3,0,811,98,229,104,NA,NA,20,4,5,15,0,0,8,3
 2026-10-22,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,1,0,397,69,170,87,NA,NA,15,6,5,9,1,0,10,9
-2026-10-22,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,4,0,1017,202,669,220,NA,NA,32,11,11,21,0,0,15,8
+2026-10-22,08,Baden-Württemberg,Erwachsene,ERWACHSENE,75,4,0,1017,202,669,220,NA,NA,32,11,10,21,0,0,15,7
 2026-10-22,09,Bayern,Erwachsene,ERWACHSENE,131,4,1,1894,354,371,331,NA,NA,65,11,11,43,1,0,17,5
 2026-10-22,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,67,12,29,17,NA,NA,2,0,1,4,0,0,1,0
 2026-10-22,11,Berlin,Erwachsene,ERWACHSENE,32,2,0,439,101,253,93,NA,NA,17,6,2,7,0,0,5,3
@@ -38534,7 +38534,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-10-23,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,159,9,0,2293,411,887,385,NA,NA,72,22,20,42,0,0,25,15
 2026-10-23,06,Hessen,Erwachsene,ERWACHSENE,45,2,0,811,103,229,115,NA,NA,20,4,5,15,0,0,7,2
 2026-10-23,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,1,0,344,71,124,98,NA,NA,13,8,5,9,1,0,12,9
-2026-10-23,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,2,1,1014,199,666,219,NA,NA,33,10,11,21,0,0,15,7
+2026-10-23,08,Baden-Württemberg,Erwachsene,ERWACHSENE,75,2,1,1014,199,666,219,NA,NA,33,10,10,21,0,0,15,6
 2026-10-23,09,Bayern,Erwachsene,ERWACHSENE,131,6,1,1888,354,374,337,NA,NA,67,10,9,44,1,0,16,3
 2026-10-23,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,63,15,29,20,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-10-23,11,Berlin,Erwachsene,ERWACHSENE,32,2,0,430,101,250,93,NA,NA,17,6,2,7,0,0,5,3
@@ -38550,7 +38550,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-10-24,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,161,7,0,2279,406,893,366,NA,NA,72,24,18,44,0,0,25,13
 2026-10-24,06,Hessen,Erwachsene,ERWACHSENE,45,2,0,800,108,232,108,NA,NA,18,2,8,15,0,0,9,4
 2026-10-24,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,2,0,338,78,126,103,NA,NA,11,8,8,8,1,0,13,9
-2026-10-24,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,4,1,1009,233,675,237,NA,NA,34,10,12,22,0,0,16,8
+2026-10-24,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,4,1,1009,233,675,237,NA,NA,34,10,11,22,0,0,16,7
 2026-10-24,09,Bayern,Erwachsene,ERWACHSENE,130,5,0,1821,379,355,344,NA,NA,62,10,11,46,2,1,18,4
 2026-10-24,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,85,10,29,16,NA,NA,2,1,0,5,0,0,1,0
 2026-10-24,11,Berlin,Erwachsene,ERWACHSENE,32,3,0,437,93,250,75,NA,NA,16,6,2,8,0,0,5,3
@@ -38566,7 +38566,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-10-25,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,161,7,0,2274,410,888,379,NA,NA,71,23,20,44,0,0,27,12
 2026-10-25,06,Hessen,Erwachsene,ERWACHSENE,45,2,0,798,115,231,109,NA,NA,17,2,9,15,0,0,10,4
 2026-10-25,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,2,0,333,83,126,99,NA,NA,12,8,7,8,1,0,13,8
-2026-10-25,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,5,0,1011,233,679,243,NA,NA,35,9,11,23,0,0,15,7
+2026-10-25,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,5,0,1011,233,679,243,NA,NA,35,9,10,23,0,0,15,6
 2026-10-25,09,Bayern,Erwachsene,ERWACHSENE,130,4,1,1826,399,350,357,NA,NA,62,9,12,46,2,1,18,3
 2026-10-25,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,85,10,29,16,NA,NA,2,1,0,5,0,0,1,0
 2026-10-25,11,Berlin,Erwachsene,ERWACHSENE,32,2,0,435,100,249,81,NA,NA,17,5,2,8,0,0,4,3
@@ -38582,7 +38582,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-10-26,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,163,6,0,2378,468,891,427,NA,NA,73,21,21,45,0,0,26,13
 2026-10-26,06,Hessen,Erwachsene,ERWACHSENE,45,0,0,799,107,229,104,NA,NA,17,3,8,16,0,0,10,4
 2026-10-26,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,2,0,356,64,126,87,NA,NA,12,8,7,8,1,0,13,8
-2026-10-26,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,6,0,998,243,679,247,NA,NA,34,11,10,23,0,0,17,6
+2026-10-26,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,6,0,998,243,679,247,NA,NA,34,11,9,23,0,0,17,5
 2026-10-26,09,Bayern,Erwachsene,ERWACHSENE,129,4,1,1815,403,355,374,NA,NA,59,9,14,46,1,0,18,4
 2026-10-26,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,80,15,29,21,NA,NA,2,1,0,5,0,0,1,0
 2026-10-26,11,Berlin,Erwachsene,ERWACHSENE,32,3,0,432,106,249,90,NA,NA,17,5,1,9,0,0,4,2
@@ -38598,7 +38598,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-10-27,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,164,5,0,2222,460,864,442,NA,NA,74,24,20,43,0,0,29,13
 2026-10-27,06,Hessen,Erwachsene,ERWACHSENE,45,0,1,786,124,229,115,NA,NA,20,2,6,15,0,0,7,2
 2026-10-27,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,2,0,338,79,124,95,NA,NA,13,8,5,9,1,0,12,7
-2026-10-27,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,6,0,1029,208,682,237,NA,NA,35,9,11,23,0,0,16,5
+2026-10-27,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,6,0,1029,208,682,237,NA,NA,35,9,10,23,0,0,16,4
 2026-10-27,09,Bayern,Erwachsene,ERWACHSENE,129,7,0,1914,319,358,314,NA,NA,57,9,16,46,1,0,19,5
 2026-10-27,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,79,16,29,21,NA,NA,2,1,0,5,0,0,1,0
 2026-10-27,11,Berlin,Erwachsene,ERWACHSENE,32,3,0,443,97,249,85,NA,NA,17,5,1,9,0,0,4,2
@@ -38614,7 +38614,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-10-28,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,162,5,0,2212,435,848,425,NA,NA,74,24,19,41,0,0,27,14
 2026-10-28,06,Hessen,Erwachsene,ERWACHSENE,45,2,0,809,100,229,105,NA,NA,17,4,7,15,0,0,10,4
 2026-10-28,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,2,0,351,72,135,86,NA,NA,12,9,5,9,1,0,13,8
-2026-10-28,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,4,2,1034,205,682,230,NA,NA,33,11,11,23,1,0,17,5
+2026-10-28,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,4,2,1034,205,682,230,NA,NA,33,11,10,23,1,0,17,4
 2026-10-28,09,Bayern,Erwachsene,ERWACHSENE,130,5,0,1913,341,366,344,NA,NA,56,12,14,47,1,0,20,5
 2026-10-28,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,85,12,29,21,NA,NA,2,0,1,5,0,0,1,0
 2026-10-28,11,Berlin,Erwachsene,ERWACHSENE,32,3,0,459,79,249,69,NA,NA,17,5,1,9,0,0,4,2
@@ -38630,7 +38630,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-10-29,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,160,3,1,2186,433,843,417,NA,NA,76,21,17,43,0,0,23,13
 2026-10-29,06,Hessen,Erwachsene,ERWACHSENE,45,1,0,793,119,228,112,NA,NA,19,3,6,15,0,0,8,2
 2026-10-29,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,2,0,365,55,135,86,NA,NA,12,8,6,9,1,0,13,8
-2026-10-29,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,5,0,1030,209,682,213,NA,NA,33,10,11,24,1,0,15,6
+2026-10-29,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,5,0,1030,209,682,213,NA,NA,33,10,10,24,1,0,15,5
 2026-10-29,09,Bayern,Erwachsene,ERWACHSENE,130,5,1,1891,355,375,331,NA,NA,59,13,12,45,1,0,20,4
 2026-10-29,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,86,12,29,21,NA,NA,2,1,0,5,0,0,1,0
 2026-10-29,11,Berlin,Erwachsene,ERWACHSENE,32,3,0,453,87,245,83,NA,NA,17,5,1,9,0,0,4,2
@@ -38646,7 +38646,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-10-30,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,159,4,0,2183,427,816,408,NA,NA,73,20,20,43,0,0,24,15
 2026-10-30,06,Hessen,Erwachsene,ERWACHSENE,45,1,0,802,101,228,102,NA,NA,18,3,6,16,0,0,8,2
 2026-10-30,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,1,0,346,72,127,99,NA,NA,13,8,4,10,1,0,12,7
-2026-10-30,08,Baden-Württemberg,Erwachsene,ERWACHSENE,79,4,0,1037,206,682,216,NA,NA,31,12,11,24,1,0,17,7
+2026-10-30,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,4,0,1037,206,682,216,NA,NA,31,12,10,24,1,0,17,6
 2026-10-30,09,Bayern,Erwachsene,ERWACHSENE,130,5,2,1911,342,377,339,NA,NA,58,11,15,45,1,0,20,5
 2026-10-30,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,81,14,29,22,NA,NA,2,1,0,5,0,0,1,0
 2026-10-30,11,Berlin,Erwachsene,ERWACHSENE,32,1,0,439,96,246,89,NA,NA,17,4,2,9,0,0,3,3
@@ -38662,7 +38662,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-10-31,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,157,4,0,2140,441,810,440,NA,NA,72,19,19,44,0,0,23,12
 2026-10-31,06,Hessen,Erwachsene,ERWACHSENE,46,0,0,807,101,233,100,NA,NA,17,3,7,17,0,0,9,2
 2026-10-31,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,36,1,0,348,79,136,97,NA,NA,14,7,6,9,1,0,13,7
-2026-10-31,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,4,1,1024,202,675,209,NA,NA,32,7,13,25,0,0,16,6
+2026-10-31,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,4,1,1024,202,675,209,NA,NA,32,7,12,25,0,0,16,5
 2026-10-31,09,Bayern,Erwachsene,ERWACHSENE,132,7,1,1900,357,388,360,NA,NA,60,14,10,47,1,0,20,4
 2026-10-31,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,64,14,29,21,NA,NA,2,1,0,4,0,0,1,0
 2026-10-31,11,Berlin,Erwachsene,ERWACHSENE,32,2,0,428,109,247,91,NA,NA,17,4,2,9,0,0,3,3
@@ -38678,7 +38678,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-11-01,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,158,5,0,2151,426,822,423,NA,NA,72,20,21,42,0,0,26,11
 2026-11-01,06,Hessen,Erwachsene,ERWACHSENE,46,0,0,797,109,233,103,NA,NA,19,2,6,17,0,0,7,2
 2026-11-01,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,36,2,0,335,93,146,110,NA,NA,14,6,7,9,1,0,13,7
-2026-11-01,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,4,0,988,239,671,228,NA,NA,34,8,11,24,0,0,16,5
+2026-11-01,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,4,0,988,239,671,228,NA,NA,34,8,10,24,0,0,16,4
 2026-11-01,09,Bayern,Erwachsene,ERWACHSENE,129,7,3,1842,371,390,366,NA,NA,58,14,10,46,1,0,20,4
 2026-11-01,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,65,13,28,19,NA,NA,3,1,0,3,0,0,1,0
 2026-11-01,11,Berlin,Erwachsene,ERWACHSENE,32,2,0,421,116,247,100,NA,NA,18,4,2,8,0,0,3,3
@@ -38694,7 +38694,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-11-02,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,159,5,0,2120,452,812,426,NA,NA,72,19,22,43,1,0,25,15
 2026-11-02,06,Hessen,Erwachsene,ERWACHSENE,45,0,0,786,110,220,96,NA,NA,17,3,6,17,0,0,8,2
 2026-11-02,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,2,0,341,85,126,105,NA,NA,13,5,8,9,1,0,13,7
-2026-11-02,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,4,0,982,241,674,246,NA,NA,32,13,8,24,0,0,15,7
+2026-11-02,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,4,0,982,241,674,246,NA,NA,32,13,7,24,0,0,15,6
 2026-11-02,09,Bayern,Erwachsene,ERWACHSENE,129,6,1,1833,379,387,362,NA,NA,56,12,13,47,1,0,20,4
 2026-11-02,10,Saarland,Erwachsene,ERWACHSENE,6,0,0,50,7,14,16,NA,NA,2,1,0,3,0,0,1,0
 2026-11-02,11,Berlin,Erwachsene,ERWACHSENE,32,2,0,427,115,252,112,NA,NA,19,4,1,8,0,0,3,2
@@ -38710,7 +38710,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-11-03,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,160,3,2,2101,476,827,439,NA,NA,75,21,17,44,1,0,24,11
 2026-11-03,06,Hessen,Erwachsene,ERWACHSENE,45,0,1,782,115,220,96,NA,NA,16,3,7,17,0,0,9,3
 2026-11-03,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,2,1,344,82,125,110,NA,NA,12,7,6,10,1,0,13,7
-2026-11-03,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,4,1,1014,214,672,217,NA,NA,36,10,9,22,0,0,15,5
+2026-11-03,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,4,1,1014,214,672,217,NA,NA,36,10,8,22,0,0,15,4
 2026-11-03,09,Bayern,Erwachsene,ERWACHSENE,130,7,1,1854,384,388,355,NA,NA,56,9,15,49,1,0,19,4
 2026-11-03,10,Saarland,Erwachsene,ERWACHSENE,6,0,0,45,13,14,16,NA,NA,1,1,0,4,0,0,1,0
 2026-11-03,11,Berlin,Erwachsene,ERWACHSENE,32,3,1,438,101,252,99,NA,NA,20,4,1,7,0,0,3,2
@@ -38726,7 +38726,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-11-04,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,159,6,1,2095,460,822,422,NA,NA,70,20,22,44,1,0,24,15
 2026-11-04,06,Hessen,Erwachsene,ERWACHSENE,45,1,1,781,114,220,90,NA,NA,16,3,7,17,0,0,9,3
 2026-11-04,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,3,0,336,88,125,111,NA,NA,12,6,7,10,1,0,13,7
-2026-11-04,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,7,0,997,231,671,242,NA,NA,38,10,7,22,0,0,14,4
+2026-11-04,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,7,0,997,231,671,242,NA,NA,38,10,6,22,0,0,14,3
 2026-11-04,09,Bayern,Erwachsene,ERWACHSENE,131,7,0,1865,382,394,362,NA,NA,56,9,15,50,1,0,18,5
 2026-11-04,10,Saarland,Erwachsene,ERWACHSENE,6,0,0,50,8,14,14,NA,NA,1,1,0,4,0,0,1,0
 2026-11-04,11,Berlin,Erwachsene,ERWACHSENE,33,3,0,451,104,262,106,NA,NA,19,4,1,9,0,0,3,2
@@ -38742,7 +38742,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-11-05,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,160,6,2,2184,384,827,396,NA,NA,64,25,25,45,1,0,27,19
 2026-11-05,06,Hessen,Erwachsene,ERWACHSENE,45,1,1,784,112,220,90,NA,NA,16,3,7,17,0,0,9,3
 2026-11-05,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,2,1,340,87,125,112,NA,NA,12,6,7,10,1,0,13,7
-2026-11-05,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,6,1,1008,215,670,239,NA,NA,39,9,7,22,0,0,14,4
+2026-11-05,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,6,1,1008,215,670,239,NA,NA,39,9,6,22,0,0,14,3
 2026-11-05,09,Bayern,Erwachsene,ERWACHSENE,131,6,0,1878,356,386,345,NA,NA,55,12,13,50,1,0,19,5
 2026-11-05,10,Saarland,Erwachsene,ERWACHSENE,6,0,0,51,8,14,14,NA,NA,1,1,0,4,0,0,1,0
 2026-11-05,11,Berlin,Erwachsene,ERWACHSENE,33,3,0,455,97,261,102,NA,NA,20,4,1,8,0,0,3,2
@@ -38758,7 +38758,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-11-06,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,160,8,0,2115,443,836,427,NA,NA,70,22,22,43,1,0,26,14
 2026-11-06,06,Hessen,Erwachsene,ERWACHSENE,45,1,0,806,99,221,92,NA,NA,16,5,5,17,0,0,9,3
 2026-11-06,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,3,0,341,78,127,100,NA,NA,11,7,6,11,1,0,12,7
-2026-11-06,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,4,0,1012,211,671,228,NA,NA,36,9,10,22,0,0,16,5
+2026-11-06,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,4,0,1012,211,671,228,NA,NA,36,9,9,22,0,0,16,4
 2026-11-06,09,Bayern,Erwachsene,ERWACHSENE,128,6,0,1834,342,372,331,NA,NA,56,10,12,49,1,0,16,5
 2026-11-06,10,Saarland,Erwachsene,ERWACHSENE,6,0,0,52,7,14,16,NA,NA,1,1,0,4,0,0,1,0
 2026-11-06,11,Berlin,Erwachsene,ERWACHSENE,33,3,0,459,88,261,90,NA,NA,19,4,1,9,0,0,3,2
@@ -38774,7 +38774,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-11-07,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,163,9,0,2205,445,865,403,NA,NA,75,20,23,42,1,0,24,14
 2026-11-07,06,Hessen,Erwachsene,ERWACHSENE,44,0,0,786,110,227,105,NA,NA,17,4,7,14,0,0,10,3
 2026-11-07,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,34,2,0,327,88,115,111,NA,NA,13,6,5,10,1,0,11,7
-2026-11-07,08,Baden-Württemberg,Erwachsene,ERWACHSENE,78,3,0,973,251,672,257,NA,NA,38,10,6,23,0,0,13,4
+2026-11-07,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,3,0,973,251,672,257,NA,NA,38,10,5,23,0,0,13,3
 2026-11-07,09,Bayern,Erwachsene,ERWACHSENE,126,6,1,1804,353,364,333,NA,NA,56,12,10,47,1,0,16,5
 2026-11-07,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,64,14,29,22,NA,NA,2,1,0,4,0,0,1,0
 2026-11-07,11,Berlin,Erwachsene,ERWACHSENE,33,2,0,455,95,260,97,NA,NA,19,4,1,9,0,0,3,2
@@ -38790,7 +38790,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-11-08,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,165,9,1,2219,468,878,425,NA,NA,82,20,20,40,1,0,23,13
 2026-11-08,06,Hessen,Erwachsene,ERWACHSENE,43,0,0,770,116,224,99,NA,NA,18,5,5,13,0,0,9,3
 2026-11-08,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,34,1,1,329,83,120,107,NA,NA,10,7,6,11,1,0,12,7
-2026-11-08,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,3,0,958,228,667,233,NA,NA,36,9,7,23,0,0,13,4
+2026-11-08,08,Baden-Württemberg,Erwachsene,ERWACHSENE,75,3,0,958,228,667,233,NA,NA,36,9,6,23,0,0,13,3
 2026-11-08,09,Bayern,Erwachsene,ERWACHSENE,126,6,1,1754,401,355,353,NA,NA,58,12,10,45,1,0,16,5
 2026-11-08,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,79,15,29,24,NA,NA,2,1,0,5,0,0,1,0
 2026-11-08,11,Berlin,Erwachsene,ERWACHSENE,33,2,1,447,101,253,105,NA,NA,20,4,0,9,0,0,3,1
@@ -38806,7 +38806,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-11-09,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,165,9,3,2295,436,890,423,NA,NA,81,22,19,40,1,0,23,14
 2026-11-09,06,Hessen,Erwachsene,ERWACHSENE,43,0,2,769,118,226,107,NA,NA,18,4,6,13,0,0,9,3
 2026-11-09,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,2,1,390,88,175,97,NA,NA,11,9,4,11,1,0,12,7
-2026-11-09,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,2,0,968,217,665,240,NA,NA,34,10,10,21,0,0,15,6
+2026-11-09,08,Baden-Württemberg,Erwachsene,ERWACHSENE,75,2,0,968,217,665,240,NA,NA,34,10,9,21,0,0,15,5
 2026-11-09,09,Bayern,Erwachsene,ERWACHSENE,128,7,0,1795,392,368,379,NA,NA,61,9,12,45,1,0,18,3
 2026-11-09,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,82,16,29,27,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-11-09,11,Berlin,Erwachsene,ERWACHSENE,33,2,0,449,102,257,104,NA,NA,20,4,0,9,0,0,3,1
@@ -38822,7 +38822,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-11-10,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,164,10,1,2302,421,877,407,NA,NA,77,22,20,42,1,0,22,17
 2026-11-10,06,Hessen,Erwachsene,ERWACHSENE,43,1,0,764,125,226,111,NA,NA,17,5,6,13,0,0,10,3
 2026-11-10,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,2,2,382,87,176,96,NA,NA,12,8,4,11,1,0,12,6
-2026-11-10,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,2,0,963,227,669,241,NA,NA,35,9,10,21,0,0,14,6
+2026-11-10,08,Baden-Württemberg,Erwachsene,ERWACHSENE,75,2,0,963,227,669,241,NA,NA,35,9,9,21,0,0,14,5
 2026-11-10,09,Bayern,Erwachsene,ERWACHSENE,128,4,0,1906,306,365,305,NA,NA,58,10,14,45,1,0,21,3
 2026-11-10,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,77,13,29,19,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-11-10,11,Berlin,Erwachsene,ERWACHSENE,33,1,1,444,106,255,105,NA,NA,20,4,0,9,0,0,3,1
@@ -38838,7 +38838,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-11-11,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,164,9,1,2321,406,869,405,NA,NA,79,21,19,42,1,0,21,15
 2026-11-11,06,Hessen,Erwachsene,ERWACHSENE,42,1,0,770,107,225,90,NA,NA,18,4,6,12,0,0,10,2
 2026-11-11,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,4,1,415,55,173,80,NA,NA,11,8,5,11,1,0,12,7
-2026-11-11,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,3,0,970,219,670,224,NA,NA,34,8,12,21,0,0,17,5
+2026-11-11,08,Baden-Württemberg,Erwachsene,ERWACHSENE,75,3,0,970,219,670,224,NA,NA,34,8,11,21,0,0,17,4
 2026-11-11,09,Bayern,Erwachsene,ERWACHSENE,129,5,1,1929,304,376,285,NA,NA,60,10,13,45,1,0,20,3
 2026-11-11,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,71,17,29,20,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-11-11,11,Berlin,Erwachsene,ERWACHSENE,33,1,0,452,95,252,95,NA,NA,19,4,1,9,0,0,3,2
@@ -38854,7 +38854,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-11-12,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,162,9,2,2279,426,849,401,NA,NA,74,23,19,43,1,0,21,18
 2026-11-12,06,Hessen,Erwachsene,ERWACHSENE,42,1,0,782,93,227,84,NA,NA,18,4,6,12,0,0,10,2
 2026-11-12,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,5,0,406,67,173,88,NA,NA,10,7,7,11,0,0,12,7
-2026-11-12,08,Baden-Württemberg,Erwachsene,ERWACHSENE,76,1,0,972,218,671,224,NA,NA,33,8,12,22,0,0,15,6
+2026-11-12,08,Baden-Württemberg,Erwachsene,ERWACHSENE,75,1,0,972,218,671,224,NA,NA,33,8,11,22,0,0,15,5
 2026-11-12,09,Bayern,Erwachsene,ERWACHSENE,128,6,7,1898,328,367,307,NA,NA,61,9,14,43,1,0,19,4
 2026-11-12,10,Saarland,Erwachsene,ERWACHSENE,7,0,0,74,14,29,24,NA,NA,3,0,0,4,NA,NA,NA,NA
 2026-11-12,11,Berlin,Erwachsene,ERWACHSENE,33,1,2,453,100,255,95,NA,NA,20,4,1,8,0,0,3,2
@@ -38870,7 +38870,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-11-13,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,160,8,0,2213,426,854,409,NA,NA,77,17,18,45,1,0,20,14
 2026-11-13,06,Hessen,Erwachsene,ERWACHSENE,42,2,0,781,94,226,86,NA,NA,18,5,5,12,0,0,10,2
 2026-11-13,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,4,0,413,63,173,88,NA,NA,10,7,7,11,0,0,12,7
-2026-11-13,08,Baden-Württemberg,Erwachsene,ERWACHSENE,75,1,1,952,224,662,235,NA,NA,34,7,11,22,0,0,13,6
+2026-11-13,08,Baden-Württemberg,Erwachsene,ERWACHSENE,74,1,1,952,224,662,235,NA,NA,34,7,10,22,0,0,13,5
 2026-11-13,09,Bayern,Erwachsene,ERWACHSENE,128,10,0,1904,309,366,290,NA,NA,60,12,12,43,1,0,21,3
 2026-11-13,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,81,14,29,22,NA,NA,3,0,0,5,NA,NA,NA,NA
 2026-11-13,11,Berlin,Erwachsene,ERWACHSENE,33,3,0,454,93,244,89,NA,NA,18,5,1,9,0,0,4,2
@@ -38935,7 +38935,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-11-17,06,Hessen,Erwachsene,ERWACHSENE,44,3,0,779,104,230,103,NA,NA,16,4,7,15,0,0,10,3
 2026-11-17,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,3,0,422,50,170,72,NA,NA,10,8,6,11,0,0,12,7
 2026-11-17,08,Baden-Württemberg,Erwachsene,ERWACHSENE,75,2,0,974,213,660,229,NA,NA,35,7,13,19,0,0,17,5
-2026-11-17,09,Bayern,Erwachsene,ERWACHSENE,130,15,0,1948,301,375,292,NA,NA,59,12,14,44,1,0,20,7
+2026-11-17,09,Bayern,Erwachsene,ERWACHSENE,130,15,0,1948,301,375,292,NA,NA,59,12,14,45,1,0,20,7
 2026-11-17,10,Saarland,Erwachsene,ERWACHSENE,8,1,1,86,14,27,27,NA,NA,3,1,0,4,0,0,1,0
 2026-11-17,11,Berlin,Erwachsene,ERWACHSENE,33,9,1,465,86,247,90,NA,NA,18,6,0,9,0,0,5,2
 2026-11-17,12,Brandenburg,Erwachsene,ERWACHSENE,22,0,0,179,61,80,54,NA,NA,16,1,1,4,0,0,2,0
@@ -38951,7 +38951,7 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-11-18,06,Hessen,Erwachsene,ERWACHSENE,44,3,0,789,109,230,102,NA,NA,16,4,7,15,0,0,10,3
 2026-11-18,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,4,0,418,61,170,75,NA,NA,11,9,4,11,0,0,11,7
 2026-11-18,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,1,4,1022,205,667,218,NA,NA,36,8,14,18,0,0,19,5
-2026-11-18,09,Bayern,Erwachsene,ERWACHSENE,130,12,3,1965,282,375,297,NA,NA,60,12,13,44,1,0,20,6
+2026-11-18,09,Bayern,Erwachsene,ERWACHSENE,130,12,3,1965,282,375,297,NA,NA,60,12,13,45,1,0,20,6
 2026-11-18,10,Saarland,Erwachsene,ERWACHSENE,8,1,0,82,18,27,27,NA,NA,3,1,0,4,0,0,1,0
 2026-11-18,11,Berlin,Erwachsene,ERWACHSENE,33,10,1,462,95,246,88,NA,NA,19,5,1,8,0,0,4,1
 2026-11-18,12,Brandenburg,Erwachsene,ERWACHSENE,22,0,0,182,58,80,55,NA,NA,15,1,2,4,0,0,2,1
@@ -38959,19 +38959,35 @@ datum,bundesland_id,bundesland_name,behandlungsgruppe,behandlungsgruppe_level_2,
 2026-11-18,14,Sachsen,Erwachsene,ERWACHSENE,56,2,0,673,129,320,129,NA,NA,27,6,5,18,1,0,8,6
 2026-11-18,15,Sachsen-Anhalt,Erwachsene,ERWACHSENE,29,4,0,457,68,176,67,NA,NA,15,4,3,7,1,0,5,4
 2026-11-18,16,Thüringen,Erwachsene,ERWACHSENE,30,2,0,411,92,206,85,NA,NA,12,3,3,12,0,0,5,3
-2026-11-19,01,Schleswig-Holstein,Erwachsene,ERWACHSENE,20,2,NA,404,69,257,65,NA,NA,12,3,3,2,0,0,5,2
-2026-11-19,02,Hamburg,Erwachsene,ERWACHSENE,14,0,NA,240,44,145,42,NA,NA,7,1,2,3,0,0,3,1
-2026-11-19,03,Niedersachsen,Erwachsene,ERWACHSENE,48,5,NA,575,107,332,111,NA,NA,21,6,7,13,0,0,11,4
-2026-11-19,04,Bremen,Erwachsene,ERWACHSENE,8,1,NA,111,3,47,3,NA,NA,3,0,4,1,0,0,4,0
-2026-11-19,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,162,12,NA,2275,395,846,382,NA,NA,72,23,20,44,1,0,24,19
-2026-11-19,06,Hessen,Erwachsene,ERWACHSENE,45,5,NA,784,123,232,117,NA,NA,16,3,8,16,0,0,10,3
-2026-11-19,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,4,NA,410,70,172,81,NA,NA,13,8,4,10,0,0,10,7
-2026-11-19,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,5,NA,1014,212,670,228,NA,NA,34,10,13,19,0,0,21,6
-2026-11-19,09,Bayern,Erwachsene,ERWACHSENE,130,14,NA,1976,276,379,302,NA,NA,59,13,13,44,1,0,20,7
-2026-11-19,10,Saarland,Erwachsene,ERWACHSENE,8,0,NA,81,19,29,29,NA,NA,3,1,0,4,0,0,1,0
-2026-11-19,11,Berlin,Erwachsene,ERWACHSENE,33,9,NA,460,95,247,76,NA,NA,17,6,2,8,0,0,5,4
-2026-11-19,12,Brandenburg,Erwachsene,ERWACHSENE,22,0,NA,183,59,80,51,NA,NA,16,1,1,4,0,0,2,0
-2026-11-19,13,Mecklenburg-Vorpommern,Erwachsene,ERWACHSENE,19,0,NA,300,61,125,67,NA,NA,7,3,2,7,0,0,3,2
-2026-11-19,14,Sachsen,Erwachsene,ERWACHSENE,56,2,NA,655,146,321,134,NA,NA,27,7,4,18,1,0,8,6
-2026-11-19,15,Sachsen-Anhalt,Erwachsene,ERWACHSENE,29,3,NA,448,78,172,70,NA,NA,14,5,3,7,1,0,4,5
-2026-11-19,16,Thüringen,Erwachsene,ERWACHSENE,30,1,NA,418,79,206,81,NA,NA,12,3,3,12,0,0,5,3
+2026-11-19,01,Schleswig-Holstein,Erwachsene,ERWACHSENE,20,2,0,404,69,257,65,NA,NA,12,3,3,2,0,0,5,2
+2026-11-19,02,Hamburg,Erwachsene,ERWACHSENE,14,0,0,240,44,145,42,NA,NA,7,1,2,3,0,0,3,1
+2026-11-19,03,Niedersachsen,Erwachsene,ERWACHSENE,48,5,1,575,107,332,111,NA,NA,21,6,7,13,0,0,11,4
+2026-11-19,04,Bremen,Erwachsene,ERWACHSENE,8,1,0,111,3,47,3,NA,NA,3,0,4,1,0,0,4,0
+2026-11-19,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,162,12,0,2275,395,846,382,NA,NA,72,23,20,44,1,0,24,19
+2026-11-19,06,Hessen,Erwachsene,ERWACHSENE,45,5,0,784,123,232,117,NA,NA,16,3,8,16,0,0,10,3
+2026-11-19,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,4,0,410,70,172,81,NA,NA,13,8,4,10,0,0,10,7
+2026-11-19,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,5,0,1014,212,670,228,NA,NA,34,10,13,19,0,0,21,6
+2026-11-19,09,Bayern,Erwachsene,ERWACHSENE,130,14,1,1976,276,379,302,NA,NA,59,13,13,45,1,0,20,7
+2026-11-19,10,Saarland,Erwachsene,ERWACHSENE,8,0,0,81,19,29,29,NA,NA,3,1,0,4,0,0,1,0
+2026-11-19,11,Berlin,Erwachsene,ERWACHSENE,33,9,0,460,95,247,76,NA,NA,17,6,2,8,0,0,5,4
+2026-11-19,12,Brandenburg,Erwachsene,ERWACHSENE,22,0,0,183,59,80,51,NA,NA,16,1,1,4,0,0,2,0
+2026-11-19,13,Mecklenburg-Vorpommern,Erwachsene,ERWACHSENE,19,0,0,300,61,125,67,NA,NA,7,3,2,7,0,0,3,2
+2026-11-19,14,Sachsen,Erwachsene,ERWACHSENE,56,2,0,655,146,321,134,NA,NA,27,7,4,18,1,0,8,6
+2026-11-19,15,Sachsen-Anhalt,Erwachsene,ERWACHSENE,29,3,0,448,78,172,70,NA,NA,14,5,3,7,1,0,4,5
+2026-11-19,16,Thüringen,Erwachsene,ERWACHSENE,30,1,0,418,79,206,81,NA,NA,12,3,3,12,0,0,5,3
+2026-11-20,01,Schleswig-Holstein,Erwachsene,ERWACHSENE,20,2,NA,401,71,257,66,NA,NA,12,4,2,2,0,0,5,2
+2026-11-20,02,Hamburg,Erwachsene,ERWACHSENE,14,0,NA,248,35,146,35,NA,NA,7,1,2,3,0,0,2,1
+2026-11-20,03,Niedersachsen,Erwachsene,ERWACHSENE,48,3,NA,593,98,326,100,NA,NA,23,7,5,12,0,0,10,5
+2026-11-20,04,Bremen,Erwachsene,ERWACHSENE,8,1,NA,112,2,47,1,NA,NA,2,1,4,1,0,0,5,0
+2026-11-20,05,Nordrhein-Westfalen,Erwachsene,ERWACHSENE,161,14,NA,2277,381,839,374,NA,NA,69,23,22,44,1,0,25,19
+2026-11-20,06,Hessen,Erwachsene,ERWACHSENE,45,3,NA,807,109,230,109,NA,NA,16,3,8,16,0,0,10,3
+2026-11-20,07,Rheinland-Pfalz,Erwachsene,ERWACHSENE,35,3,NA,405,72,180,83,NA,NA,12,7,4,12,0,0,10,5
+2026-11-20,08,Baden-Württemberg,Erwachsene,ERWACHSENE,77,5,NA,1029,199,666,220,NA,NA,32,13,12,19,0,0,21,7
+2026-11-20,09,Bayern,Erwachsene,ERWACHSENE,129,15,NA,1947,285,386,306,NA,NA,59,11,14,44,1,0,20,6
+2026-11-20,10,Saarland,Erwachsene,ERWACHSENE,8,0,NA,80,16,31,25,NA,NA,2,1,0,5,0,0,1,0
+2026-11-20,11,Berlin,Erwachsene,ERWACHSENE,33,8,NA,459,95,246,75,NA,NA,18,6,1,8,0,0,5,3
+2026-11-20,12,Brandenburg,Erwachsene,ERWACHSENE,22,1,NA,183,59,80,50,NA,NA,16,1,1,4,0,0,2,0
+2026-11-20,13,Mecklenburg-Vorpommern,Erwachsene,ERWACHSENE,19,0,NA,300,60,126,70,NA,NA,7,4,1,7,0,0,3,2
+2026-11-20,14,Sachsen,Erwachsene,ERWACHSENE,56,1,NA,671,129,324,126,NA,NA,28,5,5,18,1,0,8,5
+2026-11-20,15,Sachsen-Anhalt,Erwachsene,ERWACHSENE,29,2,NA,459,68,172,72,NA,NA,14,5,3,7,1,0,4,4
+2026-11-20,16,Thüringen,Erwachsene,ERWACHSENE,30,1,NA,405,96,201,89,NA,NA,13,4,3,10,0,0,5,3
