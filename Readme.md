@@ -14,15 +14,16 @@ Dokumentation
 <br> 
 
 **Beitragende**   
-[Fachgebiet MF 4](https://www.rki.de/mf4)&sup1;, & [Fachgebiet IT 4](https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/IT4/it4_org.html?nn=16777926)&sup1;
+Martina Fischer&sup1;, Kerstin Bischoff&sup1;, Wera Berge&sup1;, & Janina Esins&sup2;
 
-&emsp;&emsp;&sup1; [Robert Koch-Institut](https://www.rki.de/)
+&emsp;&emsp;&sup1; [Robert Koch-Institut](https://www.rki.de/) | [Fachgebiet MF 4](https://www.rki.de/mf4)  
+&emsp;&emsp;&sup2; [Robert Koch-Institut](https://www.rki.de/) | [Fachgebiet IT 4](https://www.rki.de/it4)
 
 <br> 
 
 **Zitieren**  
 <!-- CITATION_START: {"citation_style": "apa", "markdown_style": "plain"} -->
-Robert Koch-Institut. (2026). Intensivkapazitäten und COVID-19-Intensivbettenbelegung in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.24533275](https://doi.org/10.5281/zenodo.24533275)
+Robert Koch-Institut. (2026). Intensivkapazitäten und Intensivbettenbelegung in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.24564380](https://doi.org/10.5281/zenodo.24564380)
 <!-- CITATION_END -->
 
 
@@ -214,7 +215,7 @@ Zur Erhöhung der Auffindbarkeit sind die bereitgestellten Daten mit Metadaten b
 
 > [Metadaten/](https://github.com/robert-koch-institut/Intensivkapazitaeten_und_Intensivbettenbelegung_in_Deutschland/tree/main/Metadaten/) 
 
-Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](https://zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/Intensivkapazitaeten_und_Intensivbettenbelegung_in_Deutschland/blob/main/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter [https://developers.zenodo.org/#representation](https://developers.zenodo.org/#representation) nachlesbar.
+Versionierung und DOI-Vergabe erfolgen über [Zenodo.org](https://zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/Intensivkapazitaeten_und_Intensivbettenbelegung_in_Deutschland/blob/main/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter [https://developers.zenodo.org/#representation](https://developers.zenodo.org/#representation) nachlesbar.
  
 > [Metadaten/zenodo.json](https://github.com/robert-koch-institut/Intensivkapazitaeten_und_Intensivbettenbelegung_in_Deutschland/blob/main/Metadaten/zenodo.json)  
 
@@ -262,5 +263,5 @@ Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [Git
 
 Der Datensatz "Intensivkapazitäten und Intensivbettenbelegung in Deutschland" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de).  
 
-Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, dass jede Person das Recht hat, die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/Intensivkapazitaeten_und_Intensivbettenbelegung_in_Deutschland/blob/main/LICENSE) bzw. [LIZENZ](https://github.com/robert-koch-institut/Intensivkapazitaeten_und_Intensivbettenbelegung_in_Deutschland/blob/main/LIZENZ) Datei des Datensatzes.  
+Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, dass jede Person das Recht hat, die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/Intensivkapazitaeten_und_Intensivbettenbelegung_in_Deutschland/blob/main/LICENSE)- bzw. [LIZENZ](https://github.com/robert-koch-institut/Intensivkapazitaeten_und_Intensivbettenbelegung_in_Deutschland/blob/main/LIZENZ)-Datei des Datensatzes.  
 <!-- FOOTER_END -->
