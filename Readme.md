@@ -197,7 +197,7 @@ Entfernte Variablen:
 
 Diese historischen Daten inklusive der zugehörigen Table Schema-Dateien (`Metadaten/schemas/`) liegen im [Archiv](https://github.com/robert-koch-institut/Intensivkapazitaeten_und_Intensivbettenbelegung_in_Deutschland/blob/main/Archiv) mit folgendem Namensmuster vor:
 
-> [Archiv/2022-09_2026-MM_Lage_COVID-19.zip](https://github.com/robert-koch-institut/Intensivkapazitaeten_und_Intensivbettenbelegung_in_Deutschland/blob/main/Archiv/2022-09_2026-MM_Lage_COVID-19.zip)
+> [Archiv/2022-09_2026-11_Lage_COVID-19.zip](https://github.com/robert-koch-institut/Intensivkapazitaeten_und_Intensivbettenbelegung_in_Deutschland/blob/main/Archiv/2022-09_2026-11_Lage_COVID-19.zip)
 
 Das Archiv enthält die .csv-Dateien mit dem letzten Datenstand im ursprünglichen Format sowie die zugehörigen Schema-Dateien, sodass die historischen Variablendefinitionen weiterhin nachvollziehbar bleiben. Die Variablenbeschreibungen für diese archivierten Daten entsprechen den in früheren README-Versionen dokumentierten Definitionen.  
 
