@@ -5,14 +5,14 @@ PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 PREFIX vcard: <http://www.w3.org/2006/vcard/ns#>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
-<https://zenodo.org/record/24564380>
+<https://zenodo.org/record/24590081>
     a dcat:Dataset ;
-    dcatde:contributor <https://zenodo.org/record/24564380#author-1> ;
+    dcatde:contributor <https://zenodo.org/record/24590081#author-1> ;
     dcatde:contributorID <http://dcat-ap.de/def/contributors/robertKochInstitut> ;
     dct:description """<p>Der Datensatz "Intensivkapazitäten und Intensivbettenbelegung in Deutschland" des Robert Koch-Instituts dokumentiert seit April 2020 die tägliche intensivmedizinische Versorgungslage in Deutschland. Basierend auf Meldungen aller intensivbettenführenden Akutkrankenhäuser in Deutschland erfasst das DIVI-Intensivregister Echtzeitdaten zu betreibbaren und belegten Intensivbetten, zu freien invasiven Beatmungskapazitäten und zur Betriebssituation im Rahmen der Akutversorgung. Die Erhebung differenziert nach Behandlungsschwerpunkt (Erwachsene, Kinder) und Regionen. Die Daten stehen aggregiert auf Bundes- und Landesebene zur Verfügung. Damit dient der Datensatz als Grundlage für die Überwachung und Koordination von Behandlungskapazitäten, sowie für politische Entscheidungsprozesse in Krisenzeiten und darüber hinaus.</p>
 <p>Detailliertere, bislang COVID-19-spezifische Kennzahlen (u. a. COVID-19-Fallzahlen, Altersstruktur, Versorgungsstufe, Versorgungsart) sowie die Aggregation auf Landkreisebene, die in früheren Versionen dieses Datensatzes veröffentlicht wurden, werden seit der Umstellung nicht mehr fortlaufend bereitgestellt. Die archivierten historischen Daten stehen weiterhin zur Verfügung.</p>""" ;
-    dct:issued "2026-11-26T16:14:47+01:00"^^xsd:dateTime ;
-    dct:modified "2026-11-26T16:14:47+01:00"^^xsd:dateTime ;
+    dct:issued "2026-11-27T14:30:11+01:00"^^xsd:dateTime ;
+    dct:modified "2026-11-27T14:30:11+01:00"^^xsd:dateTime ;
     dct:publisher
         [
             a foaf:Organization ;
@@ -31,9 +31,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
             vcard:hasStreetAddress "Nordufer 20" ;
         ] ;
     dcat:distribution
-        <https://zenodo.org/record/24564380#dist-01-github> ,
-        <https://zenodo.org/record/24564380#dist-02-zenodo> ,
-        <https://zenodo.org/record/24564380#dist-03-zenodo-documentation> ;
+        <https://zenodo.org/record/24590081#dist-01-github> ,
+        <https://zenodo.org/record/24590081#dist-02-zenodo> ,
+        <https://zenodo.org/record/24590081#dist-03-zenodo-documentation> ;
     dcat:keyword
         "Beatmung, künstliche" ,
         "Bed Occupancy" ,
@@ -64,44 +64,44 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         <http://publications.europa.eu/resource/authority/data-theme/TECH> ;
 .
 
-<https://zenodo.org/record/24564380#author-1>
+<https://zenodo.org/record/24590081#author-1>
     a foaf:Organization ;
     foaf:name "Robert Koch-Institut" ;
 .
 
-<https://zenodo.org/record/24564380#dist-01-github>
+<https://zenodo.org/record/24590081#dist-01-github>
     a dcat:Distribution ;
-    dcatde:licenseAttributionByText "Robert Koch-Institut. (2026). Intensivkapazitäten und Intensivbettenbelegung in Deutschland [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24564380" ;
+    dcatde:licenseAttributionByText "Robert Koch-Institut. (2026). Intensivkapazitäten und Intensivbettenbelegung in Deutschland [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24590081" ;
     dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
     dct:description "GitHub ist eine soziales Netzwerk und Plattform, die es ermöglicht, Code-Repositories und Datensätze zu hosten, zu verwalten und zu teilen. Es bietet eine Vielzahl von Funktionen wie Versionskontrolle, Fehlerverfolgung, Zusammenarbeit und Teammanagement. GitHub ist eine der bekanntesten und am häufigsten verwendeten Plattformen für die gemeinsame Entwicklung von Software und Code, insbesondere für Open-Source-Projekte." ;
     dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
     dct:license <http://dcat-ap.de/def/licenses/cc-by/4.0> ;
-    dct:modified "2026-11-26T16:14:47+01:00"^^xsd:dateTime ;
+    dct:modified "2026-11-27T14:30:11+01:00"^^xsd:dateTime ;
     dct:title "Github - Intensivkapazitäten und Intensivbettenbelegung in Deutschland" ;
     dcat:accessURL <https://github.com/robert-koch-institut/Intensivkapazitaeten_und_Intensivbettenbelegung_in_Deutschland> ;
 .
 
-<https://zenodo.org/record/24564380#dist-02-zenodo>
+<https://zenodo.org/record/24590081#dist-02-zenodo>
     a dcat:Distribution ;
-    dcatde:licenseAttributionByText "Robert Koch-Institut. (2026). Intensivkapazitäten und Intensivbettenbelegung in Deutschland [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24564380" ;
+    dcatde:licenseAttributionByText "Robert Koch-Institut. (2026). Intensivkapazitäten und Intensivbettenbelegung in Deutschland [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24590081" ;
     dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
     dct:description "Zenodo ist eine europäische Plattform, die es Forschern, Wissenschaftlern und anderen Personen ermöglicht, Forschungsdaten, Publikationen, Präsentationen und andere wissenschaftliche Inhalte kostenlos zu teilen und zu veröffentlichen. Eine der Hauptstärken von Zenodo ist die Bereitstellung der Daten nach den FAIR Prinzipien, Daten sind langzeitarchiviert und wissenschaftlich zitierbar, um den Datenaustausch und die Zusammenarbeit zwischen Forschern zu erleichtern." ;
     dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
     dct:license <http://dcat-ap.de/def/licenses/cc-by/4.0> ;
-    dct:modified "2026-11-26T16:14:47+01:00"^^xsd:dateTime ;
+    dct:modified "2026-11-27T14:30:11+01:00"^^xsd:dateTime ;
     dct:title "Zenodo - Intensivkapazitäten und Intensivbettenbelegung in Deutschland" ;
-    dcat:accessURL <https://zenodo.org/record/24564380> ;
+    dcat:accessURL <https://zenodo.org/record/24590081> ;
 .
 
-<https://zenodo.org/record/24564380#dist-03-zenodo-documentation>
+<https://zenodo.org/record/24590081#dist-03-zenodo-documentation>
     a dcat:Distribution ;
-    dcatde:licenseAttributionByText "Robert Koch-Institut. (2026). Intensivkapazitäten und Intensivbettenbelegung in Deutschland [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24564380" ;
+    dcatde:licenseAttributionByText "Robert Koch-Institut. (2026). Intensivkapazitäten und Intensivbettenbelegung in Deutschland [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24590081" ;
     dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
     dct:description "Die Datensatzdokumentation enthält Informationen und Hinweise zum Entstehungskontext, dem Aufbau und der Nachnutzung der im Datensatz 'Intensivkapazitäten und Intensivbettenbelegung in Deutschland' bereitgestellten Daten" ;
     dct:format <http://publications.europa.eu/resource/authority/file-type/PDF> ;
     dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
     dct:license <http://dcat-ap.de/def/licenses/cc-by/4.0> ;
-    dct:modified "2026-11-26T16:14:47+01:00"^^xsd:dateTime ;
+    dct:modified "2026-11-27T14:30:11+01:00"^^xsd:dateTime ;
     dct:title "[Dokumentation]_Intensivkapazitaeten_und_Intensivbettenbelegung_in_Deutschland.pdf" ;
-    dcat:accessURL <https://zenodo.org/record/24564380/files/[Dokumentation]_Intensivkapazitaeten_und_Intensivbettenbelegung_in_Deutschland.pdf> ;
+    dcat:accessURL <https://zenodo.org/record/24590081/files/[Dokumentation]_Intensivkapazitaeten_und_Intensivbettenbelegung_in_Deutschland.pdf> ;
 .

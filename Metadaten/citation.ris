@@ -3,8 +3,8 @@ AB  - Der Datensatz "Intensivkapazitäten und Intensivbettenbelegung in Deutschl
 
 Detailliertere, bislang COVID-19-spezifische Kennzahlen (u. a. COVID-19-Fallzahlen, Altersstruktur, Versorgungsstufe, Versorgungsart) sowie die Aggregation auf Landkreisebene, die in früheren Versionen dieses Datensatzes veröffentlicht wurden, werden seit der Umstellung nicht mehr fortlaufend bereitgestellt. Die archivierten historischen Daten stehen weiterhin zur Verfügung.
 AU  - Robert Koch-Institut
-DA  - 2026-11-26
-DO  - 10.5281/zenodo.24564380
+DA  - 2026-11-27
+DO  - 10.5281/zenodo.24590081
 KW  - COVID-19
 KW  - SARS-CoV-2
 KW  - Beatmung, künstliche
@@ -30,6 +30,6 @@ KW  - Epidemiology
 PY  - 2026
 TI  - Intensivkapazitäten und Intensivbettenbelegung in Deutschland
 UR  - https://robert-koch-institut.github.io/Intensivkapazitaeten_und_Intensivbettenbelegung_in_Deutschland
-ET  - 2026-11-26
+ET  - 2026-11-27
 N1  - License: CC-BY-4.0
 ER  -
