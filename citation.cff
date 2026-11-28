@@ -16,7 +16,7 @@ abstract: "Der Datensatz \"Intensivkapazitäten und Intensivbettenbelegung in De
   \ die in früheren Versionen dieses Datensatzes veröffentlicht wurden, werden seit\
   \ der Umstellung nicht mehr fortlaufend bereitgestellt. Die archivierten historischen\
   \ Daten stehen weiterhin zur Verfügung."
-date-released: '2026-11-27'
+date-released: '2026-11-28'
 keywords:
   - COVID-19
   - SARS-CoV-2
@@ -43,8 +43,8 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/Intensivkapazitaeten_und_Intensivbettenbelegung_in_Deutschland
 license: CC-BY-4.0
-doi: 10.5281/zenodo.24590081
-version: '2026-11-27'
+doi: 10.5281/zenodo.24628657
+version: '2026-11-28'
 authors:
   - name: Robert Koch-Institut
     email: info@rki.de
